@@ -1,12 +1,12 @@
-title:            The Primer
-description:      Portland Code School's Web Development Primer
-url:              https://portlandcodeschool.github.io/primer  # production
+title:            iOS
+description:      Portland Code School's Mobile Development with iOS
+url:              https://portlandcodeschool.github.io/ios  # production
 # url:              http://0.0.0.0:4000            # for local testing
-disqus_shortname: pcsprimer
+disqus_shortname: pcsios
 
 owner:
-  name:           Web Development Primer
-  avatar:         https://portlandcodeschool.github.io/primer/images/pcs-logo.png
+  name:           Mobile Development with iOS
+  avatar:         https://portlandcodeschool.github.io/ios/images/pcs-logo.png
   bio:
   email:          info@portlandcodeschool.com
   twitter:        PDXCodeSchool
