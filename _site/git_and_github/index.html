@@ -1,0 +1,443 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Git and GitHub: Collaborating like a pro &#8211; The Primer</title>
+<meta name="description" content="Master the "blocking and tackling" of the web developer's most indispensable, inscrutable tool: Git. Learn how to collaborate with teammates using GitHub.">
+<meta name="keywords" content="">
+<!-- Twitter Cards -->
+	
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:image" content=
+			
+				
+						"http://0.0.0.0:4000/images/"
+				
+			
+		>
+	
+	<meta name="twitter:title" content="Git and GitHub: Collaborating like a pro">
+	<meta name="twitter:description" content="Master the "blocking and tackling" of the web developer's most indispensable, inscrutable tool: Git. Learn how to collaborate with teammates using GitHub.">
+	<meta name="twitter:creator" content="@PDXCodeSchool">
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Git and GitHub: Collaborating like a pro">
+<meta property="og:description" content="Master the "blocking and tackling" of the web developer's most indispensable, inscrutable tool: Git. Learn how to collaborate with teammates using GitHub.">
+<meta property="og:url" content="http://0.0.0.0:4000/git_and_github/">
+<meta property="og:site_name" content="The Primer">
+
+
+
+
+
+<link rel="canonical" href="http://0.0.0.0:4000/git_and_github/">
+<link href="http://0.0.0.0:4000/feed.xml" type="application/atom+xml" rel="alternate" title="The Primer Feed">
+<link rel="author" href="http://plus.google.com/+http://plus.google.com/communities/109115545781652920966?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'> -->
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://0.0.0.0:4000/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://0.0.0.0:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://0.0.0.0:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://0.0.0.0:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://0.0.0.0:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://0.0.0.0:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+
+	<div class="site-name">
+		<!-- <a href="http://0.0.0.0:4000">The Primer</a> -->
+	</div>
+	<!-- /.site-name -->
+
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://0.0.0.0:4000/" >About the course</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/syllabus/" >Syllabus</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/course/" >Curriculum</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/resources/" >Resources</a></li>
+		        
+				<li><a href="http://portlandcodeschool.com" target="_blank">PCS Home</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://0.0.0.0:4000/git_and_github/" rel="bookmark" title="Git and GitHub: Collaborating like a pro">Git and GitHub: Collaborating like a pro</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <h1 id="goals">Goals</h1>
+<ol>
+  <li>Set up your git configuration for use with GitHub</li>
+  <li>Know why web developers use Git and GitHub</li>
+  <li>Initialize a Git repository</li>
+  <li>Stage changes to be committed</li>
+  <li>Know how and when to commit changes</li>
+  <li>Use branching and merging to collaborate on projects</li>
+  <li>Initiate pull requests</li>
+  <li>Resolve merge conflicts</li>
+</ol>
+
+<h1 id="prep-work">Prep work</h1>
+<p>Estimated time: 15 minutes</p>
+
+<ol>
+  <li>Work through <a href="http://try.github.io">Try Git</a>.</li>
+</ol>
+
+<h1 id="setting-up-git-and-github">Setting up Git and GitHub</h1>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>Set your username and email</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git config --global user.name <span class="s2">&quot;jane doe&quot;</span>
+<span class="nv">$ </span>git config --global user.email janedoe@example.com</code></pre></div>
+
+<p>Some more useful settings:</p>
+
+<div class="highlight"><pre><code class="sh">git config --global push.default current
+git config --global merge.defaultToUpstream <span class="nb">true</span>
+git config --global core.editor <span class="s2">&quot;subl -w&quot;</span></code></pre></div>
+
+<p>Verify your details are set with the <code>-l</code> flag (“l” for “list”)</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git config --global -l</code></pre></div>
+
+<p>Set up your SSH key (this will allow you to push your repo to GitHub without entering your username and password at the command line)</p>
+
+<h3 id="step-1">Step 1:</h3>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>bash -c <span class="s2">&quot;$(curl -fsSL http://bit.ly/pcs-git)&quot;</span></code></pre></div>
+
+<h3 id="step-2">Step 2:</h3>
+
+<p>Go to <a href="http://github.com/settings/ssh">http://github.com/settings/ssh</a> (make sure you’ve signed in)</p>
+
+<p>Add your ssh key by clicking on “Add SSH key”</p>
+
+<p><img src="http://0.0.0.0:4000/images/githubssh1.png" alt="" /></p>
+
+<p>And pasting what’s on your clipboard into the text field below</p>
+
+<p><img src="http://0.0.0.0:4000/images/githubssh2.png" alt="" /></p>
+
+<p>To test your ssh setup, enter</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>ssh -T git@github.com</code></pre></div>
+
+<p>You should see the following:</p>
+
+<div class="highlight"><pre><code class="text">Hi &lt;username&gt;! You&#39;ve successfuly authenticated, but GitHub 
+does not provide shell access.</code></pre></div>
+
+<p>If that <code>&lt;username&gt;</code> is yours, you’ve successfully set up your SSH key with GitHub.</p>
+
+<h1 id="overview-of-git">Overview of Git</h1>
+
+<h2 id="some-concepts">Some concepts</h2>
+
+<ul>
+  <li><strong>working directory</strong>: your project’s directory</li>
+  <li><strong>index / staging area</strong>: where you collect the changes you’re about to commit to the repository<br />
+  Examples:
+    <ul>
+      <li><code>git add stylesheet2.css stylesheet2.css</code> (stage css files for a commit of styling changes)</li>
+      <li><code>git add script.js</code> (stage a javascript file for a commit)</li>
+      <li><code>git add .</code> (stage all modified files for a commit)</li>
+    </ul>
+  </li>
+  <li><strong>repository (‘repo’)</strong>: where your project’s version history is stored
+    <ul>
+      <li><code>git commit -m "Update styling to match v2 wireframes"</code></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="a-solo-workflow">A Solo Workflow</h2>
+
+<ol>
+  <li>Create a repo on GitHub</li>
+  <li><strong>clone</strong> the repo
+    <ul>
+      <li><code>git clone &lt;SSH url from the repo's page on GitHub&gt;</code><br />
+ <img src="http://0.0.0.0:4000/images/repo-sshurl.jpg" alt="" /></li>
+    </ul>
+  </li>
+  <li>Add a branch for yourself
+    <ul>
+      <li><code>git checkout -b &lt;branch name&gt;</code></li>
+    </ul>
+  </li>
+  <li>Make changes on your branch
+    <ul>
+      <li>e.g., to add a signup form to your site</li>
+    </ul>
+  </li>
+  <li>Add files to track
+    <ul>
+      <li><code>git add &lt;filenames or .&gt;</code> </li>
+    </ul>
+  </li>
+  <li><strong>commit</strong> your changes
+    <ul>
+      <li><code>git commit -m "Add a form"</code> (the <code>-m</code> flag means you’re setting the commit message to <code>"Add a form"</code>)</li>
+      <li>Note the imperative form of the message. This is <a href="https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages">by convention</a>.</li>
+      <li>Eventually, as your git-fu grows, you’ll want to start writing <a href="http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message">more complete commit messages</a>, which look something more or less like this:</li>
+    </ul>
+  </li>
+</ol>
+
+<div class="highlight"><pre><code class="text">50-character-max subject line
+
+72-character-max wrapped longer description. This should answer:
+
+* Why was this change necessary?
+* How does it address the problem?
+* Are there any side effects?
+
+Include a url to the ticket, if any.</code></pre></div>
+
+<p>But for now just use a descriptive one-liner using the <code>-m</code> flag.</p>
+
+<h2 id="git--github-for-collaboration">Git + GitHub for Collaboration</h2>
+
+<ol>
+  <li>Create a repo on GitHub</li>
+  <li>Authorize collaborators (if you’re the admin)</li>
+  <li>All collaborators <strong>clone</strong> the repo</li>
+  <li>Each person creates a new <strong>feature branch</strong> for a given task or feature</li>
+  <li>Each person <strong>commits</strong> their changes locally</li>
+  <li>When a feature is complete, you <strong>push</strong> to GitHub and issue a <strong>pull request</strong></li>
+  <li>A “pull request” is where your partners review your work, discuss it, and the project admin <strong>merges</strong> it into the master branch if approved</li>
+</ol>
+
+<h2 id="basic-git-commands">5. Basic git commands</h2>
+<p>### Getting and creating projects</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git init
+<span class="nv">$ </span>git clone</code></pre></div>
+
+<h3 id="staging-and-commiting">Staging and commiting</h3>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git add &lt;files to stage so they can be committed&gt;
+<span class="nv">$ </span>git commit -m <span class="s2">&quot;&lt;commit message&gt;&quot;</span></code></pre></div>
+
+<h3 id="merging-and-branching">Merging and branching</h3>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git checkout -b &lt;branch name&gt;
+<span class="nv">$ </span>git branch
+<span class="nv">$ </span>git merge &lt;branch name&gt;</code></pre></div>
+
+<h3 id="pushing-and-pulling">Pushing and pulling</h3>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git push
+<span class="nv">$ </span>git pull</code></pre></div>
+
+<h3 id="viewing-current-status-and-past-history">Viewing current status and past history</h3>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>git status
+<span class="nv">$ </span>git log</code></pre></div>
+
+<p>[<a href="http://gitref.org">descriptions here</a>]</p>
+
+
+
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+        </div>
+<!--         <p class="byline"><strong>Git and GitHub: Collaborating like a pro</strong> was published on <time datetime="2014-07-26T02:00:00-07:00">July 26, 2014</time> by <a href="http://0.0.0.0:4000/about" title="About Web Development Primer">Web Development Primer</a>.</p>
+ -->      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+<!--   <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://0.0.0.0:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://0.0.0.0:4000/after_the_course/" title="Next steps: JavaScript, jQuery, Freelancing">Next steps: JavaScript, jQuery, Freelancing</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/capstone_project_and_presentation/" title="Capstone Project and Presentation">Capstone Project and Presentation</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/the_command_line/" title="UNIX for Humans: The command line is your friend">UNIX for Humans: The command line is your friend</a></li>
+    
+    </ul>
+    <hr />
+  </div> -->
+  <!-- /.related-articles -->
+  <footer>
+    
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://0.0.0.0:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://0.0.0.0:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-52721224-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- May need to update Google Analytics support with this script -->
+<!-- <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52721224-1', 'auto');
+  ga('send', 'pageview');
+
+</script> -->
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'pcsprimer'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,632 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>HTML & CSS: The theoretical minimum &#8211; The Primer</title>
+<meta name="description" content="Start building a full-fledged website with HTML and CSS, the core technologies of the web.">
+<meta name="keywords" content="">
+<!-- Twitter Cards -->
+	
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:image" content=
+			
+				
+						"http://0.0.0.0:4000/images/"
+				
+			
+		>
+	
+	<meta name="twitter:title" content="HTML & CSS: The theoretical minimum">
+	<meta name="twitter:description" content="Start building a full-fledged website with HTML and CSS, the core technologies of the web.">
+	<meta name="twitter:creator" content="@PDXCodeSchool">
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="HTML & CSS: The theoretical minimum">
+<meta property="og:description" content="Start building a full-fledged website with HTML and CSS, the core technologies of the web.">
+<meta property="og:url" content="http://0.0.0.0:4000/beginning_html_and_css/">
+<meta property="og:site_name" content="The Primer">
+
+
+
+
+
+<link rel="canonical" href="http://0.0.0.0:4000/beginning_html_and_css/">
+<link href="http://0.0.0.0:4000/feed.xml" type="application/atom+xml" rel="alternate" title="The Primer Feed">
+<link rel="author" href="http://plus.google.com/+http://plus.google.com/communities/109115545781652920966?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'> -->
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://0.0.0.0:4000/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://0.0.0.0:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://0.0.0.0:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://0.0.0.0:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://0.0.0.0:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://0.0.0.0:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+
+	<div class="site-name">
+		<!-- <a href="http://0.0.0.0:4000">The Primer</a> -->
+	</div>
+	<!-- /.site-name -->
+
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://0.0.0.0:4000/" >About the course</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/syllabus/" >Syllabus</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/course/" >Curriculum</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/resources/" >Resources</a></li>
+		        
+				<li><a href="http://portlandcodeschool.com" target="_blank">PCS Home</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://0.0.0.0:4000/beginning_html_and_css/" rel="bookmark" title="HTML & CSS: The theoretical minimum">HTML & CSS: The theoretical minimum</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <h1 id="goals">Goals</h1>
+<ul>
+  <li>Name classes and ids semantically.</li>
+  <li>Style text.</li>
+  <li>Understand the box model.</li>
+  <li>Understand floating and positioning.</li>
+  <li>Know how and when to use the following HTML tags:
+    <ul>
+      <li><code>&lt;h1&gt;</code> to <code>&lt;h6&gt;</code></li>
+      <li><code>&lt;p&gt;</code>, <code>&lt;a&gt;</code>, and <code>&lt;img&gt;</code>, </li>
+      <li><code>&lt;ul&gt;</code>,<code>&lt;ol&gt;</code>, and <code>&lt;li&gt;</code></li>
+      <li><code>&lt;div&gt;</code>, <code>&lt;span&gt;</code></li>
+      <li><code>&lt;dl&gt;</code>, <code>&lt;dt&gt;</code>, and <code>&lt;dd&gt;</code></li>
+      <li><code>&lt;form&gt;</code>, <code>&lt;fieldset&gt;</code>, and <code>&lt;input&gt;</code> </li>
+    </ul>
+  </li>
+  <li>Use HTML5 elements semantically:
+    <ul>
+      <li><code>&lt;header&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;footer&gt;</code> </li>
+    </ul>
+  </li>
+  <li>View source on a web page and understand it.
+    <ul>
+      <li>Summon Web Inspector quickly (hint: use keyboard shortcuts).</li>
+    </ul>
+  </li>
+  <li>Quickly build a simple layout.</li>
+</ul>
+
+<h1 id="what-is-html-html5">What is HTML? HTML5?</h1>
+
+<p><strong>HTML</strong> is the markup language that defines the structure of your web page. 
+If a web page were a house, HTML tags would be the 2x4s you assemble into the 
+house’s frame. All the content on your page lives inside little “boxes” defined 
+by <em>HTML elements</em> (more on boxes and elements below).</p>
+
+<p><strong><em>Semantic</em> HTML</strong> refers, broadly, to HTML written in a way that is 
+expressive—that in some way <strong>describes its content</strong>—and, narrowly, to a 
+standardized set of semantic tags introduced with HTML5.</p>
+
+<p>It’s standard practice to, as much as possible, name CSS <code>class</code>es and <code>id</code>s so 
+that they describe the <strong>role</strong> of the content within the HTML element they’re 
+attached to. For example:</p>
+
+<h2 id="semantic-html-illustrated">Semantic HTML, illustrated</h2>
+
+<h3 id="unsemantic">Unsemantic:</h3>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;right-aligned&quot;</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;bold&quot;</span><span class="nt">&gt;</span>Smurf Movie Kinda Sucks<span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;body-text&quot;</span><span class="nt">&gt;</span>
+    Not surprisingly, this week&#39;s release of
+    <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">&quot;darkbold&quot;</span><span class="nt">&gt;</span>The Smurfs<span class="nt">&lt;/span&gt;</span> kinda sucks.
+  <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span></code></pre></div>
+
+<p>The above describes the formatting of each element’s content, not its role. 
+Among other problems, this isn’t future-proof. What if, in the future, you want 
+inline movie titles to be italicized rather than bolded? </p>
+
+<h3 id="bad-semantics">Bad Semantics:</h3>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;article&quot;</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;article-title&quot;</span><span class="nt">&gt;</span>Smurf Movie Kinda Sucks<span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;article-content&quot;</span><span class="nt">&gt;</span>
+    Not surprisingly, this week&#39;s release of
+    <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">&quot;movie-title&quot;</span><span class="nt">&gt;</span>The Smurfs<span class="nt">&lt;/span&gt;</span> kinda sucks.
+  <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span></code></pre></div>
+
+<p>This is semantic, but not preferred. HTML5 introduced tags that communicate the 
+above more succinctly.</p>
+
+<h3 id="good-semantics">Good Semantics:</h3>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;article&gt;</span>
+  <span class="nt">&lt;h1&gt;</span>Smurf Movie Kinda Sucks<span class="nt">&lt;/h1&gt;</span>
+  <span class="nt">&lt;p&gt;</span>
+    Not surprisingly, this week&#39;s release of
+    <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">&quot;movie-title&quot;</span><span class="nt">&gt;</span>The Smurfs<span class="nt">&lt;/span&gt;</span> kinda sucks.
+  <span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;/article&gt;</span></code></pre></div>
+
+<p><small>
+    Example borrowed from 
+    <a style="text-decoration: underline;" href="http://css-tricks.com/semantic-class-names">here</a>
+    —apologies to any <em>Smurfs</em> fans out there. 
+</small></p>
+
+<p>Ahh. So much easier on the eyes, right? Notice that this uses the semantic 
+<code>article</code> tag, which was introduced with HTML5. Prefer HTML5 tags wherever 
+possible—they’ll keep your code expressive while minimizing visual noise.</p>
+
+<p>Notice too that there are still cases where you’ll have to use the unsemantic 
+tags <code>&lt;div&gt;</code> and <code>&lt;span&gt;</code> semantically, with the aid of a well-named <code>class</code> or 
+<code>id</code>.</p>
+
+<h2 id="semantic-tags">Semantic Tags</h2>
+
+<p><code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;figure&gt;</code>, 
+<code>&lt;figcaption&gt;</code>, <code>&lt;footer&gt;</code>, <code>&lt;details&gt;</code>, <code>&lt;summary&gt;</code>, <code>&lt;mark&gt;</code>, <code>&lt;time&gt;</code> </p>
+
+<p>For some examples of use cases for each of these, see <a href="http://www.w3schools.com/html/html5_semantic_elements.asp">HTML5 Semantic Elements 
+(w3schools)</a>.</p>
+
+<h1 id="what-is-css">What is CSS?</h1>
+
+<p>CSS (Cascading Style Sheets) is the language used to add styling to your page. 
+Separating structure from style helps keep your markup clean and maintainable. </p>
+
+<p>It also means the same underlying HTML can be presented in radically different 
+ways just by swapping its stylesheet (check out <a href="http://www.csszengarden.com">CSS Zen Garden</a> to 
+see this beautifully illustrated).</p>
+
+<h2 id="basic-selectors">Basic Selectors</h2>
+
+<h3 id="the-tag-itself">1. The tag itself</h3>
+
+<div class="highlight"><pre><code class="css"><span class="nt">nav</span> <span class="p">{</span> <span class="o">...</span> <span class="p">}</span></code></pre></div>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;nav&gt;</span> ... <span class="nt">&lt;/nav&gt;</span></code></pre></div>
+
+<h3 id="id-selector-any-id-selector-can-only-be-used-once">2. <code>id</code> selector (any id selector can only be used once)</h3>
+
+<div class="highlight"><pre><code class="css"><span class="nf">#navigation</span> <span class="p">{</span> <span class="o">...</span> <span class="p">}</span></code></pre></div>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">&quot;navigation&quot;</span><span class="nt">&gt;</span> ... <span class="nt">&lt;/div&gt;</span></code></pre></div>
+
+<h3 id="class-selectors-can-be-used-multiple-times">3. <code>class</code> selectors (can be used multiple times)</h3>
+
+<div class="highlight"><pre><code class="css"><span class="nc">.box</span> <span class="p">{</span> <span class="o">...</span> <span class="p">}</span></code></pre></div>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;box&quot;</span><span class="nt">&gt;</span> ... <span class="nt">&lt;/div&gt;</span></code></pre></div>
+
+<h2 id="class-vs-id"><code>class</code> vs. <code>id</code></h2>
+
+<p>CSS classes and ids are just groupings of CSS rules. CSS classes are meant to 
+be used any number of times, but ids are unique—there can be only one id of a 
+given name on a page.</p>
+
+<h4 id="example">Example:</h4>
+
+<p>The following HTML </p>
+
+<div class="highlight"><pre><code class="html"><span class="c">&lt;!-- index.html --&gt;</span>
+<span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p</span> <span class="na">id=</span><span class="s">&quot;introduction&quot;</span> <span class="na">class=</span><span class="s">&quot;emphasized&quot;</span><span class="nt">&gt;</span>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+    <span class="nt">&lt;/p&gt;</span>
+    <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;emphasized&quot;</span><span class="nt">&gt;</span>
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+    <span class="nt">&lt;/p&gt;</span>
+    <span class="nt">&lt;p&gt;</span>
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+    <span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;/body&gt;</span></code></pre></div>
+
+<p>can be styled with CSS as follows:</p>
+
+<div class="highlight"><pre><code class="css"><span class="c">/* stylesheet.css */</span>
+ <span class="nt">body</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">normal</span><span class="p">;</span> <span class="p">}</span>     <span class="c">/* by tag */</span>
+ <span class="nf">#intro</span> <span class="p">{</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span>     <span class="c">/* by id */</span>
+ <span class="nc">.emphasis</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span><span class="p">;</span> <span class="p">}</span>  <span class="c">/* by class */</span></code></pre></div>
+
+<h2 id="interlude-some-nomenclature">Interlude: Some nomenclature</h2>
+
+<p>We’ve been throwing around <em>elements</em> and <em>attributes</em> and <em>rules</em> without really
+defining what we’re talking about. Let’s consolidate some of this terminology by 
+way of an illustration:</p>
+
+<h3 id="anatomy-of-an-html-element">Anatomy of an HTML element</h3>
+
+<div class="highlight"><pre><code class="html"><span class="nt">&lt;h1&gt;</span>Section Title<span class="nt">&lt;/h1&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://google.com&quot;</span> <span class="na">class=</span><span class="s">&quot;light&quot;</span><span class="nt">&gt;</span>A link to Google<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;img</span> <span class="na">id=</span><span class="s">&quot;author-photo&quot;</span> <span class="na">src=</span><span class="s">&quot;img/author.jpg&quot;</span><span class="nt">&gt;</span></code></pre></div>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">HTML</th>
+      <th style="text-align: left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">element</td>
+      <td style="text-align: left"><code>&lt;h1&gt;Section Title&lt;/h1&gt;</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">tag</td>
+      <td style="text-align: left">opening: <code>&lt;h1&gt;</code>, <code>&lt;a&gt;</code>; closing: <code>&lt;/h1&gt;</code>,<code>&lt;/a&gt;</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">attribute</td>
+      <td style="text-align: left"><code>href</code> and <code>class</code> in <code>&lt;a href="..." class="..."&gt;</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="anatomy-of-a-css-rule">Anatomy of a CSS rule</h3>
+
+<div class="highlight"><pre><code class="css"><span class="nt">h1</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="nb">blue</span><span class="p">;</span> <span class="k">font-size</span><span class="o">:</span> <span class="m">18px</span><span class="p">;</span> <span class="p">}</span>
+<span class="nc">.light</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="m">300</span><span class="p">;</span> <span class="p">}</span>
+ <span class="nf">#author-photo</span> <span class="p">{</span> <span class="k">width</span><span class="o">:</span> <span class="m">80</span><span class="o">%</span><span class="p">;</span> <span class="p">}</span></code></pre></div>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">CSS</th>
+      <th style="text-align: left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">rule</td>
+      <td style="text-align: left"><code>h1 { color: blue; font-size: 18px; }</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">selector</td>
+      <td style="text-align: left"><code>h1</code>,   <code>.light</code>,  <code>#author-photo</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">property</td>
+      <td style="text-align: left"><code>color</code> in <code>color: blue</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">value</td>
+      <td style="text-align: left"><code>blue</code> in <code>color: blue</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="div-vs-span"><code>div</code> vs. <code>span</code></h2>
+
+<p>The HTML tags <code>&lt;div&gt;</code> and <code>&lt;span&gt;</code> are generic tags used to group elements together 
+and, with a CSS <code>class</code> and/or <code>id</code>, to add styling to particular elements on the 
+page. </p>
+
+<p>The key distinction between the two is that a <code>&lt;span&gt;</code> is an inline element and a 
+<code>&lt;div&gt;</code> is a block element. What does that mean?</p>
+
+<h2 id="inline-vs-block-elements">Inline vs. Block elements</h2>
+
+<p>Block level elements normally start (and end) with a new line when displayed 
+in a browser. Inline elements are normally displayed without starting a new line.</p>
+
+<p>Example block elements: <code>&lt;div&gt;</code>,<code>&lt;h1&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, <code>&lt;table&gt;</code><br />
+Example inline elements: <code>&lt;span&gt;</code>,<code>&lt;b&gt;</code>, <code>&lt;td&gt;</code>, <code>&lt;a&gt;</code>, <code>&lt;img&gt;</code></p>
+
+<p>Note that this is the <em>default</em> behavior. You can manipulate how an element is 
+displayed on the page by setting <code>display: block</code>, <code>display: inline</code>, or 
+<a href="http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/"><code>display: inline-block</code></a>, among other possibilities. </p>
+
+<h2 id="the-box-model">The Box Model</h2>
+
+<p>Every element of a web page exists within an invisible box. This box is 
+demarcated by a border. That border can be invisible (if it has <code>border-width</code> 
+0, for example), but it’s always there.</p>
+
+<p><img src="http://0.0.0.0:4000/images/box_model.png" alt="box_model_from_chrome_devtools" /></p>
+
+<h3 id="margin-and-padding">Margin and Padding</h3>
+
+<p>Every box has <strong>padding</strong> on the inside, surrounding its content but within its 
+border, and a <strong>margin</strong> surrounding its border on the outside. </p>
+
+<p>Since <code>padding</code> tells the browser the amount of space to preserve <em>inside</em> a 
+box (between content and border), the padding between any two elements is, 
+loosely speaking, “additive”: 10px of padding on two adjacent boxes will result 
+in 20px of space between their content (assuming no visible border or margin). </p>
+
+<p>By contrast, <code>margin</code> specifies the amount of space to preserve <em>around</em> a box, 
+which will usually be collapsed between two adjacent elements of the same 
+type. A 10px margin on adjacent boxes produces a 10px space between their 
+borders, not 20px.</p>
+
+<h1 id="chrome-developer-tools">Chrome Developer Tools</h1>
+
+<p>To access Chrome’s Developer Tools, navigate to <code>View &gt; Developer &gt; Developer Tools</code> 
+or use the keyboard shortcut: <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on a Mac, 
+<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>I</kbd> otherwise. </p>
+
+<p>(NB: Try out and use keyboard shortcuts greedily. They will make your life easier 
+in the long run.)</p>
+
+<h3 id="some-of-the-facilities-provided-by-devtools">Some of the facilities provided by DevTools:</h3>
+
+<ul>
+  <li>
+    <p>Inspect Element<br />
+Inspect the HTML, CSS, and box model for a given element (click the magnifying 
+glass and hover over a page element). DevTools brings up the relevant HTML, 
+the associated styling, a box model visualization with element dimensions, all 
+sorts of valuable information.</p>
+  </li>
+  <li>
+    <p>Modify CSS In-Place<br />
+Select a page element. In the “Styles pane”, fiddle with its CSS. Add 
+<code>display: none</code> to some elements. Pretty neat, huh?</p>
+
+    <p><img src="http://0.0.0.0:4000/images/editcss.png" alt="modifycss" /></p>
+  </li>
+  <li>
+    <p>Modify HTML In-Place<br />
+Similarly, in Inspect Element mode, click on part of a web page. You should 
+see the corresponding HTML highlighted in the DevTools Elements panel. 
+Double-click on it and fiddle with it. </p>
+
+    <p><img src="http://0.0.0.0:4000/images/edithtml.png" alt="modifyhtml" /></p>
+  </li>
+</ul>
+
+<p>You can have all sorts of fun with this. </p>
+
+<p>To wit, here’s the MDN landing page as it exists by default:</p>
+
+<p><img src="http://0.0.0.0:4000/images/before.png" alt="mdn_before" /></p>
+
+<p>and here it is after some enhancements</p>
+
+<p><img src="http://0.0.0.0:4000/images/after.png" alt="mdn_after" /></p>
+
+<p>In other words, Chrome Developer Tools are extremely useful for interactively 
+testing out potential styling changes or checking out “how they did that” when 
+you see some cool bit of styling on someone else’s site.</p>
+
+<h3 id="mobile-testing">Mobile Testing</h3>
+
+<p>Want to see how your web site will look on a mobile device? Hit <kbd>esc</kbd> 
+(the ‘escape’ key) to bring up the console, then click on “Emulation”.</p>
+
+<p><img src="http://0.0.0.0:4000/images/mobileemulator.png" alt="mobile_emulator" /></p>
+
+<!-- 
+Positioning Content
+==================== -->
+
+<h1 id="resources">Resources</h1>
+
+<p><a href="http://www.w3schools.com">w3schools</a> has a lingering bad reputation earned 
+during its error-ridden early days, but it’s not bad for getting a 
+quick-and-dirty overview of whatever you’re researching. </p>
+
+<p><a href="http://developer.mozilla.org">MDN</a> is the de facto canonical reference. When 
+someone tells you to RTFM (“Read the Fantastic Manual”) with respect to HTML/CSS,
+they’re most likely referring to the MDN docs. It is detailed and exhaustive, 
+so the best way to find anything in it is with a google search: 
+<code>mdn css font-weight</code>, for example, or by using Chrome’s find (<kbd>⌘</kbd>+<code>f</code>) 
+feature on the <a href="http://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML Element</a>, <a href="http://developer.mozilla.org/en-US/docs/Web/HTML/Attributes">HTML Attribute</a>, or 
+<a href="http://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS</a> reference page.</p>
+
+<h1 id="exercises-optional">Exercises (Optional)</h1>
+<ol>
+  <li>Create a three-column fixed-width layout with a navbar and header</li>
+  <li>Create a two-column liquid layout with a navbar and header.</li>
+</ol>
+
+<p>Suggestions: Work with a partner as a <a href="http://www.wikihow.com/Pair-Program">driver/navigator pair</a>. 
+Get feedback on your code from an instructor or TA.</p>
+
+<!-- starter code? -->
+<!-- see: http://www.maxdesign.com.au/articles/css-layouts -->
+
+<p><strong>Comments? Questions? Corrections? Use the comments thread below.</strong></p>
+
+
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+        </div>
+<!--         <p class="byline"><strong>HTML & CSS: The theoretical minimum</strong> was published on <time datetime="2014-07-19T02:00:00-07:00">July 19, 2014</time> by <a href="http://0.0.0.0:4000/about" title="About Web Development Primer">Web Development Primer</a>.</p>
+ -->      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+<!--   <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://0.0.0.0:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://0.0.0.0:4000/after_the_course/" title="Next steps: JavaScript, jQuery, Freelancing">Next steps: JavaScript, jQuery, Freelancing</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/capstone_project_and_presentation/" title="Capstone Project and Presentation">Capstone Project and Presentation</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/git_and_github/" title="Git and GitHub: Collaborating like a pro">Git and GitHub: Collaborating like a pro</a></li>
+    
+    </ul>
+    <hr />
+  </div> -->
+  <!-- /.related-articles -->
+  <footer>
+    
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://0.0.0.0:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://0.0.0.0:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-52721224-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- May need to update Google Analytics support with this script -->
+<!-- <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52721224-1', 'auto');
+  ga('send', 'pageview');
+
+</script> -->
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'pcsprimer'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</body>
+</html>

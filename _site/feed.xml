@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">The Primer</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://0.0.0.0:4000" />
+<updated>2014-08-18T12:08:43-07:00</updated>
+<id>http://0.0.0.0:4000/</id>
+<author>
+  <name>Web Development Primer</name>
+  <uri>http://0.0.0.0:4000/</uri>
+  <email>info@portlandcodeschool.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Next steps: JavaScript, jQuery, Freelancing]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/after_the_course/" />
+  <id>http://0.0.0.0:4000/after_the_course</id>
+  <published>2014-08-09T02:00:00-07:00</published>
+  <updated>2014-08-09T02:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;post-course&quot;&gt;Post Course&lt;/h1&gt;
+
+&lt;h3 id=&quot;if-youd-like-to-deepen-your-knowledge-of-htmlcss&quot;&gt;If you’d like to deepen your knowledge of HTML/CSS:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://learn.shayhowe.com/advanced-html-css&quot;&gt;Advanced
+HTML &amp;amp; CSS&lt;/a&gt;, which includes coverage of responsive web design and jQuery (est: 5 hours)&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1&quot;&gt;Five simple steps to designing grid systems (all five parts)&lt;/a&gt; (est: 2 hours)&lt;/li&gt;
+  &lt;li&gt;Poke around on &lt;a href=&quot;http://www.thegridsystem.org/&quot;&gt;The Grid System&lt;/a&gt; to see the different kinds of grid systems that are possible.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;if-youd-like-to-take-your-dev-skills-to-the-next-level&quot;&gt;If you’d like to take your dev skills to the next level:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Learn &lt;a href=&quot;http://www.learn-js.org&quot;&gt;the basics of JavaScript, interactively&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Learn &lt;a href=&quot;https://learn.jquery.com&quot;&gt;jQuery, by the book&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;(Shameless plug) Continue your journey here at PCS! &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Learn front-end frameworks, responsive design, and much more in our &lt;a href=&quot;http://www.portlandcodeschool.com/frontend/&quot;&gt;front-end development&lt;/a&gt; course, or test-driven development, client-side and server-side JavaScript frameworks, and more, in our full-stack JavaScript courses (&lt;a href=&quot;http://www.portlandcodeschool.com/javascriptimmersion/&quot;&gt;immersion&lt;/a&gt; or &lt;a href=&quot;http://www.portlandcodeschool.com/javascript/&quot;&gt;evening&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Topics covered ìn our JavaScript courses include&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beginning-to-advanced JavaScript&lt;/li&gt;
+  &lt;li&gt;Using Git and GitHub for version control and collaboration&lt;/li&gt;
+  &lt;li&gt;Test-driven development&lt;/li&gt;
+  &lt;li&gt;jQuery, JSON, AJAX&lt;/li&gt;
+  &lt;li&gt;Backbone.js, Node.js&lt;/li&gt;
+  &lt;li&gt;RESTful APIs&lt;/li&gt;
+  &lt;li&gt;MVC architecture&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/after_the_course/&quot;&gt;Next steps: JavaScript, jQuery, Freelancing&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Capstone Project and Presentation]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/capstone_project_and_presentation/" />
+  <id>http://0.0.0.0:4000/capstone_project_and_presentation</id>
+  <published>2014-07-26T06:00:00-07:00</published>
+  <updated>2014-07-26T06:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;goals&quot;&gt;Goals&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Understand the differences between a pitch presentation and a code walkthrough&lt;/li&gt;
+  &lt;li&gt;Understand Guy Kawasaki’s 10-20-30 rule&lt;/li&gt;
+  &lt;li&gt;Establish teams and determine responsibilities for team members&lt;/li&gt;
+  &lt;li&gt;Start working on the capstone!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;presentations&quot;&gt;Presentations&lt;/h1&gt;
+
+&lt;h2 id=&quot;pitch-presentations&quot;&gt;Pitch presentations&lt;/h2&gt;
+
+&lt;p&gt;Presentation should be about how you can meet the viewer’s needs—address those needs from the start.&lt;/p&gt;
+
+&lt;h2 id=&quot;code-walkthroughs&quot;&gt;Code Walkthroughs&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The context / structure &lt;/li&gt;
+  &lt;li&gt;The specifics: The code you like the best / how you solved a challenging problem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;guy-kawasakis-10-20-30-rule&quot;&gt;Guy Kawasaki’s 10-20-30 rule&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10 slides&lt;/li&gt;
+  &lt;li&gt;20 minutes&lt;/li&gt;
+  &lt;li&gt;30 pt font (or, max of 30 and age_of_oldest_viewer / 2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;capstone-project&quot;&gt;Capstone Project&lt;/h1&gt;
+
+&lt;h3 id=&quot;assemble-your-crewhttpswwwyoutubecomwatchvtpp5u-izw8&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tpp5u-I_ZW8&quot;&gt;Assemble your crew.&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Choose teammates
+    &lt;ul&gt;
+      &lt;li&gt;Try to complement each other’s strengths and weaknesses, skill levels&lt;/li&gt;
+      &lt;li&gt;Choose teammates with similar schedules, location&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choose an admin, pick a group name&lt;/li&gt;
+  &lt;li&gt;Create a basecamp project, invite each other, Al, Jake, client TA&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;a-suggested-workflow&quot;&gt;A suggested workflow&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Brainstorm desired features&lt;/li&gt;
+  &lt;li&gt;Make some crude pencil-and-paper wireframes&lt;/li&gt;
+  &lt;li&gt;Divvy up tasks and implement features&lt;/li&gt;
+  &lt;li&gt;Review and merge these into the main project&lt;/li&gt;
+  &lt;li&gt;GOTO 1 (BREAK once project is complete or the money runs out)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As a general rule, you should try to always have an MVP (‘a minimum viable product’)—i.e., your website should always be in a functional state at the end of the day, even if it doesn’t look like much. Grow your code base incrementally.&lt;/p&gt;
+
+&lt;h3 id=&quot;working-together-getting-help&quot;&gt;Working together, getting help&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spend some time hacking together if possible &lt;/li&gt;
+  &lt;li&gt;Communicate with your teammates—keep everyone apprised of potential schedling obstacles as soon as they appear on the horizon. (So they can adjust the workload accordingly)&lt;/li&gt;
+  &lt;li&gt;Leverage Basecamp, GitHub, Skype, etc.&lt;/li&gt;
+  &lt;li&gt;Text or email Al, and/or use youcanbook.me to book some time with your TAs—we’re all here to help you over any obstacles that arise.&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/capstone_project_and_presentation/&quot;&gt;Capstone Project and Presentation&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Git and GitHub: Collaborating like a pro]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/git_and_github/" />
+  <id>http://0.0.0.0:4000/git_and_github</id>
+  <published>2014-07-26T02:00:00-07:00</published>
+  <updated>2014-07-26T02:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;goals&quot;&gt;Goals&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set up your git configuration for use with GitHub&lt;/li&gt;
+  &lt;li&gt;Know why web developers use Git and GitHub&lt;/li&gt;
+  &lt;li&gt;Initialize a Git repository&lt;/li&gt;
+  &lt;li&gt;Stage changes to be committed&lt;/li&gt;
+  &lt;li&gt;Know how and when to commit changes&lt;/li&gt;
+  &lt;li&gt;Use branching and merging to collaborate on projects&lt;/li&gt;
+  &lt;li&gt;Initiate pull requests&lt;/li&gt;
+  &lt;li&gt;Resolve merge conflicts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;prep-work&quot;&gt;Prep work&lt;/h1&gt;
+&lt;p&gt;Estimated time: 15 minutes&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Work through &lt;a href=&quot;http://try.github.io&quot;&gt;Try Git&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;setting-up-git-and-github&quot;&gt;Setting up Git and GitHub&lt;/h1&gt;
+
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;Set your username and email&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git config --global user.name &lt;span class=&quot;s2&quot;&gt;&amp;quot;jane doe&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git config --global user.email janedoe@example.com&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Some more useful settings:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;git config --global push.default current
+git config --global merge.defaultToUpstream &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;
+git config --global core.editor &lt;span class=&quot;s2&quot;&gt;&amp;quot;subl -w&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Verify your details are set with the &lt;code&gt;-l&lt;/code&gt; flag (“l” for “list”)&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git config --global -l&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Set up your SSH key (this will allow you to push your repo to GitHub without entering your username and password at the command line)&lt;/p&gt;
+
+&lt;h3 id=&quot;step-1&quot;&gt;Step 1:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bash -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;$(curl -fsSL http://bit.ly/pcs-git)&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;step-2&quot;&gt;Step 2:&lt;/h3&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;http://github.com/settings/ssh&quot;&gt;http://github.com/settings/ssh&lt;/a&gt; (make sure you’ve signed in)&lt;/p&gt;
+
+&lt;p&gt;Add your ssh key by clicking on “Add SSH key”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/githubssh1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And pasting what’s on your clipboard into the text field below&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/githubssh2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To test your ssh setup, enter&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ssh -T git@github.com&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;You should see the following:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;Hi &amp;lt;username&amp;gt;! You&amp;#39;ve successfuly authenticated, but GitHub 
+does not provide shell access.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;If that &lt;code&gt;&amp;lt;username&amp;gt;&lt;/code&gt; is yours, you’ve successfully set up your SSH key with GitHub.&lt;/p&gt;
+
+&lt;h1 id=&quot;overview-of-git&quot;&gt;Overview of Git&lt;/h1&gt;
+
+&lt;h2 id=&quot;some-concepts&quot;&gt;Some concepts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;working directory&lt;/strong&gt;: your project’s directory&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;index / staging area&lt;/strong&gt;: where you collect the changes you’re about to commit to the repository&lt;br /&gt;
+  Examples:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git add stylesheet2.css stylesheet2.css&lt;/code&gt; (stage css files for a commit of styling changes)&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;git add script.js&lt;/code&gt; (stage a javascript file for a commit)&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;git add .&lt;/code&gt; (stage all modified files for a commit)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;repository (‘repo’)&lt;/strong&gt;: where your project’s version history is stored
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git commit -m &quot;Update styling to match v2 wireframes&quot;&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-solo-workflow&quot;&gt;A Solo Workflow&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a repo on GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;clone&lt;/strong&gt; the repo
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git clone &amp;lt;SSH url from the repo&#39;s page on GitHub&amp;gt;&lt;/code&gt;&lt;br /&gt;
+ &lt;img src=&quot;http://0.0.0.0:4000/images/repo-sshurl.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Add a branch for yourself
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git checkout -b &amp;lt;branch name&amp;gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Make changes on your branch
+    &lt;ul&gt;
+      &lt;li&gt;e.g., to add a signup form to your site&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Add files to track
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git add &amp;lt;filenames or .&amp;gt;&lt;/code&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;commit&lt;/strong&gt; your changes
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;git commit -m &quot;Add a form&quot;&lt;/code&gt; (the &lt;code&gt;-m&lt;/code&gt; flag means you’re setting the commit message to &lt;code&gt;&quot;Add a form&quot;&lt;/code&gt;)&lt;/li&gt;
+      &lt;li&gt;Note the imperative form of the message. This is &lt;a href=&quot;https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages&quot;&gt;by convention&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Eventually, as your git-fu grows, you’ll want to start writing &lt;a href=&quot;http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message&quot;&gt;more complete commit messages&lt;/a&gt;, which look something more or less like this:&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;50-character-max subject line
+
+72-character-max wrapped longer description. This should answer:
+
+* Why was this change necessary?
+* How does it address the problem?
+* Are there any side effects?
+
+Include a url to the ticket, if any.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;But for now just use a descriptive one-liner using the &lt;code&gt;-m&lt;/code&gt; flag.&lt;/p&gt;
+
+&lt;h2 id=&quot;git--github-for-collaboration&quot;&gt;Git + GitHub for Collaboration&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a repo on GitHub&lt;/li&gt;
+  &lt;li&gt;Authorize collaborators (if you’re the admin)&lt;/li&gt;
+  &lt;li&gt;All collaborators &lt;strong&gt;clone&lt;/strong&gt; the repo&lt;/li&gt;
+  &lt;li&gt;Each person creates a new &lt;strong&gt;feature branch&lt;/strong&gt; for a given task or feature&lt;/li&gt;
+  &lt;li&gt;Each person &lt;strong&gt;commits&lt;/strong&gt; their changes locally&lt;/li&gt;
+  &lt;li&gt;When a feature is complete, you &lt;strong&gt;push&lt;/strong&gt; to GitHub and issue a &lt;strong&gt;pull request&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;A “pull request” is where your partners review your work, discuss it, and the project admin &lt;strong&gt;merges&lt;/strong&gt; it into the master branch if approved&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;basic-git-commands&quot;&gt;5. Basic git commands&lt;/h2&gt;
+&lt;p&gt;### Getting and creating projects&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git init
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;staging-and-commiting&quot;&gt;Staging and commiting&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git add &amp;lt;files to stage so they can be committed&amp;gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git commit -m &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;commit message&amp;gt;&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;merging-and-branching&quot;&gt;Merging and branching&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git checkout -b &amp;lt;branch name&amp;gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git branch
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git merge &amp;lt;branch name&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;pushing-and-pulling&quot;&gt;Pushing and pulling&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git push
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git pull&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;viewing-current-status-and-past-history&quot;&gt;Viewing current status and past history&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git status
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git log&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://gitref.org&quot;&gt;descriptions here&lt;/a&gt;]&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/git_and_github/&quot;&gt;Git and GitHub: Collaborating like a pro&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[UNIX for Humans: The command line is your friend]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/the_command_line/" />
+  <id>http://0.0.0.0:4000/the_command_line</id>
+  <published>2014-07-19T07:00:00-07:00</published>
+  <updated>2014-07-19T07:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;goals&quot;&gt;Goals&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Configure your shell environment &lt;/li&gt;
+  &lt;li&gt;Be able to use &lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;mkdir&lt;/code&gt;, &lt;code&gt;cp&lt;/code&gt;, &lt;code&gt;mv&lt;/code&gt;, &lt;code&gt;rm&lt;/code&gt;, &lt;code&gt;rmdir&lt;/code&gt;, &lt;code&gt;|&lt;/code&gt;, &lt;code&gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;cat&lt;/code&gt;, &lt;code&gt;chmod&lt;/code&gt;, &lt;code&gt;chown&lt;/code&gt;, &lt;code&gt;cp&lt;/code&gt;, &lt;code&gt;export&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Know how to learn about a command you haven’t seen before&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;the-unix-command-line&quot;&gt;The Unix command line&lt;/h1&gt;
+
+&lt;p&gt;Web developers spend a lot of time at the command line. Command line interfaces (CLIs) offer few of the visual cues and design affordances provided by GUIs (graphical user interfaces), so you may initially find yourself turning to Google repeatedly to find the right command for the task at hand. That’s perfectly okay. You’ll be using these commands all the time. Soon enough they’ll be committed to muscle memory and you’ll be issuing commands &lt;em&gt;legato&lt;/em&gt; like a nerdy Gershwin.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-keyboard-shortcuts-for-bash&quot;&gt;Useful keyboard shortcuts for Bash&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Jump to the start of the line: &lt;kbd&gt;ctrl&lt;/kbd&gt; + &lt;kbd&gt;a&lt;/kbd&gt;&lt;/li&gt;
+  &lt;li&gt;Jump to the end of the line: &lt;kbd&gt;ctrl&lt;/kbd&gt; + &lt;kbd&gt;e&lt;/kbd&gt;&lt;/li&gt;
+  &lt;li&gt;Kill previous word: &lt;kbd&gt;option&lt;/kbd&gt; + &lt;kbd&gt;delete&lt;/kbd&gt; (aka &lt;kbd&gt;alt&lt;/kbd&gt; + &lt;kbd&gt;backspace&lt;/kbd&gt;)&lt;/li&gt;
+  &lt;li&gt;Kill to the beginning of the line: &lt;kbd&gt;ctrl&lt;/kbd&gt; + &lt;kbd&gt;k&lt;/kbd&gt;&lt;/li&gt;
+  &lt;li&gt;Kill to the end of the line: &lt;kbd&gt;ctrl&lt;/kbd&gt; + &lt;kbd&gt;u&lt;/kbd&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You may find it helpful to map &lt;kbd&gt;ctrl&lt;/kbd&gt; to your &lt;kbd&gt;caps lock&lt;/kbd&gt; key. On a Mac, you can this by navigating to &lt;strong&gt;System Preferences &amp;gt; Keyboard &amp;gt; Modifier Keys…&lt;/strong&gt; and selecting as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/capslockremap.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Windows machines, this requires a &lt;a href=&quot;http://johnhaller.com/useful-stuff/disable-caps-lock&quot;&gt;registry hack&lt;/a&gt; (see &lt;a href=&quot;https://superuser.com/questions/334849/how-can-i-remap-capslock-on-windows-7-without-thirdparty-software&quot;&gt;here&lt;/a&gt;, as well). &lt;/p&gt;
+
+&lt;p&gt;It can also be helpful to set your &lt;strong&gt;Key Repeat&lt;/strong&gt; rate to its maximum and &lt;strong&gt;Delay Until Repeat&lt;/strong&gt; to its the minimum. &lt;/p&gt;
+
+&lt;h2 id=&quot;basic-unix-commands&quot;&gt;Basic Unix commands&lt;/h2&gt;
+
+&lt;h3 id=&quot;changing-directories&quot;&gt;Changing directories&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;cd &amp;lt;directory_name&amp;gt;&lt;/code&gt; change working directory to &lt;code&gt;&amp;lt;directory_name&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;pwd&lt;/code&gt; print working (i.e., current) directory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ~/Developer/pcs/pcs-primer-notes1
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;pwd&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;/Users/romer/Developer/pcs/pcs-primer-notes1&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;cd ..&lt;/code&gt; change directory to parent directory (&lt;code&gt;..&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ..
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;pwd&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;/Users/romer/Developer/pcs&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;cd ~&lt;/code&gt; change working directory to home directory&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;cd&lt;/code&gt; same as above (&lt;code&gt;~&lt;/code&gt; is the default argument to the &lt;code&gt;cd&lt;/code&gt; command)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; 
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;pwd&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;/Users/romer&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;listing-files&quot;&gt;Listing Files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;ls&lt;/code&gt; list files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ~/Developer/pcs/pcs-primer-notes1
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;figures
+index.html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;ls -al&lt;/code&gt; list all files, including hidden ones (the &lt;code&gt;-a&lt;/code&gt; flag), and show all details (the &lt;code&gt;-l&lt;/code&gt; flag)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls -al .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;total 3656
+drwxr-xr-x   8 romer  staff      272 Jun  9 11:26 .
+drwxr-xr-x   6 romer  staff      204 Jun  9 01:40 ..
+drwxr-xr-x  12 romer  staff      408 Jun  9 01:39 .git
+drwxr-xr-x   8 romer  staff      272 Jun  8 23:45 figures
+-rw-r--r--   1 romer  staff  1831121 Jun  9 11:26 index.html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;NB&lt;/strong&gt;: The dot (&lt;code&gt;.&lt;/code&gt;) represents the current directory
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;ls .&lt;/code&gt; means list files in current directory (but &lt;code&gt;.&lt;/code&gt; is the default argument to &lt;code&gt;ls&lt;/code&gt; so it can be omitted)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;making-new-directories--files&quot;&gt;Making new directories / files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;mkdir &amp;lt;name&amp;gt;&lt;/code&gt; create a directory named &lt;code&gt;&amp;lt;name&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;touch &amp;lt;name&amp;gt;&lt;/code&gt; create an empty file named &lt;code&gt;&amp;lt;name&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mkdir new_directory
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;touch new_file
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;figures
+index.html
+new_directory
+new_file&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;NB: &lt;code&gt;touch &amp;lt;file&amp;gt;&lt;/code&gt; actually updates the “last modified at” attribute of &lt;code&gt;&amp;lt;file&amp;gt;&lt;/code&gt; to the current time. But if the file doesn’t exist, it creates an empty one named &lt;code&gt;&amp;lt;file&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;copying-and-moving-files&quot;&gt;Copying and moving files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;mv &amp;lt;loc1&amp;gt; &amp;lt;loc2&amp;gt;&lt;/code&gt; moves the file at &lt;code&gt;loc1&lt;/code&gt; to &lt;code&gt;loc2&lt;/code&gt; (equivalently: rename the file at &lt;code&gt;loc1&lt;/code&gt; to &lt;code&gt;loc2&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;cp &amp;lt;loc1&amp;gt; &amp;lt;loc2&amp;gt;&lt;/code&gt; copy file &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;cp  new_file   new_directory/copy_of_new_file
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls . new_directory&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;.:
+figures
+index.html
+new_directory
+new_file
+
+new_directory:
+copy_of_new_file&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that we passed two arguments to &lt;code&gt;ls&lt;/code&gt;: &lt;code&gt;.&lt;/code&gt; and &lt;code&gt;new_directory&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mv  new_directory/copy_of_new_file  new_file2
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls . new_directory&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;.:
+figures
+index.html
+new_directory
+new_file
+new_file2
+
+new_directory:&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And here &lt;code&gt;mv&lt;/code&gt; moved and renamed &lt;code&gt;new_directory/copy_of_new_file&lt;/code&gt; to &lt;code&gt;./new_file2&lt;/code&gt; in one step.&lt;/p&gt;
+
+&lt;h3 id=&quot;deleting-files-and-directories&quot;&gt;Deleting files and directories&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;rmdir&lt;/code&gt; remove a directory (if it’s empty)&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;rm&lt;/code&gt; remove file(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rmdir new_directory
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rm new_file new_file2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Notice we can pass multiple arguments to &lt;code&gt;rm&lt;/code&gt; as well—this holds true of most basic unix commands.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ls -al . new_directory&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;.:
+total 3656
+drwxr-xr-x   8 romer  staff      272 Jun  9 11:26 .
+drwxr-xr-x   6 romer  staff      204 Jun  9 01:40 ..
+drwxr-xr-x  12 romer  staff      408 Jun  9 01:39 .git
+drwxr-xr-x   8 romer  staff      272 Jun  8 23:45 figures
+-rw-r--r--   1 romer  staff  1831121 Jun  9 11:26 index.html
+
+ls: cannot access new_directory: No such file or directory&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;finding-out-more&quot;&gt;Finding out more&lt;/h3&gt;
+
+&lt;p&gt;To find more information about a particular command, pull up its manual page:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;man &amp;lt;command&amp;gt;&lt;/code&gt; view manual for &lt;code&gt;&amp;lt;command&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Inside &lt;code&gt;man&lt;/code&gt; use 
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;q&lt;/code&gt; to exit. &lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;j&lt;/code&gt; to scroll down, &lt;code&gt;k&lt;/code&gt; to scroll up &lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;d&lt;/code&gt; to jump down a few lines, &lt;code&gt;u&lt;/code&gt; to jump up&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;space&amp;gt;&lt;/code&gt; to page down&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;man man&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;man(1)
+
+
+NAME
+       man - format and display the on-line manual pages
+
+SYNOPSIS
+       man [-acdfFhkKtwW] [--path] [-m system] [-p string] [-C config_file] [-M pathlist] 
+           [-P pager] [-B browser] [-H htmlpager] [-S section_list] [section] name ...
+
+
+DESCRIPTION
+       man  formats  and  displays  the on-line manual pages.  If you specify section, man only 
+       looks in that section of the manual.  name is normally the name of the manual page, which 
+       is typically the name of a command, function, or file.  However, if name contains a slash 
+       (/) then man interprets it as a file specification, so that  you can do man ./foo.5 or even 
+       man /cd/foo/bar.1.gz.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;exercises-optional&quot;&gt;Exercises (Optional)&lt;/h1&gt;
+
+&lt;p&gt;Check out “Absolute and relative paths”, “Heading back”, and “Tab completion” in &lt;a href=&quot;http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt&quot;&gt;“The Designer’s Guide to the OSX command prompt”&lt;/a&gt;. Three quick paragraphs that will save you tons of time.&lt;/p&gt;
+
+&lt;p&gt;From the command line, &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change to your home directory (&lt;code&gt;~&lt;/code&gt;) and print a listing of all its contents &lt;/li&gt;
+  &lt;li&gt;Print a listing of only those files/folders in &lt;code&gt;~&lt;/code&gt; that contain a &lt;code&gt;D&lt;/code&gt; 
+ &lt;br /&gt;(Hint: Google “piping grep”)&lt;/li&gt;
+  &lt;li&gt;With a single command, create the listing in (2) and save it to a file on your desktop (see &lt;a href=&quot;http://www.december.com/unix/tutor/redirect.html&quot;&gt;here&lt;/a&gt; for how)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Suggestions: Work with a partner as a &lt;a href=&quot;http://www.wikihow.com/Pair-Program&quot;&gt;driver/navigator pair&lt;/a&gt;. Get feedback on your code from an instructor or TA.&lt;/p&gt;
+
+&lt;!-- starter code? --&gt;
+
+&lt;p&gt;&lt;strong&gt;Comments? Questions? Corrections? Use the comments thread below.&lt;/strong&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/the_command_line/&quot;&gt;UNIX for Humans: The command line is your friend&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[HTML & CSS: Refinements]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/intermediate_html_and_css/" />
+  <id>http://0.0.0.0:4000/intermediate_html_and_css</id>
+  <published>2014-07-19T04:00:00-07:00</published>
+  <updated>2014-07-19T04:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;goals&quot;&gt;Goals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand how HTML forms work&lt;/li&gt;
+  &lt;li&gt;Know what the client-server model is and how HTTP requests work&lt;/li&gt;
+  &lt;li&gt;Understand the difference between &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Apply a box shadow, rounded corners, and text shadow.&lt;/li&gt;
+  &lt;li&gt;Know transitions and animations and where to apply them.&lt;/li&gt;
+  &lt;li&gt;Know what vendor prefixes are and why they are used.&lt;/li&gt;
+  &lt;li&gt;Understand how box-sizing changes the box model.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;html-tables-and-forms&quot;&gt;HTML: Tables and Forms&lt;/h1&gt;
+
+&lt;h2 id=&quot;a-brief-history&quot;&gt;A Brief History&lt;/h2&gt;
+
+&lt;p&gt;HTML’s long-run trajectory has been toward greater standardization, reaching its zenith with X/HTML. &lt;/p&gt;
+
+&lt;p&gt;HTML5 was a slight step backwards from that (arguably excessive) degree of standardization.&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+&lt;p&gt;Basic structure of a table with a header row:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;table&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- header row --&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;header 1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;header 2&lt;span class=&quot;nt&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;header 3&lt;span class=&quot;nt&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- row 1 --&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt; r1 c1 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt; r1 c2  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt; r2 c3 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- row 2 --&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt; r2 c1 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;  &lt;span class=&quot;ni&quot;&gt;&amp;amp;nbsp;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt; r3 c3 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/table&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;black&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;td&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;black&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;20px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;produce&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/table.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
+
+&lt;p&gt;Each form contains &lt;code&gt;input&lt;/code&gt; fields, each input field has a &lt;code&gt;name&lt;/code&gt; and a &lt;code&gt;value&lt;/code&gt;.  When a form is submitted, it sends its data to the URL specified in the form’s &lt;code&gt;action&lt;/code&gt; attribute.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;form&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;action=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;lt;!-- form destination goes here --&amp;gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;method=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;get&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;accept-charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;recipient&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- a text input field named &amp;#39;recipient&amp;#39; --&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- input fields go here  --&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;submit&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Send&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- submit button  --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/form&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;placeholder-text-and-default-values&quot;&gt;Placeholder text and default values&lt;/h3&gt;
+
+&lt;p&gt;Placeholder text is set with the &lt;code&gt;placeholder&lt;/code&gt; attribute of the &lt;code&gt;input&lt;/code&gt; tag. Default values with the &lt;code&gt;value&lt;/code&gt; tag. Default values are submitted if the user doesn’t enter anything into the input field, but placeholder text isn’t.&lt;/p&gt;
+
+&lt;h3 id=&quot;form-styling&quot;&gt;Form styling&lt;/h3&gt;
+
+&lt;p&gt;Forms can be styled in CSS just like any other HTML. Same practices apply: a &lt;code&gt;class&lt;/code&gt; and/or an &lt;code&gt;id&lt;/code&gt; can be added to any form element.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-kinds-of-input-types&quot;&gt;Other kinds of input types&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input&quot;&gt;MDN: HTML &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt; element&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/html/html5_form_input_types.asp&quot;&gt;w3schools: HTML5 Input Types&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;form-submit-method-get-vs-post&quot;&gt;Form submit method: GET vs. POST&lt;/h3&gt;
+
+&lt;p&gt;Two ways of sending an HTTP request to a URL. In a GET request, all the form data is appended to the URL in the browser’s address bar. In a POST request, form data is included in &lt;a href=&quot;https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request&quot;&gt;the body of the request&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h1 id=&quot;whats-an-http-request-what-does-it-look-like&quot;&gt;What’s an HTTP request? What does it look like?&lt;/h1&gt;
+
+&lt;h2 id=&quot;clients-and-servers-requests-and-responses&quot;&gt;Clients and Servers, Requests and Responses&lt;/h2&gt;
+
+&lt;p&gt;The internet is built on a &lt;a href=&quot;https://en.wikipedia.org/wiki/Client%E2%80%93server_model&quot;&gt;client-server model&lt;/a&gt;, whereby all communication between a client (like your web browser) and a server occur via &lt;a href=&quot;https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request?answertab=votes#tab-top&quot;&gt;requests&lt;/a&gt; and responses. &lt;/p&gt;
+
+&lt;p&gt;A request:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;POST /index.html HTTP/1.1
+Host: www.example.com&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;A response:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;HTTP/1.1 200 OK
+Date: Mon, 23 May 2005 22:38:34 GMT
+Server: Apache/1.3.3.7 (Unix) (Red-Hat/Linux)
+Last-Modified: Wed, 08 Jan 2003 23:11:55 GMT
+ETag: &amp;quot;3f80f-1b6-3e1cb03b&amp;quot;
+Content-Type: text/html; charset=UTF-8
+Content-Length: 131
+Accept-Ranges: bytes
+Connection: close
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;An Example Page&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+  Hello World, this is a very simple HTML document.
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;To see what requests and responses look like in the wild, check out the Network tab in DevTools:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/request.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;exercise-optional&quot;&gt;Exercise (Optional)&lt;/h1&gt;
+&lt;p&gt;Make a clone of the &lt;a href=&quot;http://www.google.com&quot;&gt;Google homepage&lt;/a&gt; that sends its request to &lt;code&gt;http://form-echo.herokuapp.com/form-echo&lt;/code&gt;. Experiment sending it a GET request vs. a POST request by changing the &lt;code&gt;method&lt;/code&gt; attribute of your form.&lt;/p&gt;
+
+&lt;p&gt;Suggestions: Work with a partner as a &lt;a href=&quot;http://www.wikihow.com/Pair-Program&quot;&gt;driver/navigator pair&lt;/a&gt;. Get feedback on your code from an instructor or TA.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/intermediate_html_and_css/&quot;&gt;HTML & CSS: Refinements&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[HTML & CSS: The theoretical minimum]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/beginning_html_and_css/" />
+  <id>http://0.0.0.0:4000/beginning_html_and_css</id>
+  <published>2014-07-19T02:00:00-07:00</published>
+  <updated>2014-07-19T02:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;goals&quot;&gt;Goals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Name classes and ids semantically.&lt;/li&gt;
+  &lt;li&gt;Style text.&lt;/li&gt;
+  &lt;li&gt;Understand the box model.&lt;/li&gt;
+  &lt;li&gt;Understand floating and positioning.&lt;/li&gt;
+  &lt;li&gt;Know how and when to use the following HTML tags:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; to &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;, and &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;, &lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;,&lt;code&gt;&amp;lt;ol&amp;gt;&lt;/code&gt;, and &lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;dl&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;dt&amp;gt;&lt;/code&gt;, and &lt;code&gt;&amp;lt;dd&amp;gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;form&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;fieldset&amp;gt;&lt;/code&gt;, and &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use HTML5 elements semantically:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;aside&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;article&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;footer&amp;gt;&lt;/code&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;View source on a web page and understand it.
+    &lt;ul&gt;
+      &lt;li&gt;Summon Web Inspector quickly (hint: use keyboard shortcuts).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quickly build a simple layout.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-is-html-html5&quot;&gt;What is HTML? HTML5?&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML&lt;/strong&gt; is the markup language that defines the structure of your web page. 
+If a web page were a house, HTML tags would be the 2x4s you assemble into the 
+house’s frame. All the content on your page lives inside little “boxes” defined 
+by &lt;em&gt;HTML elements&lt;/em&gt; (more on boxes and elements below).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Semantic&lt;/em&gt; HTML&lt;/strong&gt; refers, broadly, to HTML written in a way that is 
+expressive—that in some way &lt;strong&gt;describes its content&lt;/strong&gt;—and, narrowly, to a 
+standardized set of semantic tags introduced with HTML5.&lt;/p&gt;
+
+&lt;p&gt;It’s standard practice to, as much as possible, name CSS &lt;code&gt;class&lt;/code&gt;es and &lt;code&gt;id&lt;/code&gt;s so 
+that they describe the &lt;strong&gt;role&lt;/strong&gt; of the content within the HTML element they’re 
+attached to. For example:&lt;/p&gt;
+
+&lt;h2 id=&quot;semantic-html-illustrated&quot;&gt;Semantic HTML, illustrated&lt;/h2&gt;
+
+&lt;h3 id=&quot;unsemantic&quot;&gt;Unsemantic:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;right-aligned&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bold&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Smurf Movie Kinda Sucks&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;body-text&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    Not surprisingly, this week&amp;#39;s release of
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;darkbold&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;The Smurfs&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; kinda sucks.
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The above describes the formatting of each element’s content, not its role. 
+Among other problems, this isn’t future-proof. What if, in the future, you want 
+inline movie titles to be italicized rather than bolded? &lt;/p&gt;
+
+&lt;h3 id=&quot;bad-semantics&quot;&gt;Bad Semantics:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;article&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;article-title&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Smurf Movie Kinda Sucks&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;article-content&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    Not surprisingly, this week&amp;#39;s release of
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;movie-title&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;The Smurfs&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; kinda sucks.
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This is semantic, but not preferred. HTML5 introduced tags that communicate the 
+above more succinctly.&lt;/p&gt;
+
+&lt;h3 id=&quot;good-semantics&quot;&gt;Good Semantics:&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;article&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Smurf Movie Kinda Sucks&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Not surprisingly, this week&amp;#39;s release of
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;movie-title&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;The Smurfs&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; kinda sucks.
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/article&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;small&gt;
+    Example borrowed from 
+    &lt;a style=&quot;text-decoration: underline;&quot; href=&quot;http://css-tricks.com/semantic-class-names&quot;&gt;here&lt;/a&gt;
+    —apologies to any &lt;em&gt;Smurfs&lt;/em&gt; fans out there. 
+&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahh. So much easier on the eyes, right? Notice that this uses the semantic 
+&lt;code&gt;article&lt;/code&gt; tag, which was introduced with HTML5. Prefer HTML5 tags wherever 
+possible—they’ll keep your code expressive while minimizing visual noise.&lt;/p&gt;
+
+&lt;p&gt;Notice too that there are still cases where you’ll have to use the unsemantic 
+tags &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; semantically, with the aid of a well-named &lt;code&gt;class&lt;/code&gt; or 
+&lt;code&gt;id&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;semantic-tags&quot;&gt;Semantic Tags&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;article&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;aside&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;, 
+&lt;code&gt;&amp;lt;figcaption&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;footer&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;details&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;summary&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;time&amp;gt;&lt;/code&gt; &lt;/p&gt;
+
+&lt;p&gt;For some examples of use cases for each of these, see &lt;a href=&quot;http://www.w3schools.com/html/html5_semantic_elements.asp&quot;&gt;HTML5 Semantic Elements 
+(w3schools)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-css&quot;&gt;What is CSS?&lt;/h1&gt;
+
+&lt;p&gt;CSS (Cascading Style Sheets) is the language used to add styling to your page. 
+Separating structure from style helps keep your markup clean and maintainable. &lt;/p&gt;
+
+&lt;p&gt;It also means the same underlying HTML can be presented in radically different 
+ways just by swapping its stylesheet (check out &lt;a href=&quot;http://www.csszengarden.com&quot;&gt;CSS Zen Garden&lt;/a&gt; to 
+see this beautifully illustrated).&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-selectors&quot;&gt;Basic Selectors&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-tag-itself&quot;&gt;1. The tag itself&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;nav&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&amp;gt;&lt;/span&gt; ... &lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;id-selector-any-id-selector-can-only-be-used-once&quot;&gt;2. &lt;code&gt;id&lt;/code&gt; selector (any id selector can only be used once)&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#navigation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; ... &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;class-selectors-can-be-used-multiple-times&quot;&gt;3. &lt;code&gt;class&lt;/code&gt; selectors (can be used multiple times)&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.box&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;box&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; ... &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;class-vs-id&quot;&gt;&lt;code&gt;class&lt;/code&gt; vs. &lt;code&gt;id&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;CSS classes and ids are just groupings of CSS rules. CSS classes are meant to 
+be used any number of times, but ids are unique—there can be only one id of a 
+given name on a page.&lt;/p&gt;
+
+&lt;h4 id=&quot;example&quot;&gt;Example:&lt;/h4&gt;
+
+&lt;p&gt;The following HTML &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- index.html --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;introduction&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;emphasized&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;emphasized&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;can be styled with CSS as follows:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;c&quot;&gt;/* stylesheet.css */&lt;/span&gt;
+ &lt;span class=&quot;nt&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;     &lt;span class=&quot;c&quot;&gt;/* by tag */&lt;/span&gt;
+ &lt;span class=&quot;nf&quot;&gt;#intro&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;italic&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;     &lt;span class=&quot;c&quot;&gt;/* by id */&lt;/span&gt;
+ &lt;span class=&quot;nc&quot;&gt;.emphasis&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;/* by class */&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interlude-some-nomenclature&quot;&gt;Interlude: Some nomenclature&lt;/h2&gt;
+
+&lt;p&gt;We’ve been throwing around &lt;em&gt;elements&lt;/em&gt; and &lt;em&gt;attributes&lt;/em&gt; and &lt;em&gt;rules&lt;/em&gt; without really
+defining what we’re talking about. Let’s consolidate some of this terminology by 
+way of an illustration:&lt;/p&gt;
+
+&lt;h3 id=&quot;anatomy-of-an-html-element&quot;&gt;Anatomy of an HTML element&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Section Title&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://google.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;light&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;A link to Google&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;author-photo&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;img/author.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;HTML&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Example&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;element&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;Section Title&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;tag&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;opening: &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;; closing: &lt;code&gt;&amp;lt;/h1&amp;gt;&lt;/code&gt;,&lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;attribute&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;href&lt;/code&gt; and &lt;code&gt;class&lt;/code&gt; in &lt;code&gt;&amp;lt;a href=&quot;...&quot; class=&quot;...&quot;&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;anatomy-of-a-css-rule&quot;&gt;Anatomy of a CSS rule&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;18px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.light&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;nf&quot;&gt;#author-photo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;CSS&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Example&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;rule&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;h1 { color: blue; font-size: 18px; }&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;selector&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;h1&lt;/code&gt;,   &lt;code&gt;.light&lt;/code&gt;,  &lt;code&gt;#author-photo&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;property&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;color&lt;/code&gt; in &lt;code&gt;color: blue&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;value&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;code&gt;blue&lt;/code&gt; in &lt;code&gt;color: blue&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;div-vs-span&quot;&gt;&lt;code&gt;div&lt;/code&gt; vs. &lt;code&gt;span&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;The HTML tags &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; are generic tags used to group elements together 
+and, with a CSS &lt;code&gt;class&lt;/code&gt; and/or &lt;code&gt;id&lt;/code&gt;, to add styling to particular elements on the 
+page. &lt;/p&gt;
+
+&lt;p&gt;The key distinction between the two is that a &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; is an inline element and a 
+&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; is a block element. What does that mean?&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-vs-block-elements&quot;&gt;Inline vs. Block elements&lt;/h2&gt;
+
+&lt;p&gt;Block level elements normally start (and end) with a new line when displayed 
+in a browser. Inline elements are normally displayed without starting a new line.&lt;/p&gt;
+
+&lt;p&gt;Example block elements: &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;,&lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;&lt;br /&gt;
+Example inline elements: &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;,&lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;td&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that this is the &lt;em&gt;default&lt;/em&gt; behavior. You can manipulate how an element is 
+displayed on the page by setting &lt;code&gt;display: block&lt;/code&gt;, &lt;code&gt;display: inline&lt;/code&gt;, or 
+&lt;a href=&quot;http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/&quot;&gt;&lt;code&gt;display: inline-block&lt;/code&gt;&lt;/a&gt;, among other possibilities. &lt;/p&gt;
+
+&lt;h2 id=&quot;the-box-model&quot;&gt;The Box Model&lt;/h2&gt;
+
+&lt;p&gt;Every element of a web page exists within an invisible box. This box is 
+demarcated by a border. That border can be invisible (if it has &lt;code&gt;border-width&lt;/code&gt; 
+0, for example), but it’s always there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/box_model.png&quot; alt=&quot;box_model_from_chrome_devtools&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;margin-and-padding&quot;&gt;Margin and Padding&lt;/h3&gt;
+
+&lt;p&gt;Every box has &lt;strong&gt;padding&lt;/strong&gt; on the inside, surrounding its content but within its 
+border, and a &lt;strong&gt;margin&lt;/strong&gt; surrounding its border on the outside. &lt;/p&gt;
+
+&lt;p&gt;Since &lt;code&gt;padding&lt;/code&gt; tells the browser the amount of space to preserve &lt;em&gt;inside&lt;/em&gt; a 
+box (between content and border), the padding between any two elements is, 
+loosely speaking, “additive”: 10px of padding on two adjacent boxes will result 
+in 20px of space between their content (assuming no visible border or margin). &lt;/p&gt;
+
+&lt;p&gt;By contrast, &lt;code&gt;margin&lt;/code&gt; specifies the amount of space to preserve &lt;em&gt;around&lt;/em&gt; a box, 
+which will usually be collapsed between two adjacent elements of the same 
+type. A 10px margin on adjacent boxes produces a 10px space between their 
+borders, not 20px.&lt;/p&gt;
+
+&lt;h1 id=&quot;chrome-developer-tools&quot;&gt;Chrome Developer Tools&lt;/h1&gt;
+
+&lt;p&gt;To access Chrome’s Developer Tools, navigate to &lt;code&gt;View &amp;gt; Developer &amp;gt; Developer Tools&lt;/code&gt; 
+or use the keyboard shortcut: &lt;kbd&gt;⌥&lt;/kbd&gt;+&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;I&lt;/kbd&gt; on a Mac, 
+&lt;kbd&gt;ctrl&lt;/kbd&gt;+&lt;kbd&gt;shift&lt;/kbd&gt;+&lt;kbd&gt;I&lt;/kbd&gt; otherwise. &lt;/p&gt;
+
+&lt;p&gt;(NB: Try out and use keyboard shortcuts greedily. They will make your life easier 
+in the long run.)&lt;/p&gt;
+
+&lt;h3 id=&quot;some-of-the-facilities-provided-by-devtools&quot;&gt;Some of the facilities provided by DevTools:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inspect Element&lt;br /&gt;
+Inspect the HTML, CSS, and box model for a given element (click the magnifying 
+glass and hover over a page element). DevTools brings up the relevant HTML, 
+the associated styling, a box model visualization with element dimensions, all 
+sorts of valuable information.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modify CSS In-Place&lt;br /&gt;
+Select a page element. In the “Styles pane”, fiddle with its CSS. Add 
+&lt;code&gt;display: none&lt;/code&gt; to some elements. Pretty neat, huh?&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/editcss.png&quot; alt=&quot;modifycss&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modify HTML In-Place&lt;br /&gt;
+Similarly, in Inspect Element mode, click on part of a web page. You should 
+see the corresponding HTML highlighted in the DevTools Elements panel. 
+Double-click on it and fiddle with it. &lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/edithtml.png&quot; alt=&quot;modifyhtml&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can have all sorts of fun with this. &lt;/p&gt;
+
+&lt;p&gt;To wit, here’s the MDN landing page as it exists by default:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/before.png&quot; alt=&quot;mdn_before&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and here it is after some enhancements&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/after.png&quot; alt=&quot;mdn_after&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In other words, Chrome Developer Tools are extremely useful for interactively 
+testing out potential styling changes or checking out “how they did that” when 
+you see some cool bit of styling on someone else’s site.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-testing&quot;&gt;Mobile Testing&lt;/h3&gt;
+
+&lt;p&gt;Want to see how your web site will look on a mobile device? Hit &lt;kbd&gt;esc&lt;/kbd&gt; 
+(the ‘escape’ key) to bring up the console, then click on “Emulation”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/mobileemulator.png&quot; alt=&quot;mobile_emulator&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- 
+Positioning Content
+==================== --&gt;
+
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.w3schools.com&quot;&gt;w3schools&lt;/a&gt; has a lingering bad reputation earned 
+during its error-ridden early days, but it’s not bad for getting a 
+quick-and-dirty overview of whatever you’re researching. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://developer.mozilla.org&quot;&gt;MDN&lt;/a&gt; is the de facto canonical reference. When 
+someone tells you to RTFM (“Read the Fantastic Manual”) with respect to HTML/CSS,
+they’re most likely referring to the MDN docs. It is detailed and exhaustive, 
+so the best way to find anything in it is with a google search: 
+&lt;code&gt;mdn css font-weight&lt;/code&gt;, for example, or by using Chrome’s find (&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;code&gt;f&lt;/code&gt;) 
+feature on the &lt;a href=&quot;http://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;HTML Element&lt;/a&gt;, &lt;a href=&quot;http://developer.mozilla.org/en-US/docs/Web/HTML/Attributes&quot;&gt;HTML Attribute&lt;/a&gt;, or 
+&lt;a href=&quot;http://developer.mozilla.org/en-US/docs/Web/CSS/Reference&quot;&gt;CSS&lt;/a&gt; reference page.&lt;/p&gt;
+
+&lt;h1 id=&quot;exercises-optional&quot;&gt;Exercises (Optional)&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Create a three-column fixed-width layout with a navbar and header&lt;/li&gt;
+  &lt;li&gt;Create a two-column liquid layout with a navbar and header.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Suggestions: Work with a partner as a &lt;a href=&quot;http://www.wikihow.com/Pair-Program&quot;&gt;driver/navigator pair&lt;/a&gt;. 
+Get feedback on your code from an instructor or TA.&lt;/p&gt;
+
+&lt;!-- starter code? --&gt;
+&lt;!-- see: http://www.maxdesign.com.au/articles/css-layouts --&gt;
+
+&lt;p&gt;&lt;strong&gt;Comments? Questions? Corrections? Use the comments thread below.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/beginning_html_and_css/&quot;&gt;HTML & CSS: The theoretical minimum&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Pre-Course Curriculum]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/prep_work/" />
+  <id>http://0.0.0.0:4000/prep_work</id>
+  <published>2014-07-12T02:00:00-07:00</published>
+  <updated>2014-07-12T02:00:00-07:00</updated>
+  <author>
+    <name>Web Development Primer</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>info@portlandcodeschool.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;tools-installation&quot;&gt;Tools Installation&lt;/h1&gt;
+
+&lt;p&gt;If you haven’t already, make sure you’ve installed the following on your machine:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text 3&lt;/a&gt;, a powerful, lightweight text editor&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.google.com/chrome/browser&quot;&gt;Google Chrome&lt;/a&gt;, the browser you’ll use for development&lt;/li&gt;
+  &lt;li&gt;If you’re on a Mac, Xcode Command Line Tools: 
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mavericks_april_2014.dmg&quot;&gt;for Mavericks&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mountain_lion_april_2014.dmg&quot;&gt;for Mountain Lion&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;other versions of OS X: download from &lt;a href=&quot;http://developer.apple.com&quot;&gt;Apple&lt;/a&gt; (free sign-up required)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://git-scm.com/downloads&quot;&gt;Git&lt;/a&gt;, a version-control system &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sourcetreeapp.com/download&quot;&gt;SourceTree&lt;/a&gt;, an optional GUI for Git&lt;/li&gt;
+  &lt;li&gt;Sign up for a &lt;a href=&quot;http://github.com&quot;&gt;GitHub account&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mac users: Place Terminal in your Dock&lt;/li&gt;
+  &lt;li&gt;Windows users: Place Git Bash (installed with Git) in your Start menu &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- Setting up Terminal (Macs)
+
+
+Copy and paste the following into Terminal:
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;ln -s &amp;quot;/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl&amp;quot; ~/usr/local/bin/subl
+echo &amp;quot;export EDITOR=&amp;#39;subl -w&amp;#39;&amp;quot; &amp;gt;&amp;gt; ~/.bash_profile
+source ~/.bash_profile&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+The first line will allow you to open Sublime Text from the command line by issuing `subl`. The second will make ST your default command-line text editor. --&gt;
+
+&lt;h1 id=&quot;background-for-the-course&quot;&gt;Background for the Course&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Complete &lt;a href=&quot;http://www.codecademy.com/tracks/web&quot;&gt;Web Fundamentals&lt;/a&gt; on Codecademy&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;http://teamtreehouse.com/library/console-foundations-2&quot;&gt;Console Foundations&lt;/a&gt; on Treehouse&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;http://teamtreehouse.com/library/git-basics&quot;&gt;Git Basics&lt;/a&gt; on Treehouse&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+Prep work
+==========
+1. Possible: sections of [Dive Into HTML5](http://diveintohtml5.info) (est: 5 hrs) 
+2. Read [Learn to Code HTML &amp; CSS](http://learn.shayhowe.com/html-css/) (est: 5 hours)
+
+Pre-Course Assessment
+======================
+
+Before the first class meeting, complete the pre-course assessment. &lt;br&gt;&lt;br&gt;
+
+The assessment is meant primarily as a diagnostic to help the instructional staff see what areas we need to focus on during our in-person meetings.
+--&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/prep_work/&quot;&gt;Pre-Course Curriculum&lt;/a&gt; was originally published by Web Development Primer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;The Primer&lt;/a&gt; on July 12, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>

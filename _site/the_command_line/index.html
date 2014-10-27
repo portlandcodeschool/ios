@@ -1,0 +1,494 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>UNIX for Humans: The command line is your friend &#8211; The Primer</title>
+<meta name="description" content="A gentle introduction to working on the command line.">
+<meta name="keywords" content="">
+<!-- Twitter Cards -->
+	
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:image" content=
+			
+				
+						"http://0.0.0.0:4000/images/"
+				
+			
+		>
+	
+	<meta name="twitter:title" content="UNIX for Humans: The command line is your friend">
+	<meta name="twitter:description" content="A gentle introduction to working on the command line.">
+	<meta name="twitter:creator" content="@PDXCodeSchool">
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="UNIX for Humans: The command line is your friend">
+<meta property="og:description" content="A gentle introduction to working on the command line.">
+<meta property="og:url" content="http://0.0.0.0:4000/the_command_line/">
+<meta property="og:site_name" content="The Primer">
+
+
+
+
+
+<link rel="canonical" href="http://0.0.0.0:4000/the_command_line/">
+<link href="http://0.0.0.0:4000/feed.xml" type="application/atom+xml" rel="alternate" title="The Primer Feed">
+<link rel="author" href="http://plus.google.com/+http://plus.google.com/communities/109115545781652920966?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'> -->
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://0.0.0.0:4000/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://0.0.0.0:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://0.0.0.0:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://0.0.0.0:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://0.0.0.0:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://0.0.0.0:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://0.0.0.0:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+
+	<div class="site-name">
+		<!-- <a href="http://0.0.0.0:4000">The Primer</a> -->
+	</div>
+	<!-- /.site-name -->
+
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://0.0.0.0:4000/" >About the course</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/syllabus/" >Syllabus</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/course/" >Curriculum</a></li>
+		        
+				<li><a href="http://0.0.0.0:4000/resources/" >Resources</a></li>
+		        
+				<li><a href="http://portlandcodeschool.com" target="_blank">PCS Home</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://0.0.0.0:4000/the_command_line/" rel="bookmark" title="UNIX for Humans: The command line is your friend">UNIX for Humans: The command line is your friend</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <h1 id="goals">Goals</h1>
+<ol>
+  <li>Configure your shell environment </li>
+  <li>Be able to use <code>ls</code>, <code>mkdir</code>, <code>cp</code>, <code>mv</code>, <code>rm</code>, <code>rmdir</code>, <code>|</code>, <code>&gt;</code>, <code>&gt;&gt;</code>, <code>cat</code>, <code>chmod</code>, <code>chown</code>, <code>cp</code>, <code>export</code></li>
+  <li>Know how to learn about a command you haven’t seen before</li>
+</ol>
+
+<h1 id="the-unix-command-line">The Unix command line</h1>
+
+<p>Web developers spend a lot of time at the command line. Command line interfaces (CLIs) offer few of the visual cues and design affordances provided by GUIs (graphical user interfaces), so you may initially find yourself turning to Google repeatedly to find the right command for the task at hand. That’s perfectly okay. You’ll be using these commands all the time. Soon enough they’ll be committed to muscle memory and you’ll be issuing commands <em>legato</em> like a nerdy Gershwin.</p>
+
+<h2 id="useful-keyboard-shortcuts-for-bash">Useful keyboard shortcuts for Bash</h2>
+<ul>
+  <li>Jump to the start of the line: <kbd>ctrl</kbd> + <kbd>a</kbd></li>
+  <li>Jump to the end of the line: <kbd>ctrl</kbd> + <kbd>e</kbd></li>
+  <li>Kill previous word: <kbd>option</kbd> + <kbd>delete</kbd> (aka <kbd>alt</kbd> + <kbd>backspace</kbd>)</li>
+  <li>Kill to the beginning of the line: <kbd>ctrl</kbd> + <kbd>k</kbd></li>
+  <li>Kill to the end of the line: <kbd>ctrl</kbd> + <kbd>u</kbd></li>
+</ul>
+
+<p>You may find it helpful to map <kbd>ctrl</kbd> to your <kbd>caps lock</kbd> key. On a Mac, you can this by navigating to <strong>System Preferences &gt; Keyboard &gt; Modifier Keys…</strong> and selecting as follows:</p>
+
+<p><img src="http://0.0.0.0:4000/images/capslockremap.jpg" alt="" /></p>
+
+<p>On Windows machines, this requires a <a href="http://johnhaller.com/useful-stuff/disable-caps-lock">registry hack</a> (see <a href="https://superuser.com/questions/334849/how-can-i-remap-capslock-on-windows-7-without-thirdparty-software">here</a>, as well). </p>
+
+<p>It can also be helpful to set your <strong>Key Repeat</strong> rate to its maximum and <strong>Delay Until Repeat</strong> to its the minimum. </p>
+
+<h2 id="basic-unix-commands">Basic Unix commands</h2>
+
+<h3 id="changing-directories">Changing directories</h3>
+
+<ul>
+  <li><code>cd &lt;directory_name&gt;</code> change working directory to <code>&lt;directory_name&gt;</code></li>
+  <li><code>pwd</code> print working (i.e., current) directory</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span><span class="nb">cd</span> ~/Developer/pcs/pcs-primer-notes1
+<span class="nv">$ </span><span class="nb">pwd</span></code></pre></div>
+
+<div class="highlight"><pre><code class="text">/Users/romer/Developer/pcs/pcs-primer-notes1</code></pre></div>
+
+<ul>
+  <li><code>cd ..</code> change directory to parent directory (<code>..</code>)</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span><span class="nb">cd</span> ..
+<span class="nv">$ </span><span class="nb">pwd</span></code></pre></div>
+
+<div class="highlight"><pre><code class="text">/Users/romer/Developer/pcs</code></pre></div>
+
+<ul>
+  <li><code>cd ~</code> change working directory to home directory</li>
+  <li><code>cd</code> same as above (<code>~</code> is the default argument to the <code>cd</code> command)</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span><span class="nb">cd</span> 
+<span class="nv">$ </span><span class="nb">pwd</span></code></pre></div>
+
+<div class="highlight"><pre><code class="text">/Users/romer</code></pre></div>
+
+<h3 id="listing-files">Listing Files</h3>
+
+<ul>
+  <li><code>ls</code> list files</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span><span class="nb">cd</span> ~/Developer/pcs/pcs-primer-notes1
+<span class="nv">$ </span>ls</code></pre></div>
+
+<div class="highlight"><pre><code class="text">figures
+index.html</code></pre></div>
+
+<ul>
+  <li><code>ls -al</code> list all files, including hidden ones (the <code>-a</code> flag), and show all details (the <code>-l</code> flag)</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>ls -al .</code></pre></div>
+
+<div class="highlight"><pre><code class="text">total 3656
+drwxr-xr-x   8 romer  staff      272 Jun  9 11:26 .
+drwxr-xr-x   6 romer  staff      204 Jun  9 01:40 ..
+drwxr-xr-x  12 romer  staff      408 Jun  9 01:39 .git
+drwxr-xr-x   8 romer  staff      272 Jun  8 23:45 figures
+-rw-r--r--   1 romer  staff  1831121 Jun  9 11:26 index.html</code></pre></div>
+
+<ul>
+  <li><strong>NB</strong>: The dot (<code>.</code>) represents the current directory
+    <ul>
+      <li><code>ls .</code> means list files in current directory (but <code>.</code> is the default argument to <code>ls</code> so it can be omitted)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="making-new-directories--files">Making new directories / files</h3>
+
+<ul>
+  <li><code>mkdir &lt;name&gt;</code> create a directory named <code>&lt;name&gt;</code></li>
+  <li><code>touch &lt;name&gt;</code> create an empty file named <code>&lt;name&gt;</code></li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>mkdir new_directory
+<span class="nv">$ </span>touch new_file
+<span class="nv">$ </span>ls</code></pre></div>
+
+<div class="highlight"><pre><code class="text">figures
+index.html
+new_directory
+new_file</code></pre></div>
+
+<p>NB: <code>touch &lt;file&gt;</code> actually updates the “last modified at” attribute of <code>&lt;file&gt;</code> to the current time. But if the file doesn’t exist, it creates an empty one named <code>&lt;file&gt;</code>.</p>
+
+<h3 id="copying-and-moving-files">Copying and moving files</h3>
+
+<ul>
+  <li><code>mv &lt;loc1&gt; &lt;loc2&gt;</code> moves the file at <code>loc1</code> to <code>loc2</code> (equivalently: rename the file at <code>loc1</code> to <code>loc2</code>)</li>
+  <li><code>cp &lt;loc1&gt; &lt;loc2&gt;</code> copy file </li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>cp  new_file   new_directory/copy_of_new_file
+<span class="nv">$ </span>ls . new_directory</code></pre></div>
+
+<div class="highlight"><pre><code class="text">.:
+figures
+index.html
+new_directory
+new_file
+
+new_directory:
+copy_of_new_file</code></pre></div>
+
+<p>Note that we passed two arguments to <code>ls</code>: <code>.</code> and <code>new_directory</code>.</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>mv  new_directory/copy_of_new_file  new_file2
+<span class="nv">$ </span>ls . new_directory</code></pre></div>
+
+<div class="highlight"><pre><code class="text">.:
+figures
+index.html
+new_directory
+new_file
+new_file2
+
+new_directory:</code></pre></div>
+
+<p>And here <code>mv</code> moved and renamed <code>new_directory/copy_of_new_file</code> to <code>./new_file2</code> in one step.</p>
+
+<h3 id="deleting-files-and-directories">Deleting files and directories</h3>
+
+<ul>
+  <li><code>rmdir</code> remove a directory (if it’s empty)</li>
+  <li><code>rm</code> remove file(s)</li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>rmdir new_directory
+<span class="nv">$ </span>rm new_file new_file2</code></pre></div>
+
+<p>Notice we can pass multiple arguments to <code>rm</code> as well—this holds true of most basic unix commands.</p>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>ls -al . new_directory</code></pre></div>
+
+<div class="highlight"><pre><code class="text">.:
+total 3656
+drwxr-xr-x   8 romer  staff      272 Jun  9 11:26 .
+drwxr-xr-x   6 romer  staff      204 Jun  9 01:40 ..
+drwxr-xr-x  12 romer  staff      408 Jun  9 01:39 .git
+drwxr-xr-x   8 romer  staff      272 Jun  8 23:45 figures
+-rw-r--r--   1 romer  staff  1831121 Jun  9 11:26 index.html
+
+ls: cannot access new_directory: No such file or directory</code></pre></div>
+
+<h3 id="finding-out-more">Finding out more</h3>
+
+<p>To find more information about a particular command, pull up its manual page:</p>
+
+<ul>
+  <li><code>man &lt;command&gt;</code> view manual for <code>&lt;command&gt;</code></li>
+  <li>Inside <code>man</code> use 
+    <ul>
+      <li><code>q</code> to exit. </li>
+      <li><code>j</code> to scroll down, <code>k</code> to scroll up </li>
+      <li><code>d</code> to jump down a few lines, <code>u</code> to jump up</li>
+      <li><code>&lt;space&gt;</code> to page down</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="highlight"><pre><code class="sh"><span class="nv">$ </span>man man</code></pre></div>
+
+<div class="highlight"><pre><code class="text">man(1)
+
+
+NAME
+       man - format and display the on-line manual pages
+
+SYNOPSIS
+       man [-acdfFhkKtwW] [--path] [-m system] [-p string] [-C config_file] [-M pathlist] 
+           [-P pager] [-B browser] [-H htmlpager] [-S section_list] [section] name ...
+
+
+DESCRIPTION
+       man  formats  and  displays  the on-line manual pages.  If you specify section, man only 
+       looks in that section of the manual.  name is normally the name of the manual page, which 
+       is typically the name of a command, function, or file.  However, if name contains a slash 
+       (/) then man interprets it as a file specification, so that  you can do man ./foo.5 or even 
+       man /cd/foo/bar.1.gz.</code></pre></div>
+
+<h1 id="exercises-optional">Exercises (Optional)</h1>
+
+<p>Check out “Absolute and relative paths”, “Heading back”, and “Tab completion” in <a href="http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt">“The Designer’s Guide to the OSX command prompt”</a>. Three quick paragraphs that will save you tons of time.</p>
+
+<p>From the command line, </p>
+
+<ol>
+  <li>Change to your home directory (<code>~</code>) and print a listing of all its contents </li>
+  <li>Print a listing of only those files/folders in <code>~</code> that contain a <code>D</code> 
+ <br />(Hint: Google “piping grep”)</li>
+  <li>With a single command, create the listing in (2) and save it to a file on your desktop (see <a href="http://www.december.com/unix/tutor/redirect.html">here</a> for how)</li>
+</ol>
+
+<p>Suggestions: Work with a partner as a <a href="http://www.wikihow.com/Pair-Program">driver/navigator pair</a>. Get feedback on your code from an instructor or TA.</p>
+
+<!-- starter code? -->
+
+<p><strong>Comments? Questions? Corrections? Use the comments thread below.</strong></p>
+
+
+
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          <div id="logo_header">
+  
+    <img src="https://portlandcodeschool.github.io/primer/images/pcs-logo.png" class="bio-photo" alt="Web Development Primer logo"></a>
+  
+
+  <h3>Web Development Primer</h3>
+  <!-- <p></p> -->
+</div>
+
+<div id="social_icons">
+  <a href="http://twitter.com/PDXCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+  <a href="http://facebook.com/PortlandCodeSchool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-facebook-square"></i></a>
+
+  <a href="http://plus.google.com/communities/109115545781652920966" class="author-social inline_social_icon" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+
+  <a href="http://www.linkedin.com/company/portland-code-school" class="author-social inline_social_icon" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+  <a href="http://github.com/portlandcodeschool" class="author-social inline_social_icon" target="_blank"><i class="fa fa-github"></i></a>
+</div>
+
+
+<div class="copyright_info">
+  &copy; 2014 Portland Code School
+</div>
+
+        </div>
+<!--         <p class="byline"><strong>UNIX for Humans: The command line is your friend</strong> was published on <time datetime="2014-07-19T07:00:00-07:00">July 19, 2014</time> by <a href="http://0.0.0.0:4000/about" title="About Web Development Primer">Web Development Primer</a>.</p>
+ -->      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+<!--   <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://0.0.0.0:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://0.0.0.0:4000/after_the_course/" title="Next steps: JavaScript, jQuery, Freelancing">Next steps: JavaScript, jQuery, Freelancing</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/capstone_project_and_presentation/" title="Capstone Project and Presentation">Capstone Project and Presentation</a></li>
+    
+      <li><a href="http://0.0.0.0:4000/git_and_github/" title="Git and GitHub: Collaborating like a pro">Git and GitHub: Collaborating like a pro</a></li>
+    
+    </ul>
+    <hr />
+  </div> -->
+  <!-- /.related-articles -->
+  <footer>
+    
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://0.0.0.0:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://0.0.0.0:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-52721224-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- May need to update Google Analytics support with this script -->
+<!-- <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52721224-1', 'auto');
+  ga('send', 'pageview');
+
+</script> -->
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'pcsprimer'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</body>
+</html>
