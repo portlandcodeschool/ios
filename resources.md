@@ -5,42 +5,35 @@ title: Resources
 tagline: Mobile Development with iOS
 tags: [curriculum]
 ---
-# Apple
+# Apple Developer
 *Many of these require a developer account*
 
-* Developer Library - https://developer.apple.com/
-
-* Introductory tutorial: Start Developing iOS Apps Today - https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343
+* [Developer Library](https://developer.apple.com/)
+* [Introductory tutorial: Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343)
 
 
 # Objective-C
-* Programming with Objective-C - https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210
-
-* Learn X in Y - http://learnxinyminutes.com/docs/objective-c/
+* [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
+* [Learn X in Y](http://learnxinyminutes.com/docs/objective-c/)
 
 ## Getting help
-* Stack Overflow - http://stackoverflow.com/questions/tagged/ios    
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/ios)    
 
 ## Topic - Git
-* Try Git - http:// try.github.com
-* Git Immersion - http://gitimmersion.com
-
-* GitHub's help pages - http://help.github.com
+* [Try Git](http:// try.github.com)
+* [Git Immersion](http://gitimmersion.com)
+* [GitHub's help pages](http://help.github.com)
 
 ## The command line
-
-* Command Line: the Hard Way - http://cli.learncodethehardway.org/book
-
+* [Command Line: the Hard Way](http://cli.learncodethehardway.org/book)
 
 ## Careers</h3>
 
-* Calagator - Portland's tech calendar - http://calagator.org
-* Portland tech meetups - http://www.meetup.com/find/tech/?allMeetups=false&radius=5&userFreeform=Portland%2C+OR&mcId=znull&mcName=Portland%2C+OR&sort=default
-
-
+* [Calagator - Portland's tech calendar](http://calagator.org)
+* [Portland tech meetups](http://www.meetup.com/find/tech/?allMeetups=false&radius=5&userFreeform=Portland%2C+OR&mcId=znull&mcName=Portland%2C+OR&sort=default)
 
 ## Tutorial Providers
-* Treehouse - http://teamtreehouse.com/tracks/ios-development-with-objective-c
-* Code School - https://www.codeschool.com/paths/ios
-* Ray Wenderlich - http://www.raywenderlich.com/tutorials
+* [Treehouse iOS Track](http://teamtreehouse.com/tracks/ios-development-with-objective-c) - included with course
+* [Code School iOS Track](https://www.codeschool.com/paths/ios) - extra subscription required
+* [Ray Wenderlich](http://www.raywenderlich.com/tutorials) - some free, some require subscription
 
