@@ -15,6 +15,8 @@ tags: [curriculum]
 * [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 * [Learn X in Y](http://learnxinyminutes.com/docs/objective-c/)
 
+* Objective-C style guides - TBD
+
 # Using a Mac
 * Using a Keychain - TBD
 
