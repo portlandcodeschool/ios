@@ -5,6 +5,7 @@ title: Schedule
 tagline: Mobile Development with iOS
 tags: [schedule]
 ---
+# Week 1
 
 ## 1. Course Introduction, Overview of iOS and MVC *3 Nov 2014*
   * Plan
@@ -13,10 +14,11 @@ tags: [schedule]
     * MVC pattern in iOS
   * Expectations
     * Understand what will be covered in this course
-    * Be able to define what the iOS SDK
+    * Be able to define what the iOS SDK is
     * Be able to explain what MVC means and it’s structure
+  * Assignment
 
-## 2. Developer Portal and xCode Basics *5 Nov 2014*
+## 2. Developer Portal and xCode Basics *6 Nov 2014*
   * Plan
     * Cover Apple developer portal
     * Create Signing Certificate
@@ -32,6 +34,7 @@ tags: [schedule]
     * Be able to explain which 2 places you can change the app version and other app settings.
     * Be able to explain what a scheme is and what the two most used schemes are.
 
+# Week 2
 ## 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories *10 Nov 2014*
   * Plan
     * Strongly typed vs Dynamically typed
@@ -58,6 +61,13 @@ tags: [schedule]
     * Create a subclass of NSObject with a NSInteger and NSString property.
     * Create a category of NSString with a method that changes a new string foo and returns bar.
 
+## Saturday Session *15 Nov 2014*
+  * Job readiness program introduction
+    * The "package" - online presence (LinkedIn), Resume, Portfolio, github
+    * The process - network, network, network
+  * Open iOS lab 
+
+# Week 3
 ## 5. Unit testing and clean code *17 Nov 2014*
   * Plan
     * Why unit testing is important
@@ -86,6 +96,7 @@ tags: [schedule]
     * Pop from the Second ViewController back to MyController.
     * Push to Second ViewController and then set the Nav stack to only contain Second ViewController
 
+# Week 4
 ## 7. Interface Builder - child controllers, containers, and tab controller *24 Nov 2014*
   * Plan
     * Nibs and Storyboard
@@ -119,6 +130,7 @@ tags: [schedule]
       - When the user selects an option go to a controller to allow them to input Crust type and toppings and submit the order. 
       - Show confirmation screen.
 
+# Week 5
 ## 9. Core graphics *26 Nov 2014*
   * Plan
     * What is Core Graphics used for?
@@ -151,6 +163,7 @@ tags: [schedule]
     * Be able to animate a views width with spring
     * Create a CAShapeLayer that is a circle and animate it to a square.
 
+# Week 6
 ## 11. Animations and Autolayout *3 Dec 2014*
   * Plans
     * Cover basic animations
@@ -161,13 +174,14 @@ tags: [schedule]
     * Animate a views location/size
     * Use Animations with Autolayout (animate ‘constraints’)
 
+## 12. UIDynamics, Scroll views *8 Dec 2014*
 
-## 12. UIDynamics, Scroll views 8 Dec 2014
-
+# Week 7
 ## 13. Open QA, Review *10 Dec 2014*
 
 ## 14. Multiple MVCs - child controllers, containers, and tab controller *15 Dec 2014*
 
+# Week 8
 ## 15. Table Views *17 Dec 2014*
   * Plan
     * What are table views
@@ -196,6 +210,7 @@ tags: [schedule]
     * Edit collection view
     * (maybe) create a custom layout
 
+# Week 9
 ## 17. MultiThreading *7 Jan 2015*
   * Plan
     * What is GCD
@@ -219,6 +234,7 @@ tags: [schedule]
     * Be able to communicate with a web server via JSON
     * Be able to create an API class for app interaction
 
+# Week 10
 ## 19. Working with Local Data - Documents and Core Data *14 Dec 2015*
   * Plan
     * What is Core Data
@@ -241,26 +257,32 @@ tags: [schedule]
     * Filter results with UISearchBar
     * Save changes back
 
+# Week 11
 ## 21. Core Location, Mapkit *21 Jan 2015*
 
 ## 22. UI activity sharing *26 Jan 2015*
 
+# Week 12
 ## 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *28 Jan 2015*
 
 ## 24. App Brainstorm *2 Feb 2015*
 
+# Week 13
 ## 25. Open QA, Review *4 Feb 2015*
 
 ## 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *9 Feb 2015*
 
+# Week 14
 ## 27. App work *11 Feb 2015*
 
 ## 28. App work *16 Feb 2015*
 
+# Week 15
 ## 29. App work *18 Feb 2015*
 
 ## 30. App work *23 Feb 2015*
 
-## 31. Preparing you app for distribution *25 Feb 2015*
+# Week 16
+## 31. Preparing your app for distribution *25 Feb 2015*
 
 ## 32. Wrap up *2 Mar 2015*
