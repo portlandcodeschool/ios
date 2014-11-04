@@ -20,7 +20,7 @@ tbd
 
 
 ### Meeting hours:
-Monday & Wednesday 6PM to 9PM
+Monday & Thursday 6PM to 9PM
 One Saturday a month, 9a - 5p. See the schedule.
 
 Open lab time and teaching assistants are available to all students during the week at PCS.
@@ -32,7 +32,7 @@ Portland, OR 97209
 
 ### Instructor: 
 
-**Erick Bennett*
+**Erick Bennett**
 
 
 
