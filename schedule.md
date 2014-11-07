@@ -18,13 +18,13 @@ tags: [schedule]
     * Be able to explain what MVC means and it’s structure
   * Assignment
 
-## 2. Developer Portal and xCode Basics *6 Nov 2014*
+## 2. Developer Portal and Xcode Basics *6 Nov 2014*
   * Plan
     * Cover Apple developer portal
     * Create Signing Certificate
     * Create Provisioning Profile
     * Overview of Xcode
-    * Create new app project in xCode
+    * Create new app project in Xcode
     * Storyboard and  Interface build overview
     * Info Plist and Project settings
   * Expectations
