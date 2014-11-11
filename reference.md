@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /schedule/
-title: Schedule
+permalink: /reference/
+title: Class Reference
 tagline: Mobile Development with iOS
-tags: [schedule]
+tags: [reference]
 ---
 # Week 1
 
