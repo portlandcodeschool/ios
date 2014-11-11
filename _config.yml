@@ -32,6 +32,8 @@ links:
     url: /course/
   - title: Resources
     url: /resources/
+  - title: Class Reference
+    url: /reference/
   - title: PCS Home
     url: http://portlandcodeschool.com
     external: true
