@@ -8,7 +8,8 @@ tags: [reference]
 # Week 2
 * [Slides 11/10/14 - Variables, Methods and more](https://docs.google.com/presentation/d/1OECBtnPFaUFNtPXx55SBDhPsVGlKWU3VxNF5L52C8N4/edit#slide=id.g46d2eb907_15)
 
-Current Assignment - Using Storyboard, UILabels and NSArrays.
+###Current Assignment - Using Storyboard, UILabels and NSArrays.
+
 * Create a new project from the “Single View Application” template.
 
 * On the StoryBoard, drag in 3 UILabels, connect each one to your ViewController.h giving each one its own reference name.
