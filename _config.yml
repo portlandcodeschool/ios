@@ -43,7 +43,7 @@ future:      true
 highlighter: pygments
 markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# https://github.com/mojombo/jekyll/wiki/Permalinks!
 permalink:   /:title/
 
 kramdown:
