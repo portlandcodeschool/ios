@@ -11,7 +11,7 @@ tags: [reference]
 * [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing)
 
 ### Current Assignment
-Please go over the slides originally scheduled for today [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing) and watch the following videos.
+Please go over the slides originally scheduled for today (we will go over these as a class still) [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing) and watch the following videos.
 
 * [Categories - Treehouse](http://teamtreehouse.com/library/ios-foundations/blocks-and-categories/categories)
 
