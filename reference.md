@@ -6,9 +6,20 @@ tagline: Mobile Development with iOS
 tags: [reference]
 ---
 # Week 2
+
+####Class 4
+* [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing)
+
+### Current Assignment
+Please go over the slides originally scheduled for today [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing) and watch the following videos.
+* [Categories - Treehouse](http://teamtreehouse.com/library/ios-foundations/blocks-and-categories/categories)
+
+* [Nearby Networking with Multipeer connectivity](https://developer.apple.com/videos/enterprise/#15)
+
+####Class 3
 * [Slides 11/10/14 - Variables, Methods and more](https://docs.google.com/presentation/d/1OECBtnPFaUFNtPXx55SBDhPsVGlKWU3VxNF5L52C8N4/edit#slide=id.g46d2eb907_15)
 
-###Current Assignment - Using Storyboard, UILabels and NSArrays.
+###Class 3 Assignment - Using Storyboard, UILabels and NSArrays.
 
 * Create a new project from the “Single View Application” template.
 
