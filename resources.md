@@ -11,6 +11,10 @@ tags: [curriculum]
 * [Developer Library](https://developer.apple.com/)
 * [Introductory tutorial: Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343)
 
+# Xcode
+* [Using Github with Xcode](https://docs.google.com/presentation/d/1MK65mG0SV4JLt9PmfcZYO7tFz_2dQMgcughcQDggaFc/edit?usp=sharing)
+
+
 # Objective-C
 * [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 * [Learn X in Y](http://learnxinyminutes.com/docs/objective-c/)
