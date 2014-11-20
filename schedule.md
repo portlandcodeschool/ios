@@ -51,7 +51,7 @@ tags: [schedule]
     * Create a method that returns a Boolean.
     * Be able to explain the parts of a method signature
 
-## 4. Objective-c Fundamentals - NSObjects, UIKit *13 Nov 2014*
+## 4. Objective-c Fundamentals - NSObjects, UIKit *17 Nov 2014*
   * Plan
     * Objects, Headers and Implementation Files
     * Properties, methods, strong, assign, readonly
@@ -61,15 +61,23 @@ tags: [schedule]
     * Create a subclass of NSObject with a NSInteger and NSString property.
     * Create a category of NSString with a method that changes a new string foo and returns bar.
 
-## Saturday Session *15 Nov 2014*
-  * Job readiness program introduction
-    * The "package" - online presence (LinkedIn), Resume, Portfolio, github
-    * The process - network, network, network
-  * Open iOS lab 
-
 # Week 3
 
-## 5. Unit testing and clean code *17 Nov 2014*
+## 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. *20 Nov 2014*
+  * Plan
+    * Common code formatting practices.
+    * UIViews
+    * UITextfields
+    * UINavigation Controllers
+    * Pushing and Popping controllers, Root controllers, Creating a new nav stack.
+    * App work (LocalChat)
+  * Expectations 
+    * Be able to create a UIView call MyView.
+    * Be able to create and respond to a UITextfield and keyboard.
+    * Be able to create and use a navigation controller.
+    * Start project app.
+ 
+## 6. Unit testing and clean code *24 Nov 2014*
   * Plan
     * Why unit testing is important
     * Creating a project with XCTest
@@ -83,25 +91,9 @@ tags: [schedule]
     * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
     * Explain the difference between Command and Query methods.
 
-## 6. View Controllers, Lifecycle, and Navigation *20 Nov 2014*
-  * Plan
-    * What is a view controller.
-    * Basic UIViewController methods, Title, nav items, view.
-    * UINavigation controllers, nav stacks and presentations.
-    * Lifecycle of a presented controller.
-    * Pushing and Popping controllers, Root controllers, Creating a new nav stack.
-    * UIViews
-    * UIImages and UIImageViews
-  * Expectations 
-    * Be able to create a view controller call MyViewController.
-    * Be able to change the background color to red once the controller was shown.
-    * Push to a new View controller from MyController with a blue background.
-    * Pop from the Second ViewController back to MyController.
-    * Push to Second ViewController and then set the Nav stack to only contain Second ViewController
-
 # Week 4
 
-## 7. Table Views *24 Nov 2014*
+## 7. Table Views *1 Dec 2014*
   * Plan
     * What are table views
     * Many faces of table views
@@ -115,7 +107,7 @@ tags: [schedule]
     * Static/dynamic cells. 
     * UIRefreshControl
 
-## 8. Interface Builder - child controllers, containers, and tab controller *1 Dec 2014*
+## 8. Interface Builder - child controllers, containers, and tab controller *4 Dec 2014*
   * Plan
     * Nibs and Storyboard
     * IBOutlets, Attribute Inspector, Dynamic Cells
@@ -134,7 +126,7 @@ tags: [schedule]
 
 # Week 5
 
-## 9. Collection Views *4 Dec 2015*
+## 9. Collection Views *8 Dec 2015*
   * Plan
     * What is a Collection view
     * why collection views
@@ -147,7 +139,7 @@ tags: [schedule]
     * Customize cell layout/sizes/stuff
     * Edit collection view
 
-## 10. Views and Gestures *8 Dec 2014*
+## 10. Views and Gestures *11 Dec 2014*
   * Plan
     * UIButtons, UISegmentControls, UISwitches
     * UITableViews and UIScrollViews
@@ -163,7 +155,7 @@ tags: [schedule]
 
 # Week 6
 
-## 11. Core graphics *11 Dec 2014*
+## 11. Core graphics *15 Dec 2014*
   * Plan
     * What is Core Graphics used for?
     * UI Graphic context
@@ -179,7 +171,7 @@ tags: [schedule]
     * Be able to create a rounded rectangle with a gradient background.
     * Be able to create a clock layer that shows current time.
 
-## 12. Protocols, Notifications, Blocks, Animations *15 Dec 2014*
+## 12. Protocols, Notifications, Blocks, Animations *18 Dec 2014*
   * Plan
     * What is a Protocol?
     * What is a notification?
@@ -197,7 +189,7 @@ tags: [schedule]
 
 # Week 7
 
-## 13. Animations and Autolayout *18 Dec 2014*
+## 13. Animations and Autolayout *5 Jan 2014*
   * Plans
     * Cover basic animations
     * Why to use auto layout
@@ -207,17 +199,17 @@ tags: [schedule]
     * Animate a views location/size
     * Use Animations with Autolayout (animate ‘constraints’)
 
-## 14. UIDynamics *5 Jan 2014*
+## 14. UIDynamics *8 Jan 2014*
 
 # Week 8
 
-## 15. Open QA, Review *8 Jan 2014*
+## 15. Open QA, Review *12 Jan 2014*
 
-## 16. Multiple MVCs - child controllers, containers, and tab controller *12 Jan 2014*
+## 16. Multiple MVCs - child controllers, containers, and tab controller *15 Jan 2014*
 
 # Week 9
 
-## 17. MultiThreading *15 Jan 2015*
+## 17. MultiThreading *19 Jan 2015*
   * Plan
     * What is GCD
     * What are NSOperationQueues
@@ -231,7 +223,7 @@ tags: [schedule]
     * Explain most common memory issues
     * Explain issues/bugs that can happen from async code
 
-## 18. Networking *19 Jan 2015*
+## 18. Networking *22 Jan 2015*
   * Plan
     * What is NSURLConnection/Session
     * Processing JSON data
@@ -242,7 +234,7 @@ tags: [schedule]
 
 # Week 10
 
-## 19. Working with Local Data - Documents and Core Data *22 Jan 2015*
+## 19. Working with Local Data - Documents and Core Data *26 Jan 2015*
   * Plan
     * What is Core Data
     * Why use Core Data
@@ -253,7 +245,7 @@ tags: [schedule]
     * Create new entities & relations between entities
     * CRUD operations with CoreData
 
-## 20. Presenting data - Core data and Table View *26 Jan 2015*
+## 20. Presenting data - Core data and Table View *29 Jan 2015*
   * Plan
     * NSFetchedResultsController
     * Getting results from core data without NSFetchedResults
@@ -266,36 +258,36 @@ tags: [schedule]
 
 # Week 11
 
-## 21. Core Location, Mapkit *29 Jan 2015*
+## 21. Core Location, Mapkit *2 Feb 2015*
 
-## 22. UI activity sharing *2 Feb 2015*
+## 22. UI activity sharing *5 Feb 2015*
 
 # Week 12
 
-## 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *5 Feb 2015*
+## 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *9 Feb 2015*
 
-## 24. App Brainstorm *9 Feb 2015*
+## 24. App Brainstorm *12 Feb 2015*
 
 # Week 13
 
-## 25. Open QA, Review *12 Feb 2015*
+## 25. Open QA, Review *16 Feb 2015*
 
-## 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *16 Feb 2015*
+## 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *19 Feb 2015*
 
 # Week 14
 
-## 27. App work *19 Feb 2015*
+## 27. App work *23 Feb 2015*
 
-## 28. App work *23 Feb 2015*
+## 28. App work *26 Feb 2015*
 
 # Week 15
 
-## 29. App work *26 Feb 2015*
+## 29. App work *2 Mar 2015*
 
-## 30. App work *2 Mar 2015*
+## 30. App work *5 Mar 2015*
 
 # Week 16
 
-## 31. Preparing your app for distribution *5 Mar 2015*
+## 31. Preparing your app for distribution *9 Mar 2015*
 
-## 32. Wrap up *9 Mar 2015*
+## 32. Wrap up *12 Mar 2015*
