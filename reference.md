@@ -5,7 +5,9 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
-# Week 2
+####Class 5
+* [Slides 11/20/14 - Code formatting, Views, Textfields, Navigation stacks and starting an app](https://docs.google.com/presentation/d/1nKsy1zb9slQszgEhlv4RGzuX-ZkeJoo_4UJ_WwTIqdU/edit?usp=sharing)
+
 
 ####Class 4
 * [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing)
