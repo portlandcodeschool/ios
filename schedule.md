@@ -76,24 +76,8 @@ tags: [schedule]
     * Be able to create and respond to a UITextfield and keyboard.
     * Be able to create and use a navigation controller.
     * Start project app.
- 
-## 6. Unit testing and clean code *24 Nov 2014*
-  * Plan
-    * Why unit testing is important
-    * Creating a project with XCTest
-    * Importing OCMock
-    * Tips for how to make testing easier
-    * Clean methods
-    * Functionaly programming tips
-  * Expectations
-    * Explain why you should write unit test
-    * Create a new subclass of NSObject, write a method called addFour that takes one number and adds 4 and returns the new number. Write a unit test that proves that given 0 it returns 4. Given 131 it returns 135.
-    * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
-    * Explain the difference between Command and Query methods.
 
-# Week 4
-
-## 7. Table Views *1 Dec 2014*
+## 6. Table Views *24 Nov 2014*
   * Plan
     * What are table views
     * Many faces of table views
@@ -106,6 +90,23 @@ tags: [schedule]
     * Customize cell layout
     * Static/dynamic cells. 
     * UIRefreshControl
+
+
+# Week 4
+
+## 7. Unit testing and clean code *1 Dec 2014*
+  * Plan
+    * Why unit testing is important
+    * Creating a project with XCTest
+    * Importing OCMock
+    * Tips for how to make testing easier
+    * Clean methods
+    * Functionaly programming tips
+  * Expectations
+    * Explain why you should write unit test
+    * Create a new subclass of NSObject, write a method called addFour that takes one number and adds 4 and returns the new number. Write a unit test that proves that given 0 it returns 4. Given 131 it returns 135.
+    * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
+    * Explain the difference between Command and Query methods.
 
 ## 8. Interface Builder - child controllers, containers, and tab controller *4 Dec 2014*
   * Plan
