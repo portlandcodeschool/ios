@@ -13,6 +13,7 @@ tags: [curriculum]
 
 # Xcode
 * [Using Github with Xcode](https://docs.google.com/presentation/d/1MK65mG0SV4JLt9PmfcZYO7tFz_2dQMgcughcQDggaFc/edit?usp=sharing)
+* [Videos - Create new Xcode Project with github, push, pull and cloning an existing repo into Xcode] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaWEJXTG43Y2N3Z3M&usp=sharing)
 
 
 # Objective-C
