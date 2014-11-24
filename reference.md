@@ -7,12 +7,17 @@ tags: [reference]
 ---
 ####Class 5
 * [Slides 11/20/14 - Code formatting, Views, Textfields, Navigation stacks and starting an app](https://docs.google.com/presentation/d/1nKsy1zb9slQszgEhlv4RGzuX-ZkeJoo_4UJ_WwTIqdU/edit?usp=sharing)
+* [Video - LocalChat Part 1 - Adding initial textfield and send button. Creating references, Updating autoLayout constraints] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [Video - LocalChat Part 2 - Responding to Keyboard events using NSNotification Center, TapGestureRecognizer, hiding the keyboard and simple way to animate a view.] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [Video - LocalChat Part 3 - Delegates, Setting our Textfield delegate, custom code to respond to those delegate calls.] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
 
 ####Class 4
 * [Slides 11/13/14 - Properties, Subclassing, Frameworks, Categories & NSDictionaries](https://docs.google.com/presentation/d/1NCnitdREfOq748VDD4rnCtVX8p2KuDpg7gB1K5yINfw/edit?usp=sharing)
 
 * [Github and Xcode instructions](https://docs.google.com/presentation/d/1MK65mG0SV4JLt9PmfcZYO7tFz_2dQMgcughcQDggaFc/edit?usp=sharing)
+
+* [Github and Xcode videos - Create new, Push, Pull and Clone and existing repo into Xcode.] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaWEJXTG43Y2N3Z3M&usp=sharing)
 
 
 ### Class 4 Assignment
