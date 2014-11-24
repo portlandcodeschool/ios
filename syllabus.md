@@ -35,7 +35,7 @@ Portland, OR 97209
 **Erick Bennett**
 
 Email: ebennett@portlandcodeschool.com <br>
-Office Hours: Before class on Monday/Thursday 4-6pm, Sundays 12-2pm.
+Office Hours: Before class on Monday/Thursday 4-6pm, Sundays 12-2pm (except when following Saturday classes).
 
 
 Teaching assistant: **Al Zimmerman**
