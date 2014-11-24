@@ -7,7 +7,7 @@ tags: [reference]
 ---
 ####Class 5
 * [Slides 11/20/14 - Code formatting, Views, Textfields, Navigation stacks and starting an app](https://docs.google.com/presentation/d/1nKsy1zb9slQszgEhlv4RGzuX-ZkeJoo_4UJ_WwTIqdU/edit?usp=sharing)
-* [Video LocalChat Part 1 Adding initial textfield and send button. Creating references, Updating autoLayout constraints] (https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [Video LocalChat Part 1 Adding initial textfield and send button. Creating references, Updating autoLayout constraints](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 * [Video - LocalChat Part 2 - Responding to Keyboard events using NSNotification Center, TapGestureRecognizer, hiding the keyboard and simple way to animate a view.](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 * [Video - LocalChat Part 3 - Delegates, Setting our Textfield delegate, custom code to respond to those delegate calls.](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
