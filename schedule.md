@@ -153,6 +153,9 @@ tags: [schedule]
     * Create a View controller to show the user 2  options for ordering pizza, take out or delivery. 
       - When the user selects an option go to a controller to allow them to input Crust type and toppings and submit the order. 
       - Show confirmation screen.
+ 
+# Saturday Class *13 Dec 2014*
+* 9 to 5pm (app work, individual help and Core graphics prep)
 
 # Week 6
 
