@@ -5,8 +5,12 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 7
+* [Prep 12/1/14 - Unit testing and custom TableViewCells](https://docs.google.com/presentation/d/186-RjOPWLSo3OhnLs6XG3qEyWydA75wIwWXVE3fZ4zk/edit?usp=sharing)
+
 ####Class 6
 * [Slides 11/24/14 - UITableViews, UITableViewCells and more LocalChat work](https://docs.google.com/presentation/d/1A6u-z-7rOaG73t7rLo0zzQX1dXzcCjpsJQv8ZGMDru0/edit?usp=sharing)
+* [Assignment 11/24/14](https://docs.google.com/presentation/d/178qme-52aeg91azA8Kb4bzlKMFcXbwbU0vFVW-ft92A/edit?usp=sharing)
 
 ####Class 5
 * [Slides 11/20/14 - Code formatting, Views, Textfields, Navigation stacks and starting an app](https://docs.google.com/presentation/d/1nKsy1zb9slQszgEhlv4RGzuX-ZkeJoo_4UJ_WwTIqdU/edit?usp=sharing)
