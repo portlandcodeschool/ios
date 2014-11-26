@@ -11,6 +11,10 @@ tags: [reference]
 ####Class 6
 * [Slides 11/24/14 - UITableViews, UITableViewCells and more LocalChat work](https://docs.google.com/presentation/d/1A6u-z-7rOaG73t7rLo0zzQX1dXzcCjpsJQv8ZGMDru0/edit?usp=sharing)
 * [Assignment 11/24/14](https://docs.google.com/presentation/d/178qme-52aeg91azA8Kb4bzlKMFcXbwbU0vFVW-ft92A/edit?usp=sharing)
+* [Video - Tableviews in storyboard](https://drive.google.com/file/d/0B1jxDrjd4WIaMnpkTTBIR1BQTnM/view?usp=sharing)
+* [Video - Tableviews in code](https://drive.google.com/file/d/0B1jxDrjd4WIaTjRXNU1CUjl0dFE/view?usp=sharing)
+* [Video - Reording views in storyboard](https://drive.google.com/file/d/0B1jxDrjd4WIaODItMjQ4dHJUWUE/view?usp=sharing)
+* [Video - LocalChat Part 4](https://drive.google.com/file/d/0B1jxDrjd4WIabVlJRGx4cE4wRDQ/view?usp=sharing)
 
 ####Class 5
 * [Slides 11/20/14 - Code formatting, Views, Textfields, Navigation stacks and starting an app](https://docs.google.com/presentation/d/1nKsy1zb9slQszgEhlv4RGzuX-ZkeJoo_4UJ_WwTIqdU/edit?usp=sharing)
