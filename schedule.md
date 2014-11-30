@@ -22,6 +22,7 @@ tags: [schedule]
 
 ## Class 2. Developer Portal and Xcode Basics 
 *6 Nov 2014*
+
   * Plan
     * Cover Apple developer portal
     * Create Signing Certificate
@@ -39,6 +40,7 @@ tags: [schedule]
 
 ## Class 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories 
 *10 Nov 2014*
+
   * Plan
     * Strongly typed vs Dynamically typed
     * Compiler
@@ -57,6 +59,7 @@ tags: [schedule]
 
 ## Class 4. Objective-c Fundamentals - NSObjects, UIKit 
 *17 Nov 2014*
+
   * Plan
     * Objects, Headers and Implementation Files
     * Properties, methods, strong, assign, readonly
@@ -69,6 +72,7 @@ tags: [schedule]
 
 ## Class 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. 
 *20 Nov 2014*
+
   * Plan
     * Common code formatting practices.
     * UIViews
@@ -85,6 +89,7 @@ tags: [schedule]
 
 ## Class 6. Table Views 
 *24 Nov 2014*
+
   * Plan
     * What are table views
     * Many faces of table views
@@ -101,6 +106,7 @@ tags: [schedule]
 
 ## Class 7. Unit testing and clean code 
 *1 Dec 2014*
+
   * Plan
     * Why unit testing is important
     * Creating a project with XCTest
@@ -117,6 +123,7 @@ tags: [schedule]
 
 ## Class 8. Interface Builder - child controllers, containers, and tab controller 
 *4 Dec 2014*
+
   * Plan
     * Nibs and Storyboard
     * IBOutlets, Attribute Inspector, Dynamic Cells
@@ -136,6 +143,7 @@ tags: [schedule]
 
 ## Class 9. Collection Views 
 *8 Dec 2015*
+
   * Plan
     * What is a Collection view
     * why collection views
@@ -151,6 +159,7 @@ tags: [schedule]
 
 ## Class 10. Views and Gestures 
 *11 Dec 2014*
+
   * Plan
     * UIButtons, UISegmentControls, UISwitches
     * UITableViews and UIScrollViews
@@ -167,11 +176,13 @@ tags: [schedule]
 
 # Saturday Class 
 *13 Dec 2014*
+
 * 9 to 5pm (app work, individual help and Core graphics prep)
 
 
 ## Class 11. Core graphics 
 *15 Dec 2014*
+
   * Plan
     * What is Core Graphics used for?
     * UI Graphic context
@@ -190,6 +201,7 @@ tags: [schedule]
 
 ## Class 12. Protocols, Notifications, Blocks, Animations 
 *18 Dec 2014*
+
   * Plan
     * What is a Protocol?
     * What is a notification?
@@ -208,6 +220,7 @@ tags: [schedule]
 
 ## Class 13. Animations and Autolayout 
 *5 Jan 2014*
+
   * Plans
     * Cover basic animations
     * Why to use auto layout
@@ -231,6 +244,7 @@ tags: [schedule]
 
 ## Class 17. MultiThreading 
 *19 Jan 2015*
+
   * Plan
     * What is GCD
     * What are NSOperationQueues
@@ -247,6 +261,7 @@ tags: [schedule]
 
 ## Class 18. Networking 
 *22 Jan 2015*
+
   * Plan
     * What is NSURLConnection/Session
     * Processing JSON data
@@ -258,6 +273,7 @@ tags: [schedule]
 
 ## Class 19. Working with Local Data - Documents and Core Data 
 *26 Jan 2015*
+
   * Plan
     * What is Core Data
     * Why use Core Data
@@ -271,6 +287,7 @@ tags: [schedule]
 
 ## Class 20. Presenting data - Core data and Table View 
 *29 Jan 2015*
+
   * Plan
     * NSFetchedResultsController
     * Getting results from core data without NSFetchedResults
