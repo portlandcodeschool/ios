@@ -7,7 +7,7 @@ tags: [schedule]
 ---
 
 ## Class 1. Course Introduction, Overview of iOS and MVC 
-*3 Nov 2014*
+**3 Nov 2014**
 
   * Plan
     * Read over course outline.
@@ -20,8 +20,9 @@ tags: [schedule]
   * Assignment
 
 
+
 ## Class 2. Developer Portal and Xcode Basics 
-*6 Nov 2014*
+**6 Nov 2014**
 
   * Plan
     * Cover Apple developer portal
@@ -39,7 +40,7 @@ tags: [schedule]
 
 
 ## Class 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories 
-*10 Nov 2014*
+**10 Nov 2014**
 
   * Plan
     * Strongly typed vs Dynamically typed
@@ -58,7 +59,7 @@ tags: [schedule]
 
 
 ## Class 4. Objective-c Fundamentals - NSObjects, UIKit 
-*17 Nov 2014*
+**17 Nov 2014**
 
   * Plan
     * Objects, Headers and Implementation Files
@@ -71,7 +72,7 @@ tags: [schedule]
 
 
 ## Class 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. 
-*20 Nov 2014*
+**20 Nov 2014**
 
   * Plan
     * Common code formatting practices.
@@ -88,7 +89,7 @@ tags: [schedule]
 
 
 ## Class 6. Table Views 
-*24 Nov 2014*
+**24 Nov 2014**
 
   * Plan
     * What are table views
@@ -105,7 +106,7 @@ tags: [schedule]
 
 
 ## Class 7. Unit testing and clean code 
-*1 Dec 2014*
+**1 Dec 2014**
 
   * Plan
     * Why unit testing is important
@@ -122,7 +123,7 @@ tags: [schedule]
 
 
 ## Class 8. Interface Builder - child controllers, containers, and tab controller 
-*4 Dec 2014*
+**4 Dec 2014**
 
   * Plan
     * Nibs and Storyboard
@@ -142,7 +143,7 @@ tags: [schedule]
 
 
 ## Class 9. Collection Views 
-*8 Dec 2015*
+**8 Dec 2015**
 
   * Plan
     * What is a Collection view
@@ -158,7 +159,7 @@ tags: [schedule]
 
 
 ## Class 10. Views and Gestures 
-*11 Dec 2014*
+**11 Dec 2014**
 
   * Plan
     * UIButtons, UISegmentControls, UISwitches
@@ -175,13 +176,13 @@ tags: [schedule]
  
 
 # Saturday Class 
-*13 Dec 2014*
+**13 Dec 2014**
 
 * 9 to 5pm (app work, individual help and Core graphics prep)
 
 
 ## Class 11. Core graphics 
-*15 Dec 2014*
+**15 Dec 2014**
 
   * Plan
     * What is Core Graphics used for?
@@ -200,7 +201,7 @@ tags: [schedule]
 
 
 ## Class 12. Protocols, Notifications, Blocks, Animations 
-*18 Dec 2014*
+**18 Dec 2014**
 
   * Plan
     * What is a Protocol?
@@ -219,7 +220,7 @@ tags: [schedule]
 
 
 ## Class 13. Animations and Autolayout 
-*5 Jan 2014*
+**5 Jan 2014**
 
   * Plans
     * Cover basic animations
@@ -231,19 +232,19 @@ tags: [schedule]
     * Use Animations with Autolayout (animate ‘constraints’)
 
 ## Class 14. UIDynamics 
-*8 Jan 2014*
+**8 Jan 2014**
 
 
 ## Class 15. Open QA, Review 
-*12 Jan 2014*
+**12 Jan 2014**
 
 
 ## Class 16. Multiple MVCs - child controllers, containers, and tab controller 
-*15 Jan 2014*
+**15 Jan 2014**
 
 
 ## Class 17. MultiThreading 
-*19 Jan 2015*
+**19 Jan 2015**
 
   * Plan
     * What is GCD
@@ -260,7 +261,7 @@ tags: [schedule]
 
 
 ## Class 18. Networking 
-*22 Jan 2015*
+**22 Jan 2015**
 
   * Plan
     * What is NSURLConnection/Session
@@ -272,7 +273,7 @@ tags: [schedule]
 
 
 ## Class 19. Working with Local Data - Documents and Core Data 
-*26 Jan 2015*
+**26 Jan 2015**
 
   * Plan
     * What is Core Data
@@ -286,7 +287,7 @@ tags: [schedule]
 
 
 ## Class 20. Presenting data - Core data and Table View 
-*29 Jan 2015*
+**29 Jan 2015**
 
   * Plan
     * NSFetchedResultsController
@@ -300,48 +301,48 @@ tags: [schedule]
 
 
 ## Class 21. Core Location, Mapkit 
-*2 Feb 2015*
+**2 Feb 2015**
 
 
 ## Class 22. UI activity sharing 
-*5 Feb 2015*
+**5 Feb 2015**
 
 
 ## Class 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing 
-*9 Feb 2015*
+**9 Feb 2015**
 
 
 ## Class 24. App Brainstorm 
-*12 Feb 2015*
+**12 Feb 2015**
 
 
 ## Class 25. Open QA, Review 
-*16 Feb 2015*
+**16 Feb 2015**
 
 
 ## Class 26. iPad, iPhone, Universal - Multiple storyboards, reusable code 
-*19 Feb 2015*
+**19 Feb 2015**
 
 
 ## Class 27. App work 
-*23 Feb 2015*
+**23 Feb 2015**
 
 
 ## Class 28. App work 
-*26 Feb 2015*
+**26 Feb 2015**
 
 
 ## Class 29. App work 
-*2 Mar 2015*
+**2 Mar 2015**
 
 
 ## Class 30. App work 
-*5 Mar 2015*
+**5 Mar 2015**
 
 
 ## Class 31. Preparing your app for distribution 
-*9 Mar 2015*
+**9 Mar 2015**
 
 
 ## Class 32. Wrap up 
-*12 Mar 2015*
+**12 Mar 2015**
