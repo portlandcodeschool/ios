@@ -5,9 +5,8 @@ title: Schedule
 tagline: Mobile Development with iOS
 tags: [schedule]
 ---
-# Week 1
 
-## 1. Course Introduction, Overview of iOS and MVC *3 Nov 2014*
+## Class 1. Course Introduction, Overview of iOS and MVC *3 Nov 2014*
   * Plan
     * Read over course outline.
     * What is iOS?
@@ -18,7 +17,8 @@ tags: [schedule]
     * Be able to explain what MVC means and it’s structure
   * Assignment
 
-## 2. Developer Portal and Xcode Basics *6 Nov 2014*
+
+## Class 2. Developer Portal and Xcode Basics *6 Nov 2014*
   * Plan
     * Cover Apple developer portal
     * Create Signing Certificate
@@ -33,9 +33,8 @@ tags: [schedule]
     * Create a new basic application
     * Linking storyboard elements
 
-# Week 2
 
-## 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories *10 Nov 2014*
+## Class 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories *10 Nov 2014*
   * Plan
     * Strongly typed vs Dynamically typed
     * Compiler
@@ -51,7 +50,8 @@ tags: [schedule]
     * Create a method that returns a Boolean.
     * Be able to explain the parts of a method signature
 
-## 4. Objective-c Fundamentals - NSObjects, UIKit *17 Nov 2014*
+
+## Class 4. Objective-c Fundamentals - NSObjects, UIKit *17 Nov 2014*
   * Plan
     * Objects, Headers and Implementation Files
     * Properties, methods, strong, assign, readonly
@@ -61,9 +61,8 @@ tags: [schedule]
     * Create a subclass of NSObject with a NSInteger and NSString property.
     * Create a category of NSString with a method that changes a new string foo and returns bar.
 
-# Week 3
 
-## 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. *20 Nov 2014*
+## Class 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. *20 Nov 2014*
   * Plan
     * Common code formatting practices.
     * UIViews
@@ -77,7 +76,8 @@ tags: [schedule]
     * Be able to create and use a navigation controller.
     * Start project app.
 
-## 6. Table Views *24 Nov 2014*
+
+## Class 6. Table Views *24 Nov 2014*
   * Plan
     * What are table views
     * Many faces of table views
@@ -92,9 +92,7 @@ tags: [schedule]
     * UIRefreshControl
 
 
-# Week 4
-
-## 7. Unit testing and clean code *1 Dec 2014*
+## Class 7. Unit testing and clean code *1 Dec 2014*
   * Plan
     * Why unit testing is important
     * Creating a project with XCTest
@@ -108,7 +106,8 @@ tags: [schedule]
     * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
     * Explain the difference between Command and Query methods.
 
-## 8. Interface Builder - child controllers, containers, and tab controller *4 Dec 2014*
+
+## Class 8. Interface Builder - child controllers, containers, and tab controller *4 Dec 2014*
   * Plan
     * Nibs and Storyboard
     * IBOutlets, Attribute Inspector, Dynamic Cells
@@ -125,9 +124,8 @@ tags: [schedule]
       2. Add 3 tabs. 
       3. 2 to view controllers and 1 to a tableview controller.
 
-# Week 5
 
-## 9. Collection Views *8 Dec 2015*
+## Class 9. Collection Views *8 Dec 2015*
   * Plan
     * What is a Collection view
     * why collection views
@@ -140,7 +138,8 @@ tags: [schedule]
     * Customize cell layout/sizes/stuff
     * Edit collection view
 
-## 10. Views and Gestures *11 Dec 2014*
+
+## Class 10. Views and Gestures *11 Dec 2014*
   * Plan
     * UIButtons, UISegmentControls, UISwitches
     * UITableViews and UIScrollViews
@@ -154,12 +153,12 @@ tags: [schedule]
       - When the user selects an option go to a controller to allow them to input Crust type and toppings and submit the order. 
       - Show confirmation screen.
  
+
 # Saturday Class *13 Dec 2014*
 * 9 to 5pm (app work, individual help and Core graphics prep)
 
-# Week 6
 
-## 11. Core graphics *15 Dec 2014*
+## Class 11. Core graphics *15 Dec 2014*
   * Plan
     * What is Core Graphics used for?
     * UI Graphic context
@@ -175,7 +174,8 @@ tags: [schedule]
     * Be able to create a rounded rectangle with a gradient background.
     * Be able to create a clock layer that shows current time.
 
-## 12. Protocols, Notifications, Blocks, Animations *18 Dec 2014*
+
+## Class 12. Protocols, Notifications, Blocks, Animations *18 Dec 2014*
   * Plan
     * What is a Protocol?
     * What is a notification?
@@ -191,9 +191,8 @@ tags: [schedule]
     * Be able to animate a views width with spring
     * Create a CAShapeLayer that is a circle and animate it to a square.
 
-# Week 7
 
-## 13. Animations and Autolayout *5 Jan 2014*
+## Class 13. Animations and Autolayout *5 Jan 2014*
   * Plans
     * Cover basic animations
     * Why to use auto layout
@@ -203,17 +202,16 @@ tags: [schedule]
     * Animate a views location/size
     * Use Animations with Autolayout (animate ‘constraints’)
 
-## 14. UIDynamics *8 Jan 2014*
+## Class 14. UIDynamics *8 Jan 2014*
 
-# Week 8
 
-## 15. Open QA, Review *12 Jan 2014*
+## Class 15. Open QA, Review *12 Jan 2014*
 
-## 16. Multiple MVCs - child controllers, containers, and tab controller *15 Jan 2014*
 
-# Week 9
+## Class 16. Multiple MVCs - child controllers, containers, and tab controller *15 Jan 2014*
 
-## 17. MultiThreading *19 Jan 2015*
+
+## Class 17. MultiThreading *19 Jan 2015*
   * Plan
     * What is GCD
     * What are NSOperationQueues
@@ -227,7 +225,8 @@ tags: [schedule]
     * Explain most common memory issues
     * Explain issues/bugs that can happen from async code
 
-## 18. Networking *22 Jan 2015*
+
+## Class 18. Networking *22 Jan 2015*
   * Plan
     * What is NSURLConnection/Session
     * Processing JSON data
@@ -236,9 +235,8 @@ tags: [schedule]
     * Be able to communicate with a web server via JSON
     * Be able to create an API class for app interaction
 
-# Week 10
 
-## 19. Working with Local Data - Documents and Core Data *26 Jan 2015*
+## Class 19. Working with Local Data - Documents and Core Data *26 Jan 2015*
   * Plan
     * What is Core Data
     * Why use Core Data
@@ -249,7 +247,8 @@ tags: [schedule]
     * Create new entities & relations between entities
     * CRUD operations with CoreData
 
-## 20. Presenting data - Core data and Table View *29 Jan 2015*
+
+## Class 20. Presenting data - Core data and Table View *29 Jan 2015*
   * Plan
     * NSFetchedResultsController
     * Getting results from core data without NSFetchedResults
@@ -260,38 +259,38 @@ tags: [schedule]
     * Filter results with UISearchBar
     * Save changes back
 
-# Week 11
 
-## 21. Core Location, Mapkit *2 Feb 2015*
+## Class 21. Core Location, Mapkit *2 Feb 2015*
 
-## 22. UI activity sharing *5 Feb 2015*
 
-# Week 12
+## Class 22. UI activity sharing *5 Feb 2015*
 
-## 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *9 Feb 2015*
 
-## 24. App Brainstorm *12 Feb 2015*
+## Class 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *9 Feb 2015*
 
-# Week 13
 
-## 25. Open QA, Review *16 Feb 2015*
+## Class 24. App Brainstorm *12 Feb 2015*
 
-## 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *19 Feb 2015*
 
-# Week 14
+## Class 25. Open QA, Review *16 Feb 2015*
 
-## 27. App work *23 Feb 2015*
 
-## 28. App work *26 Feb 2015*
+## Class 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *19 Feb 2015*
 
-# Week 15
 
-## 29. App work *2 Mar 2015*
+## Class 27. App work *23 Feb 2015*
 
-## 30. App work *5 Mar 2015*
 
-# Week 16
+## Class 28. App work *26 Feb 2015*
 
-## 31. Preparing your app for distribution *9 Mar 2015*
 
-## 32. Wrap up *12 Mar 2015*
+## Class 29. App work *2 Mar 2015*
+
+
+## Class 30. App work *5 Mar 2015*
+
+
+## Class 31. Preparing your app for distribution *9 Mar 2015*
+
+
+## Class 32. Wrap up *12 Mar 2015*
