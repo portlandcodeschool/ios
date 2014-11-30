@@ -119,7 +119,7 @@ tags: [schedule]
     * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
 
 
-## Class 8. Interface Builder - child controllers, containers, and tab controller 
+## Class 8. Interface Builder - child controllers, containers, and Tab controller 
 **4 Dec 2014**
 
   * Plan
@@ -129,14 +129,11 @@ tags: [schedule]
     * Tab views
     * Segues
   * Expectation
-    * Ability to Create a new UITableViewController scene in Storyboard
-    * Understands how to set that TableViewController as the root control.
-    * Understand Static and Prototype cells. Create 3 Static Cells for that tableview.
-    * Understands how to add segues. Create a segues from pressing a table cell to a new view controller.
+    * Ability to Create a new UITabViewController scene in Storyboard
     * Understand how setup a Tab Controller. 
-      1. Create a new tab controller and set it as the root controller. 
+      1. Create a new tab controller. 
       2. Add 3 tabs. 
-      3. 2 to view controllers and 1 to a tableview controller.
+      3. Two view controllers and 1 to a tableview controller.
 
 
 ## Class 9. Collection Views 
