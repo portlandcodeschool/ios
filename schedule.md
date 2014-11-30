@@ -7,7 +7,7 @@ tags: [schedule]
 ---
 
 ## Class 1. Course Introduction, Overview of iOS and MVC 
-*3 Nov 2014*
+##*3 Nov 2014*
   * Plan
     * Read over course outline.
     * What is iOS?
