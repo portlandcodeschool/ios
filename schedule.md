@@ -96,7 +96,6 @@ tags: [schedule]
     * Many faces of table views
     * Power of table views
     * Delegate/datasource protocols
-    * Custom Table view cells
   * Expectation
     * Create table view
     * Show information
@@ -105,21 +104,19 @@ tags: [schedule]
     * UIRefreshControl
 
 
-## Class 7. Unit testing and clean code 
+## Class 7. Unit testing and custom Table view Cells
 **1 Dec 2014**
 
   * Plan
+    * Test Driven Development
     * Why unit testing is important
     * Creating a project with XCTest
-    * Importing OCMock
-    * Tips for how to make testing easier
-    * Clean methods
-    * Functionaly programming tips
+    * Creating custom Table View cells
+    * App work
   * Expectations
     * Explain why you should write unit test
     * Create a new subclass of NSObject, write a method called addFour that takes one number and adds 4 and returns the new number. Write a unit test that proves that given 0 it returns 4. Given 131 it returns 135.
     * Write a clean method that takes an index. Create an array with 3 strings. The method should return the string for the passed in index. Write unit tests to prove your method will pass index 0, -1, and 22;
-    * Explain the difference between Command and Query methods.
 
 
 ## Class 8. Interface Builder - child controllers, containers, and tab controller 
