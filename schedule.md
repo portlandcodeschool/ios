@@ -6,7 +6,8 @@ tagline: Mobile Development with iOS
 tags: [schedule]
 ---
 
-## Class 1. Course Introduction, Overview of iOS and MVC *3 Nov 2014*
+## Class 1. Course Introduction, Overview of iOS and MVC 
+*3 Nov 2014*
   * Plan
     * Read over course outline.
     * What is iOS?
@@ -18,7 +19,8 @@ tags: [schedule]
   * Assignment
 
 
-## Class 2. Developer Portal and Xcode Basics *6 Nov 2014*
+## Class 2. Developer Portal and Xcode Basics 
+*6 Nov 2014*
   * Plan
     * Cover Apple developer portal
     * Create Signing Certificate
@@ -34,7 +36,8 @@ tags: [schedule]
     * Linking storyboard elements
 
 
-## Class 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories *10 Nov 2014*
+## Class 3. Objective-c Fundamentals - Objects, Syntax, Classes, Categories 
+*10 Nov 2014*
   * Plan
     * Strongly typed vs Dynamically typed
     * Compiler
@@ -51,7 +54,8 @@ tags: [schedule]
     * Be able to explain the parts of a method signature
 
 
-## Class 4. Objective-c Fundamentals - NSObjects, UIKit *17 Nov 2014*
+## Class 4. Objective-c Fundamentals - NSObjects, UIKit 
+*17 Nov 2014*
   * Plan
     * Objects, Headers and Implementation Files
     * Properties, methods, strong, assign, readonly
@@ -62,7 +66,8 @@ tags: [schedule]
     * Create a category of NSString with a method that changes a new string foo and returns bar.
 
 
-## Class 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. *20 Nov 2014*
+## Class 5. Code formatting, Views, Textfields, Navigation stacks and starting an app. 
+*20 Nov 2014*
   * Plan
     * Common code formatting practices.
     * UIViews
@@ -77,7 +82,8 @@ tags: [schedule]
     * Start project app.
 
 
-## Class 6. Table Views *24 Nov 2014*
+## Class 6. Table Views 
+*24 Nov 2014*
   * Plan
     * What are table views
     * Many faces of table views
@@ -92,7 +98,8 @@ tags: [schedule]
     * UIRefreshControl
 
 
-## Class 7. Unit testing and clean code *1 Dec 2014*
+## Class 7. Unit testing and clean code 
+*1 Dec 2014*
   * Plan
     * Why unit testing is important
     * Creating a project with XCTest
@@ -107,7 +114,8 @@ tags: [schedule]
     * Explain the difference between Command and Query methods.
 
 
-## Class 8. Interface Builder - child controllers, containers, and tab controller *4 Dec 2014*
+## Class 8. Interface Builder - child controllers, containers, and tab controller 
+*4 Dec 2014*
   * Plan
     * Nibs and Storyboard
     * IBOutlets, Attribute Inspector, Dynamic Cells
@@ -125,7 +133,8 @@ tags: [schedule]
       3. 2 to view controllers and 1 to a tableview controller.
 
 
-## Class 9. Collection Views *8 Dec 2015*
+## Class 9. Collection Views 
+*8 Dec 2015*
   * Plan
     * What is a Collection view
     * why collection views
@@ -139,7 +148,8 @@ tags: [schedule]
     * Edit collection view
 
 
-## Class 10. Views and Gestures *11 Dec 2014*
+## Class 10. Views and Gestures 
+*11 Dec 2014*
   * Plan
     * UIButtons, UISegmentControls, UISwitches
     * UITableViews and UIScrollViews
@@ -154,11 +164,13 @@ tags: [schedule]
       - Show confirmation screen.
  
 
-# Saturday Class *13 Dec 2014*
+# Saturday Class 
+*13 Dec 2014*
 * 9 to 5pm (app work, individual help and Core graphics prep)
 
 
-## Class 11. Core graphics *15 Dec 2014*
+## Class 11. Core graphics 
+*15 Dec 2014*
   * Plan
     * What is Core Graphics used for?
     * UI Graphic context
@@ -175,7 +187,8 @@ tags: [schedule]
     * Be able to create a clock layer that shows current time.
 
 
-## Class 12. Protocols, Notifications, Blocks, Animations *18 Dec 2014*
+## Class 12. Protocols, Notifications, Blocks, Animations 
+*18 Dec 2014*
   * Plan
     * What is a Protocol?
     * What is a notification?
@@ -192,7 +205,8 @@ tags: [schedule]
     * Create a CAShapeLayer that is a circle and animate it to a square.
 
 
-## Class 13. Animations and Autolayout *5 Jan 2014*
+## Class 13. Animations and Autolayout 
+*5 Jan 2014*
   * Plans
     * Cover basic animations
     * Why to use auto layout
@@ -202,16 +216,20 @@ tags: [schedule]
     * Animate a views location/size
     * Use Animations with Autolayout (animate ‘constraints’)
 
-## Class 14. UIDynamics *8 Jan 2014*
+## Class 14. UIDynamics 
+*8 Jan 2014*
 
 
-## Class 15. Open QA, Review *12 Jan 2014*
+## Class 15. Open QA, Review 
+*12 Jan 2014*
 
 
-## Class 16. Multiple MVCs - child controllers, containers, and tab controller *15 Jan 2014*
+## Class 16. Multiple MVCs - child controllers, containers, and tab controller 
+*15 Jan 2014*
 
 
-## Class 17. MultiThreading *19 Jan 2015*
+## Class 17. MultiThreading 
+*19 Jan 2015*
   * Plan
     * What is GCD
     * What are NSOperationQueues
@@ -226,7 +244,8 @@ tags: [schedule]
     * Explain issues/bugs that can happen from async code
 
 
-## Class 18. Networking *22 Jan 2015*
+## Class 18. Networking 
+*22 Jan 2015*
   * Plan
     * What is NSURLConnection/Session
     * Processing JSON data
@@ -236,7 +255,8 @@ tags: [schedule]
     * Be able to create an API class for app interaction
 
 
-## Class 19. Working with Local Data - Documents and Core Data *26 Jan 2015*
+## Class 19. Working with Local Data - Documents and Core Data 
+*26 Jan 2015*
   * Plan
     * What is Core Data
     * Why use Core Data
@@ -248,7 +268,8 @@ tags: [schedule]
     * CRUD operations with CoreData
 
 
-## Class 20. Presenting data - Core data and Table View *29 Jan 2015*
+## Class 20. Presenting data - Core data and Table View 
+*29 Jan 2015*
   * Plan
     * NSFetchedResultsController
     * Getting results from core data without NSFetchedResults
@@ -260,37 +281,49 @@ tags: [schedule]
     * Save changes back
 
 
-## Class 21. Core Location, Mapkit *2 Feb 2015*
+## Class 21. Core Location, Mapkit 
+*2 Feb 2015*
 
 
-## Class 22. UI activity sharing *5 Feb 2015*
+## Class 22. UI activity sharing 
+*5 Feb 2015*
 
 
-## Class 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing *9 Feb 2015*
+## Class 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing 
+*9 Feb 2015*
 
 
-## Class 24. App Brainstorm *12 Feb 2015*
+## Class 24. App Brainstorm 
+*12 Feb 2015*
 
 
-## Class 25. Open QA, Review *16 Feb 2015*
+## Class 25. Open QA, Review 
+*16 Feb 2015*
 
 
-## Class 26. iPad, iPhone, Universal - Multiple storyboards, reusable code *19 Feb 2015*
+## Class 26. iPad, iPhone, Universal - Multiple storyboards, reusable code 
+*19 Feb 2015*
 
 
-## Class 27. App work *23 Feb 2015*
+## Class 27. App work 
+*23 Feb 2015*
 
 
-## Class 28. App work *26 Feb 2015*
+## Class 28. App work 
+*26 Feb 2015*
 
 
-## Class 29. App work *2 Mar 2015*
+## Class 29. App work 
+*2 Mar 2015*
 
 
-## Class 30. App work *5 Mar 2015*
+## Class 30. App work 
+*5 Mar 2015*
 
 
-## Class 31. Preparing your app for distribution *9 Mar 2015*
+## Class 31. Preparing your app for distribution 
+*9 Mar 2015*
 
 
-## Class 32. Wrap up *12 Mar 2015*
+## Class 32. Wrap up 
+*12 Mar 2015*
