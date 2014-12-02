@@ -6,6 +6,7 @@ tagline: Mobile Development with iOS
 tags: [reference]
 ---
 ####Class 7
+* [Slides 12/1/14 - Unit testing and custom table view cells](https://docs.google.com/presentation/d/15AayvaGgGFiCDx4wjBjYkBkSKVEWy1mAryny25Rrnxs/edit?usp=sharing)
 * [Prep 12/1/14 - Unit testing and custom TableViewCells](https://docs.google.com/presentation/d/186-RjOPWLSo3OhnLs6XG3qEyWydA75wIwWXVE3fZ4zk/edit?usp=sharing)
 
 ####Class 6
