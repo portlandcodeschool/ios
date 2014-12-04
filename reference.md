@@ -10,6 +10,9 @@ tags: [reference]
 
 ####Class 7
 * [Slides 12/1/14 - Unit testing and custom table view cells](https://docs.google.com/presentation/d/15AayvaGgGFiCDx4wjBjYkBkSKVEWy1mAryny25Rrnxs/edit?usp=sharing)
+* [Video - Creating Prototype Tableview cells](https://drive.google.com/file/d/0B1jxDrjd4WIaald1UVlnakswYk0/view?usp=sharing)
+* [Video - Creating Static Tableview cells](https://drive.google.com/file/d/0B1jxDrjd4WIaLVQxNm9EYlRqVzA/view?usp=sharing)
+* [Video - Unit test example](https://drive.google.com/file/d/0B1jxDrjd4WIabjVEcmw0aW5OUTQ/view?usp=sharing)
 * [Prep 12/1/14 - Unit testing and custom TableViewCells](https://docs.google.com/presentation/d/186-RjOPWLSo3OhnLs6XG3qEyWydA75wIwWXVE3fZ4zk/edit?usp=sharing)
 
 ####Class 6
