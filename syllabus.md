@@ -16,14 +16,14 @@ share:
 
 ## Course Description
 
-tbd
+This class is an introduction to iOS development. It introduces Objective-C, still the most-commonly used language in iOS applications, and explores the various services and techniques used by iOS developers.
 
 
 ### Meeting hours:
 Monday & Thursday 6PM to 9PM
 One Saturday a month, 9a - 5p. See the schedule.
 
-Open lab time and teaching assistants are available to all students during the week at PCS.
+Open lab time is available to all students during the week at PCS.
 
 ### Location
 PCS Classroom, 1771 NW Pettygrove Street, Ste 140 
@@ -47,32 +47,17 @@ Office Hours: Before class on Monday 4-6pm
 
 # Prerequisites
 
-This class has no prerequisites. You will receive email one week prior to class (if you have signed up that early) with work that must be completed prior to the first class.
+This class has no prerequisites. If you already know an object-oriented language like C++, Java, or C#, you'll start out ahead.
 
-# Learning Objectives & Core Outcomes
+You will receive email one week prior to class (if you have signed up that early) with work that must be completed prior to the first class.
 
-At successful completion of the class, you will be able to:
 
-* etc.
-
-At successful completion of the **Extended Primer**, students will **also** be able to:
-
-* Use HTML5 and JavaScript to perform form validation
-* Use the principles of mobile-first development and design
-* Use Bootstrap to style responsive web pages
-* Write simple JavaScript from scratch to build simple user interface patterns
-* Use Git branching, merging, and pull requests to integrate code from several team members
-* Use Wordpress in a hosted environment with a predefined theme to create either a simple product brochure and company blog web site or a simple * personal portfolio and blog site
-* Provide simple customer analysis and design for a small web site
-* Participate in project management planning, monitoring, and communicating status for a small web development team
 
 # Schedule and Curriculum
 
 For the most up to date schedule of activities, see the [course curriculum](/course).
 
-# Educational Expectations
 
-...
 
 ### Student Time Commitment
 
@@ -155,4 +140,4 @@ You also get to evaluate *us*. We use a technique called "project retrospectives
 
 -------
 
-*Syllabus version 1.0*
+*Syllabus version 1.1*
