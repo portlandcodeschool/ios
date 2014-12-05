@@ -6,6 +6,10 @@ tagline: Mobile Development with iOS
 tags: [reference]
 ---
 ####Class 8
+* [Slides 12/4/14 - Tabs and Segues](https://docs.google.com/presentation/d/11xaIE09gqhMAh89w4V7DZjlMukf9AL_CPrwGRictLeU/edit?usp=sharing)
+* [Video - LocalChat Parts 6-12](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [Github repo - LocalChat](https://github.com/portlandcodeschool/LocalChat.git)
+* [Github repo - Tabbed application](https://github.com/portlandcodeschool/TabbedApplication_ios.git)
 * [Prep 12/4/14 - Tab controller, segues and UIImageView’s](https://docs.google.com/presentation/d/1j7UO74iZBmS4cmgpTTU_cylkqcor9gtLNTKZaI3Q4kc/edit?usp=sharing)
 
 ####Class 7
