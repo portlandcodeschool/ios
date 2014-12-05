@@ -55,7 +55,7 @@ You will receive email one week prior to class (if you have signed up that early
 
 # Schedule and Curriculum
 
-For the most up to date schedule of activities, see the [course schedule](schedule).
+For the most up to date schedule of activities, see the [course schedule](../schedule).
 
 
 
