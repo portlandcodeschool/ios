@@ -31,14 +31,14 @@ Portland, OR 97209
 
 
 ### Instructor: 
-
 **Erick Bennett**
 
 Email: ebennett@portlandcodeschool.com <br>
 Office Hours: Before class on Monday/Thursday 4-6pm, Sundays 12-2pm (except when following Saturday classes).
 
 
-Teaching assistant: **Al Zimmerman**
+Teaching assistant: 
+**Al Zimmerman**
 
 Email: azimmerman@portlandcodeschool.com <br>
 Phone (text and voicemail):  503-970-3645 <br>
@@ -47,7 +47,7 @@ Office Hours: Before class on Monday 4-6pm
 
 # Prerequisites
 
-This class has no prerequisites. If you already know an object-oriented language like C++, Java, or C#, you'll start out ahead.
+This class has no prerequisites. If you already know an object-oriented language like C++, C#, Java, or JavaScript, you'll start out ahead.
 
 You will receive email one week prior to class (if you have signed up that early) with work that must be completed prior to the first class.
 
@@ -55,7 +55,7 @@ You will receive email one week prior to class (if you have signed up that early
 
 # Schedule and Curriculum
 
-For the most up to date schedule of activities, see the [course curriculum](/course).
+For the most up to date schedule of activities, see the [course schedule](/schedule).
 
 
 
