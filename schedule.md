@@ -135,9 +135,16 @@ tags: [schedule]
       2. Add 3 tabs. 
       3. Two view controllers and 1 to a tableview controller.
 
+## Class 9. LocalChat - App work 
+**8 Dec 2014**
 
-## Class 9. Collection Views 
-**8 Dec 2015**
+  * Plan
+    * Understanding LocalChat changes
+    * Implementing chat.
+
+
+## Class 10. Collection Views 
+**11 Dec 2015**
 
   * Plan
     * What is a Collection view
@@ -152,8 +159,8 @@ tags: [schedule]
     * Edit collection view
 
 
-## Class 10. Views and Gestures 
-**11 Dec 2014**
+## Class 11. Views and Gestures 
+**13 Dec 2014**
 
   * Plan
     * UIButtons, UISegmentControls, UISwitches
@@ -170,13 +177,13 @@ tags: [schedule]
  
 
 # Saturday Class 
-**13 Dec 2014**
+**15 Dec 2014**
 
 * 9 to 5pm (app work, individual help and Core graphics prep)
 
 
-## Class 11. Core graphics 
-**15 Dec 2014**
+## Class 12. Core graphics 
+**18 Dec 2014**
 
   * Plan
     * What is Core Graphics used for?
@@ -194,8 +201,8 @@ tags: [schedule]
     * Be able to create a clock layer that shows current time.
 
 
-## Class 12. Protocols, Notifications, Blocks, Animations 
-**18 Dec 2014**
+## Class 13. Protocols, Notifications, Blocks, Animations 
+**5 Jan 2014**
 
   * Plan
     * What is a Protocol?
@@ -213,8 +220,8 @@ tags: [schedule]
     * Create a CAShapeLayer that is a circle and animate it to a square.
 
 
-## Class 13. Animations and Autolayout 
-**5 Jan 2014**
+## Class 14. Animations and Autolayout 
+**8 Jan 2014**
 
   * Plans
     * Cover basic animations
@@ -225,20 +232,20 @@ tags: [schedule]
     * Animate a views location/size
     * Use Animations with Autolayout (animate ‘constraints’)
 
-## Class 14. UIDynamics 
-**8 Jan 2014**
-
-
-## Class 15. Open QA, Review 
+## Class 15. UIDynamics 
 **12 Jan 2014**
 
 
-## Class 16. Multiple MVCs - child controllers, containers, and tab controller 
+## Class 16. Open QA, Review 
 **15 Jan 2014**
 
 
-## Class 17. MultiThreading 
-**19 Jan 2015**
+## Class 17. Multiple MVCs - child controllers, containers, and tab controller 
+**19 Jan 2014**
+
+
+## Class 18. MultiThreading 
+**22 Jan 2015**
 
   * Plan
     * What is GCD
@@ -254,8 +261,8 @@ tags: [schedule]
     * Explain issues/bugs that can happen from async code
 
 
-## Class 18. Networking 
-**22 Jan 2015**
+## Class 19. Networking 
+**26 Jan 2015**
 
   * Plan
     * What is NSURLConnection/Session
@@ -266,8 +273,8 @@ tags: [schedule]
     * Be able to create an API class for app interaction
 
 
-## Class 19. Working with Local Data - Documents and Core Data 
-**26 Jan 2015**
+## Class 20. Working with Local Data - Documents and Core Data 
+**29 Jan 2015**
 
   * Plan
     * What is Core Data
@@ -280,8 +287,8 @@ tags: [schedule]
     * CRUD operations with CoreData
 
 
-## Class 20. Presenting data - Core data and Table View 
-**29 Jan 2015**
+## Class 21. Presenting data - Core data and Table View 
+**2 Feb 2015**
 
   * Plan
     * NSFetchedResultsController
@@ -294,31 +301,27 @@ tags: [schedule]
     * Save changes back
 
 
-## Class 21. Core Location, Mapkit 
-**2 Feb 2015**
-
-
-## Class 22. UI activity sharing 
+## Class 22. Core Location, Mapkit 
 **5 Feb 2015**
 
 
-## Class 23. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing 
+## Class 23. UI activity sharing 
 **9 Feb 2015**
 
 
-## Class 24. App Brainstorm 
+## Class 24. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing 
 **12 Feb 2015**
 
 
-## Class 25. Open QA, Review 
+## Class 25. App Brainstorm 
 **16 Feb 2015**
 
 
-## Class 26. iPad, iPhone, Universal - Multiple storyboards, reusable code 
+## Class 26. Open QA, Review 
 **19 Feb 2015**
 
 
-## Class 27. App work 
+## Class 27. iPad, iPhone, Universal - Multiple storyboards, reusable code 
 **23 Feb 2015**
 
 
@@ -334,9 +337,9 @@ tags: [schedule]
 **5 Mar 2015**
 
 
-## Class 31. Preparing your app for distribution 
+## Class 31. App work 
 **9 Mar 2015**
 
 
-## Class 32. Wrap up 
+## Class 32. Preparing your app for distribution 
 **12 Mar 2015**
