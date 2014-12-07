@@ -5,6 +5,9 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 9
+* [Prep 12/8/14 - Local chat app work](https://docs.google.com/presentation/d/1bGYkDtTH0AR24LF3BbTU_RZckCk9jDv6lDt4Kc205nQ/edit?usp=sharing)
+
 ####Class 8
 * [Slides 12/4/14 - Tabs and Segues](https://docs.google.com/presentation/d/11xaIE09gqhMAh89w4V7DZjlMukf9AL_CPrwGRictLeU/edit?usp=sharing)
 * [Video - LocalChat Parts 6-12](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
