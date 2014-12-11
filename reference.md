@@ -8,7 +8,8 @@ tags: [reference]
 ####Class 10
 * [Prep 12/11/14 - Collection views](https://docs.google.com/presentation/d/14eBAObkQkM1R8_GCGHCoFDSdOk8h_nIHVJ2upcyun_Q/edit?usp=sharing)
 * [Github - Collection view example](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS.git)
-* [Video - Creating a collection view in storyboard](https://drive.google.com/file/d/0B1jxDrjd4WIaZzVwLWUzRGYwcWc/view?usp=sharing)
+* [Video - Creating a collection view in storyboard Part 1](https://drive.google.com/file/d/0B1jxDrjd4WIaR3hVNnN0SHJfb00/view?usp=sharing)
+* [Video - Creating a collection view in storyboard Part 2](https://drive.google.com/file/d/0B1jxDrjd4WIaYm5JdnEyN2FzSUk/view?usp=sharing)
 
 ####Class 9
 * [Prep 12/8/14 - Local chat app work](https://docs.google.com/presentation/d/1bGYkDtTH0AR24LF3BbTU_RZckCk9jDv6lDt4Kc205nQ/edit?usp=sharing)
