@@ -6,6 +6,8 @@ tagline: Mobile Development with iOS
 tags: [reference]
 ---
 ####Class 10
+* [Slides 12/11/14](https://docs.google.com/presentation/d/1PmnhUOtpWaReMoc6TZhLD53mOuevF0uIGGpPde0C6zg/edit?usp=sharing)
+* [LocalChat Flowchart](https://drive.google.com/file/d/0B1jxDrjd4WIaX2p2TXBESHlJd2c/view?usp=sharing)
 * [Prep 12/11/14 - Collection views](https://docs.google.com/presentation/d/14eBAObkQkM1R8_GCGHCoFDSdOk8h_nIHVJ2upcyun_Q/edit?usp=sharing)
 * [Github - Collection view example](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS.git)
 * [Video - Creating a collection view in storyboard Part 1](https://drive.google.com/file/d/0B1jxDrjd4WIaR3hVNnN0SHJfb00/view?usp=sharing)
