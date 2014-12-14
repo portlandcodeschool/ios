@@ -158,28 +158,24 @@ tags: [schedule]
     * Customize cell layout/sizes/stuff
     * Edit collection view
 
+## Saturday Class 
+**13 Dec 2014**
+
+* 9 to 5pm (app work, individual help, Feedback session)
+
 
 ## Class 11. Views and Gestures 
-**13 Dec 2014**
+
+**15 Dec 2014**
 
   * Plan
     * UIButtons, UISegmentControls, UISwitches
-    * UITableViews and UIScrollViews
-    * UILabels, UITextFields, UITextViews
-    * UIGestureRecognizers.
+    * UIGestureRecognizers of all types.
+    * USing these new elements in a custom UIViews.
   * Expectations
-    * Be able to create a view controller in storyboard to present user with interact-able elements.
+    * Be able to create a view controller to present user with interact-able elements .
     * Explain the difference between a tap, swipe, and pan gesture.
-    * Explain the difference between labels and fields.
-    * Create a View controller to show the user 2  options for ordering pizza, take out or delivery. 
-      - When the user selects an option go to a controller to allow them to input Crust type and toppings and submit the order. 
-      - Show confirmation screen.
- 
-
-# Saturday Class 
-**15 Dec 2014**
-
-* 9 to 5pm (app work, individual help and Core graphics prep)
+    * Create a custom UIView in code and be able to use this custom view in various viewcontrollers or views.
 
 
 ## Class 12. Core graphics 
