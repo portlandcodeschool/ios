@@ -7,6 +7,8 @@ tags: [reference]
 ---
 ####Class 11
 * [Prep 12/15/14 - Gesture recognizers and custom UIViews](https://docs.google.com/presentation/d/1Ya4E4KylREhoC7Y5C2so16ZULF0Jo1NQv0R1zp9S1Bo/edit?usp=sharing)
+* [Videos - LocalChat Parts 13-16 - sending and recieving text](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+
 
 ####Class 10
 * [Slides 12/11/14](https://docs.google.com/presentation/d/1PmnhUOtpWaReMoc6TZhLD53mOuevF0uIGGpPde0C6zg/edit?usp=sharing)
