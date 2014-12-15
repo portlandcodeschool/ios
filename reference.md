@@ -5,6 +5,9 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 11
+* [Prep 12/15/14 - Gesture recognizers and custom UIViews](https://docs.google.com/presentation/d/1Ya4E4KylREhoC7Y5C2so16ZULF0Jo1NQv0R1zp9S1Bo/edit?usp=sharing)
+
 ####Class 10
 * [Slides 12/11/14](https://docs.google.com/presentation/d/1PmnhUOtpWaReMoc6TZhLD53mOuevF0uIGGpPde0C6zg/edit?usp=sharing)
 * [LocalChat Flowchart](https://drive.google.com/file/d/0B1jxDrjd4WIaX2p2TXBESHlJd2c/view?usp=sharing)
