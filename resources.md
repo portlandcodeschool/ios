@@ -20,7 +20,13 @@ tags: [curriculum]
 * [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 * [Learn X in Y](http://learnxinyminutes.com/docs/objective-c/)
 
-* Objective-C style guides - TBD
+# Objective-C style guides
+* [Objective-c style guide](https://github.com/raywenderlich/objective-c-style-guide)
+* [NYTimes Objective-c style guide](https://github.com/NYTimes/objective-c-style-guide)
+
+# Videos
+* [Course example videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIadWEtZ3BPb1phcUU&usp=sharing)
+* [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
 # Using a Mac
 * Using a Keychain - TBD
