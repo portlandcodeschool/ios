@@ -29,7 +29,10 @@ tags: [curriculum]
 * [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
 # Github Links
+## Projects
 * [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
+
+## Misc.
 * [Simple custom (subclassed) UIView in code](https://github.com/portlandcodeschool/SimpleCustomView_iOS)
 * [Gesture Recognizers in code](https://github.com/portlandcodeschool/GestureRecognizers_iOS)
 * [Collectionview in Storyboard](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS)
