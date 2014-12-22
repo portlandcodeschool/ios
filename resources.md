@@ -28,6 +28,14 @@ tags: [curriculum]
 * [Course example videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIadWEtZ3BPb1phcUU&usp=sharing)
 * [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
+# Github Links
+* [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
+* [Simple custom (subclassed) UIView in code](https://github.com/portlandcodeschool/SimpleCustomView_iOS)
+* [Gesture Recognizers in code](https://github.com/portlandcodeschool/GestureRecognizers_iOS)
+* [Collectionview in Storyboard](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS)
+* [Tabbed application in Storyboard](https://github.com/portlandcodeschool/TabbedApplication_ios)
+* [Tableview example in Storyboard](https://github.com/portlandcodeschool/TableViewExample-iOS)
+
 # Using a Mac
 * Using a Keychain - TBD
 
