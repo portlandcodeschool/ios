@@ -29,6 +29,7 @@ tags: [curriculum]
 * [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
 # Github Links
+
 ## Projects
 * [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
 
