@@ -179,7 +179,7 @@ tags: [schedule]
 
 
 ## Class 12. Core graphics 
-**18 Dec 2014**
+**18 Dec 2014** [Makeup class to be scheduled]
 
   * Plan
     * What is Core Graphics used for?
@@ -197,51 +197,102 @@ tags: [schedule]
     * Be able to create a clock layer that shows current time.
 
 
-## Class 13. Protocols, Notifications, Blocks, Animations 
+## Class 13. UIScrollViews, Action sheet controllers,  alertview controllers 
 **5 Jan 2014**
 
   * Plan
-    * What is a Protocol?
-    * What is a notification?
-    * When should you use Protocol over Notification?
-    * Blocks
-    * UIView Animations, Dynamics animations, Core Animations.
+    * Using UIScrollViews
+    * Implementing popups - Alertview controllers
+    * Action sheet controllers
   * Expectations
-    * Explain a use case for using a Protocol.
-    * Explain a use case for using a notification.
-    * Be able to write an anonymous function.
-    * Be able to write a block that takes two number and returns the sum.
-    * Be able to animate a view onto the screen. 
-    * Be able to animate a views width with spring
-    * Create a CAShapeLayer that is a circle and animate it to a square.
+    * Use a UIScrollView to display scrollable content
+    * Display a popup alertview and respond to user input
+    * Display an Actionsheet and respond to user input
 
 
-## Class 14. Animations and Autolayout 
+## Class 14. Camera, accessing the media library 
 **8 Jan 2014**
 
   * Plans
-    * Cover basic animations
-    * Why to use auto layout
-    * debugging animations
-    * debugging auto layout issues
+    * Accessing the device camera
+    * Taking a picture
+    * Accessing the media library
   * Expectations
-    * Animate a views location/size
-    * Use Animations with Autolayout (animate ‘constraints’)
+    * Display the camera interface
+    * Take and save  picture to the media library
+    * Access the media library to display and select images (or videos)
 
-## Class 15. UIDynamics 
+
+## Class 15. MessageUI and MFMailComposer (sending email from an app) 
 **12 Jan 2014**
 
+  * Plans
+    * Introduction to the MessageUI framework
+    * Creating an email with MFMailComposer
+    * Selecting recipients from your contact list
+    * Attaching a file to an email
+  * Expectations
+    * Create the mail interface and select recipients
+    * Sending an email
+    * Sending an email with an attachment
 
-## Class 16. Open QA, Review 
+
+## Class 16. Creating your own Delegate methods
 **15 Jan 2014**
 
+  * Plans
+    * Creating delegate methods and callbacks
+  * Expectations
+    * Create a UIView subclass that process some data, when data is finished intiate delegate callback
 
-## Class 17. Multiple MVCs - child controllers, containers, and tab controller 
+
+## Class 17. Core location, core motion, Mapkit  
 **19 Jan 2014**
 
+  * Plans
+    * Using Core location
+    * Adding Mapkit functionality and view
+    * a Look at core motion
+  * Expectations
+    * Setup and get device location updates
+    * Display users location on a a map using Mapkit
 
-## Class 18. MultiThreading 
+
+## Class 18. Networking (NSUrl, NSSessions) 
 **22 Jan 2015**
+
+  * Plan
+    * What is NSURLConnection/Session
+    * What is a JSON formatted resopnse
+    * Getting data from a restfull service
+    * Understanding the response
+  * Expectations
+    * Be able to communicate with a web server that utilizes JSON
+
+
+## Class 19. Sharing to Social media (Facebook) 
+**26 Jan 2015**
+
+  * Plan
+    * Adding code to enable simple sharing to Facebook
+    * A look at other sharing API's (Twitter, etc)
+  * Expectations
+    * Do a simple share to Facebook
+
+
+## Class 20. UIDynamics and other fun stuff 
+**29 Jan 2015**
+
+  * Plan
+    * What is UIDynamics
+    * Specialy animations
+  * Expectations
+    * Use UIDynamic displays in your code
+    * Understand the various animation capabilites available
+
+
+## Class 21. MultiThreading (GCD, NSOperation Queues) 
+**2 Feb 2015**
 
   * Plan
     * What is GCD
@@ -250,75 +301,82 @@ tags: [schedule]
     * Avoiding memory issues
     * Other things to remember when writing asynchronous/multithreaded code
   * Expectation
-    * Create a new `dispatch_queue` and dispatch blocks onto it
-    * Create new NSOperationsQueue and put NSOperations in it
+    * Create code that runs on a background thread
+    * Update UI with info processed on the background thread
     * Explain why Multithreading is useful
     * Explain most common memory issues
     * Explain issues/bugs that can happen from async code
 
 
-## Class 19. Networking 
-**26 Jan 2015**
-
-  * Plan
-    * What is NSURLConnection/Session
-    * Processing JSON data
-    * Sending JSON data
-  * Expectations
-    * Be able to communicate with a web server via JSON
-    * Be able to create an API class for app interaction
-
-
-## Class 20. Working with Local Data - Documents and Core Data 
-**29 Jan 2015**
-
-  * Plan
-    * What is Core Data
-    * Why use Core Data
-    * Alternatives to Core Data
-    * Core Data gotchas/caveats.
-  * Expectations
-    * Create new CoreData schema
-    * Create new entities & relations between entities
-    * CRUD operations with CoreData
-
-
-## Class 21. Presenting data - Core data and Table View 
-**2 Feb 2015**
-
-  * Plan
-    * NSFetchedResultsController
-    * Getting results from core data without NSFetchedResults
-    * Searching CoreData with UISearchBar
-  * Expectations
-    * Be able to present information from CoreData in a tableview
-    * Edit table view (reorder, delete, add)
-    * Filter results with UISearchBar
-    * Save changes back
-
-
-## Class 22. Core Location, Mapkit 
+## Class 22. UIActivity sharing 
 **5 Feb 2015**
 
+  * Plans
+    * Understanding UIActivity sharing
+    * Utilizing the Activity sharing options available
+  * Expectations
+    * Add functional Activity sharing 
 
-## Class 23. UI activity sharing 
+
+## Class 23. Local file system, saving/loading data 
 **9 Feb 2015**
 
+  * Plans
+    * Local file system congfiguration
+    * Getting directories
+    * Saving files
+    * Certain directories are not for saving data and will result ina failed review.
+  * Expectations
+    * Get a list of directoris available in your devices sandbox
+    * Be able to save, the reload a file for use.
 
-## Class 24. Camera, Actionsheet Controllers, Core motion, Alerts, Sharing 
+
+## Class 24. Core Data 
 **12 Feb 2015**
 
+  * Plan
+    * Introduction to Core Data
+    * Implementing code to create the persistant store
+    * Mapping your data structure into Core Data
+  * Expectations
+    * Understand what Core Data is and its widespread use
+    * Add code to setup Core Data
+    * Create a simple object model layout
 
-## Class 25. App Brainstorm 
+
+## Class 25. More Core Data 
 **16 Feb 2015**
 
+  * Plans
+    * Backing up Core Data to a SQL file
+    * Migrating changes made to Core Data when issuing app updates
+  * Expectations
+    * Create a SQL file to backup your Core Data
+    * Handle changes in your Core Data and updating this to your users in app updates
 
-## Class 26. Open QA, Review 
+
+## Class 26. Finish Core Data - Searching data
 **19 Feb 2015**
 
+  * Plans
+    * Predicates and fetching data
+    * Making changes to fetched data
+    * Saving changes back to your Core Data model
+  * Expectations
+    * Search and fetch for data
+    * Update your fetched data with new information
+    * Save your updated object back to Core Data
 
-## Class 27. iPad, iPhone, Universal - Multiple storyboards, reusable code 
+
+## Class 27. In app purchasing overview and begin App work with students 
 **23 Feb 2015**
+
+  * Plans
+    * Introduction to the In App purchasing process
+    * Meet individually with students regarding student apps
+  * Expectations
+    * Understand the basics flow for creating In App purchases
+    * Have an MVP (minimum viable product) app idea for individual student projects.
 
 
 ## Class 28. App work 
