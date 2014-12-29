@@ -237,7 +237,7 @@ tags: [schedule]
     * Sending an email with an attachment
 
 
-## Class 16. Creating your own Delegate methods
+## Class 16. Creating your own delegate methods
 **15 Jan 2014**
 
   * Plans
@@ -246,7 +246,7 @@ tags: [schedule]
     * Create a UIView subclass that process some data, when data is finished intiate delegate callback
 
 
-## Class 17. Core location, core motion, Mapkit  
+## Class 17. Core location, core motion, mapkit  
 **19 Jan 2014**
 
   * Plans
@@ -258,7 +258,7 @@ tags: [schedule]
     * Display users location on a a map using Mapkit
 
 
-## Class 18. Networking (NSUrl, NSSessions) 
+## Class 18. Networking (NSUrl, NSSession) 
 **22 Jan 2015**
 
   * Plan
@@ -285,7 +285,7 @@ tags: [schedule]
 
   * Plan
     * What is UIDynamics
-    * Specialy animations
+    * Specialty animations
   * Expectations
     * Use UIDynamic displays in your code
     * Understand the various animation capabilites available
@@ -331,7 +331,7 @@ tags: [schedule]
     * Be able to save, the reload a file for use.
 
 
-## Class 24. Core Data 
+## Class 24. Core Data - Intro and initial setup
 **12 Feb 2015**
 
   * Plan
@@ -344,7 +344,7 @@ tags: [schedule]
     * Create a simple object model layout
 
 
-## Class 25. More Core Data 
+## Class 25. More Core Data - Backing up your store and migrating changes
 **16 Feb 2015**
 
   * Plans
