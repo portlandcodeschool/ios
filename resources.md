@@ -8,6 +8,8 @@ tags: [curriculum]
 # Apple Developer
 *Many of these require a developer account*
 
+* [iOS developer portal](https://developer.apple.com/devcenter/selectTeam.action)
+* [iTunes connect](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa)
 * [Developer Library](https://developer.apple.com/)
 * [Introductory tutorial: Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343)
 
@@ -39,6 +41,11 @@ tags: [curriculum]
 * [Collectionview in Storyboard](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS)
 * [Tabbed application in Storyboard](https://github.com/portlandcodeschool/TabbedApplication_ios)
 * [Tableview example in Storyboard](https://github.com/portlandcodeschool/TableViewExample-iOS)
+
+# Distribution
+* [iTunes connect](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa)
+* [Iconfinder - Great place to find premade icons quickly](https://www.iconfinder.com)
+* [Convert image to all iOS icon sizes - recommend starting with a 512x512 image](http://makeappicon.com)
 
 # Using a Mac
 * Using a Keychain - TBD
