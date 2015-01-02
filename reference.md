@@ -5,6 +5,17 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 13
+* [videos - LocalChat parts 17-21 - Icon, Display name UI and Privacy](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [LocalChat github](https://github.com/portlandcodeschool/LocalChat)
+* [Iconfinder - Great place to find premade icons quickly](https://www.iconfinder.com)
+* [Convert image to all iOS icon sizes - recommend starting with a 512x512 image](http://makeappicon.com)
+
+
+####Class 12 - Intro to Core graphics
+* Makeup class needed
+
+
 ####Class 11
 * [Prep 12/15/14 - Gesture recognizers and custom UIViews](https://docs.google.com/presentation/d/1Ya4E4KylREhoC7Y5C2so16ZULF0Jo1NQv0R1zp9S1Bo/edit?usp=sharing)
 * [Videos - LocalChat Parts 13-16 - sending and recieving text](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
