@@ -197,13 +197,14 @@ tags: [schedule]
     * Be able to create a clock layer that shows current time.
 
 
-## Class 13. UIScrollViews, Action sheet controllers,  alertview controllers 
+## Class 13. UIScrollViews, AlertControllers (ActionSheets and AlertViews in iOS 7 and below) 
 **5 Jan 2014**
 
   * Plan
     * Using UIScrollViews
-    * Implementing popups - Alertview controllers
-    * Action sheet controllers
+    * AlertControllers (iOS 8+)
+    * Implementing alerst in iOS7 - Alertview controllers
+    * Implementing action sheets in iOS7 - ActionSheet controllers
   * Expectations
     * Use a UIScrollView to display scrollable content
     * Display a popup alertview and respond to user input
