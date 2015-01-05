@@ -6,6 +6,7 @@ tagline: Mobile Development with iOS
 tags: [reference]
 ---
 ####Class 13
+* [Scrollview and Alerts example project on github](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
 * [Prep 1/5/14 - UIScrollviews, Alertcontrollers (Actionsheets and Alertviews in iOS 7 and below)](https://docs.google.com/presentation/d/1CTjnim4Hh1UsrjCzoUUALtbUcZ9onTk0tTPpGLzJ7Zw/edit?usp=sharing)
 * [videos - LocalChat parts 17-21 - Icon, Display name UI and Privacy](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 * [LocalChat github](https://github.com/portlandcodeschool/LocalChat)
