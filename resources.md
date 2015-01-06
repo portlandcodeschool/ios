@@ -30,6 +30,9 @@ tags: [curriculum]
 * [Course example videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIadWEtZ3BPb1phcUU&usp=sharing)
 * [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
+# iOS device information
+* [The Ultimate Guide To iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) 
+
 # Github Links
 
 ## Projects
