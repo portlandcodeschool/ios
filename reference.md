@@ -7,6 +7,7 @@ tags: [reference]
 ---
 ####Class 14 - Camera, accessing the media library
 * [Prep 1/8/15 - Camera, accessing the media library](https://docs.google.com/presentation/d/1GQ-c94ighDwG4vuLBD2dX5t6Asrpqi3Fcswnxl6RumE/edit?usp=sharing)
+* [Images+ screen flow and block diagram](https://docs.google.com/presentation/d/1_YxhHVY6jdrYbLNK9UU-BCZgLy9Rgb1sTpZOVOSKGs8/edit?usp=sharing)
 
 ####Class 13 - UIScrollViews, AlertControllers (ActionSheets and AlertViews in iOS 7 and below)
 * [Scrollview and Alerts example project on github](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
