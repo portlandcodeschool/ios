@@ -5,7 +5,10 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
-####Class 13
+####Class 14 - Camera, accessing the media library
+* [Prep 1/8/14 - Camera, accessing the media library](https://docs.google.com/presentation/d/1GQ-c94ighDwG4vuLBD2dX5t6Asrpqi3Fcswnxl6RumE/edit?usp=sharing)
+
+####Class 13 - UIScrollViews, AlertControllers (ActionSheets and AlertViews in iOS 7 and below)
 * [Scrollview and Alerts example project on github](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
 * [Prep 1/5/14 - UIScrollviews, Alertcontrollers (Actionsheets and Alertviews in iOS 7 and below)](https://docs.google.com/presentation/d/1CTjnim4Hh1UsrjCzoUUALtbUcZ9onTk0tTPpGLzJ7Zw/edit?usp=sharing)
 * [videos - LocalChat parts 17-21 - Icon, Display name UI and Privacy](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
