@@ -5,14 +5,17 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 15 - Message UI framework and MFMailComposer 
+* [Slides 1/13/15 - Message UI framework and MFMailComposer](https://docs.google.com/presentation/d/1bRwV-naiuhZM6ANbhIN-DfggI-g6SICEtTIBkzJ2ta4/edit?usp=sharing)
+
 ####Class 14 - Camera, accessing the media library
-* [Prep 1/8/15 - Camera, accessing the media library](https://docs.google.com/presentation/d/1GQ-c94ighDwG4vuLBD2dX5t6Asrpqi3Fcswnxl6RumE/edit?usp=sharing)
+* [Slides 1/8/15 - Camera, accessing the media library](https://docs.google.com/presentation/d/1GQ-c94ighDwG4vuLBD2dX5t6Asrpqi3Fcswnxl6RumE/edit?usp=sharing)
 * [Images+ screen flow and block diagram](https://docs.google.com/presentation/d/1_YxhHVY6jdrYbLNK9UU-BCZgLy9Rgb1sTpZOVOSKGs8/edit?usp=sharing)
 * [Image+ github](https://github.com/portlandcodeschool/ImagePlus.git)
 
 ####Class 13 - UIScrollViews, AlertControllers (ActionSheets and AlertViews in iOS 7 and below)
 * [Scrollview and Alerts example project on github](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
-* [Prep 1/5/15 - UIScrollviews, Alertcontrollers (Actionsheets and Alertviews in iOS 7 and below)](https://docs.google.com/presentation/d/1CTjnim4Hh1UsrjCzoUUALtbUcZ9onTk0tTPpGLzJ7Zw/edit?usp=sharing)
+* [Slides 1/5/15 - UIScrollviews, Alertcontrollers (Actionsheets and Alertviews in iOS 7 and below)](https://docs.google.com/presentation/d/1CTjnim4Hh1UsrjCzoUUALtbUcZ9onTk0tTPpGLzJ7Zw/edit?usp=sharing)
 * [videos - LocalChat parts 17-21 - Icon, Display name UI and Privacy](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 * [LocalChat github](https://github.com/portlandcodeschool/LocalChat)
 * [Iconfinder - Great place to find premade icons quickly](https://www.iconfinder.com)
@@ -24,7 +27,7 @@ tags: [reference]
 
 
 ####Class 11
-* [Prep 12/15/14 - Gesture recognizers and custom UIViews](https://docs.google.com/presentation/d/1Ya4E4KylREhoC7Y5C2so16ZULF0Jo1NQv0R1zp9S1Bo/edit?usp=sharing)
+* [Slides 12/15/14 - Gesture recognizers and custom UIViews](https://docs.google.com/presentation/d/1Ya4E4KylREhoC7Y5C2so16ZULF0Jo1NQv0R1zp9S1Bo/edit?usp=sharing)
 * [Videos - LocalChat Parts 13-16 - sending and recieving text](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
 
 
