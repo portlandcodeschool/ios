@@ -198,7 +198,7 @@ tags: [schedule]
 
 
 ## Class 13. UIScrollViews, AlertControllers (ActionSheets and AlertViews in iOS 7 and below) 
-**5 Jan 2014**
+**5 Jan 2015**
 
   * Plan
     * Using UIScrollViews
@@ -212,7 +212,7 @@ tags: [schedule]
 
 
 ## Class 14. Camera, accessing the media library 
-**8 Jan 2014**
+**8 Jan 2015**
 
   * Plans
     * Accessing the device camera
@@ -225,7 +225,7 @@ tags: [schedule]
 
 
 ## Class 15. MessageUI and MFMailComposer (sending email from an app) 
-**12 Jan 2014**
+**12 Jan 2015**
 
   * Plans
     * Introduction to the MessageUI framework
@@ -239,7 +239,7 @@ tags: [schedule]
 
 
 ## Class 16. Creating your own delegate methods
-**15 Jan 2014**
+**15 Jan 2015**
 
   * Plans
     * Creating delegate methods and callbacks
@@ -248,7 +248,7 @@ tags: [schedule]
 
 
 ## Class 17. Core location, core motion, mapkit  
-**19 Jan 2014**
+**19 Jan 2015**
 
   * Plans
     * Using Core location
@@ -270,6 +270,8 @@ tags: [schedule]
   * Expectations
     * Be able to communicate with a web server that utilizes JSON
 
+## Saturday Class
+**24 Jan 2015**
 
 ## Class 19. Sharing to Social media (Facebook) 
 **26 Jan 2015**
