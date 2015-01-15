@@ -29,6 +29,7 @@ tags: [curriculum]
 # Videos
 * [Course example videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIadWEtZ3BPb1phcUU&usp=sharing)
 * [LocalChat project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMklKTndhc1phTVE&usp=sharing)
+* [Images+ project videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIaSUZTQm1mQ25tNVU&usp=sharing)
 
 # iOS device information
 * [The Ultimate Guide To iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) 
@@ -37,6 +38,7 @@ tags: [curriculum]
 
 ## Projects
 * [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
+* [Images+ project](https://github.com/portlandcodeschool/ImagePlus)
 
 ## Misc.
 * [Simple custom (subclassed) UIView in code](https://github.com/portlandcodeschool/SimpleCustomView_iOS)
