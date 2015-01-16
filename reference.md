@@ -7,6 +7,7 @@ tags: [reference]
 ---
 ####Class 16 - Creating your own delegates
 * [Slides 1/15/15 - Creating delegates](https://docs.google.com/presentation/d/12rtvvIFq3qePViyVErbZoxcy-Uvb5hED_tqCsYnQgL0/edit?usp=sharing)
+* [DelegateExample github](https://github.com/portlandcodeschool/DelegateExample_iOS)
 
 ####Class 15 - Message UI framework and MFMailComposer 
 * [Slides 1/13/15 - Message UI framework and MFMailComposer](https://docs.google.com/presentation/d/1bRwV-naiuhZM6ANbhIN-DfggI-g6SICEtTIBkzJ2ta4/edit?usp=sharing)
