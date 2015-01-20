@@ -39,7 +39,7 @@ tags: [curriculum]
 ## Projects
 * [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
 * [Images+ project](https://github.com/portlandcodeschool/ImagePlus)
-* [MapsAndPlaces](https://github.com/portlandcodeschool/MapExample_iOS)
+* [MapsAndPlaces Project](https://github.com/portlandcodeschool/MapExample_iOS)
 
 ## Misc.
 * [Simple custom (subclassed) UIView in code](https://github.com/portlandcodeschool/SimpleCustomView_iOS)
@@ -47,6 +47,8 @@ tags: [curriculum]
 * [Collectionview in Storyboard](https://github.com/portlandcodeschool/CollectionViewStoryboard_iOS)
 * [Tabbed application in Storyboard](https://github.com/portlandcodeschool/TabbedApplication_ios)
 * [Tableview example in Storyboard](https://github.com/portlandcodeschool/TableViewExample-iOS)
+* [Scrollview and Alerts](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
+* [DelegateExample](https://github.com/portlandcodeschool/MapExample_iOS)
 
 # Distribution
 * [iTunes connect](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa)
