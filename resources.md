@@ -39,7 +39,7 @@ tags: [curriculum]
 ## Projects
 * [LocalChat Project](https://github.com/portlandcodeschool/LocalChat)
 * [Images+ project](https://github.com/portlandcodeschool/ImagePlus)
-* [Map Example](https://github.com/portlandcodeschool/MapExample_iOS)
+* [MapsAndPlaces](https://github.com/portlandcodeschool/MapExample_iOS)
 
 ## Misc.
 * [Simple custom (subclassed) UIView in code](https://github.com/portlandcodeschool/SimpleCustomView_iOS)
