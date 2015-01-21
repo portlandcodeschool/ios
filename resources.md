@@ -23,8 +23,8 @@ tags: [curriculum]
 * [Learn X in Y](http://learnxinyminutes.com/docs/objective-c/)
 
 # Objective-C style guides
-* [Objective-c style guide](https://github.com/raywenderlich/objective-c-style-guide)
-* [NYTimes Objective-c style guide](https://github.com/NYTimes/objective-c-style-guide)
+* [Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide)
+* [NYTimes Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide)
 
 # Videos
 * [Course example videos](https://drive.google.com/folderview?id=0B1jxDrjd4WIadWEtZ3BPb1phcUU&usp=sharing)
