@@ -8,6 +8,7 @@ tags: [reference]
 ####Class 17 - Mapkit, CoreLocation and overview of CoreMotion
 * [Slides 1/19/15 - Mapkit, CoreLocation and overview of CoreMotion](https://docs.google.com/presentation/d/1qFJEt1R49cNzJJLjud6d7Ghbw8O1FZZz0k-aogHTKj4/edit?usp=sharing)
 * [MapExample github](https://github.com/portlandcodeschool/MapExample_iOS)
+* [MapExample videos 1-4](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMTFFeDFELWRJUms&usp=sharing)
 
 ####Class 16 - Creating your own delegates
 * [Slides 1/15/15 - Creating delegates](https://docs.google.com/presentation/d/12rtvvIFq3qePViyVErbZoxcy-Uvb5hED_tqCsYnQgL0/edit?usp=sharing)
