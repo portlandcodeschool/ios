@@ -7,6 +7,7 @@ tags: [reference]
 ---
 ####Class 18 - Networking with NSURL, NSURLRequest and NSURLSession
 * [Slides 1/22/15 - Networking with NSURL, NSURLRequest and NSURLSession](https://docs.google.com/presentation/d/1xZQq5UZ0b_Vtzr1Qu17iM0-pYC8oftpYnf9qeTY5Phk/edit?usp=sharing)
+* [Renaming a project in XCode 6](https://docs.google.com/presentation/d/12ZwkR3INOMYVghHTPtboMwEYaYaYfOfq04s4jveiiXY/edit?usp=sharing)
 
 ####Class 17 - Mapkit, CoreLocation and overview of CoreMotion
 * [Slides 1/19/15 - Mapkit, CoreLocation and overview of CoreMotion](https://docs.google.com/presentation/d/1qFJEt1R49cNzJJLjud6d7Ghbw8O1FZZz0k-aogHTKj4/edit?usp=sharing)
