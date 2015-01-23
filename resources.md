@@ -16,7 +16,7 @@ tags: [curriculum]
 # Xcode
 * [Using Github with Xcode](https://docs.google.com/presentation/d/1MK65mG0SV4JLt9PmfcZYO7tFz_2dQMgcughcQDggaFc/edit?usp=sharing)
 * [Videos - Create new Xcode Project with github, push, pull and cloning an existing repo into Xcode](https://drive.google.com/folderview?id=0B1jxDrjd4WIaWEJXTG43Y2N3Z3M&usp=sharing)
-
+* [Renaming a project in XCode 6](https://docs.google.com/presentation/d/12ZwkR3INOMYVghHTPtboMwEYaYaYfOfq04s4jveiiXY/edit?usp=sharing)
 
 # Objective-C
 * [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
