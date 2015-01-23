@@ -5,7 +5,7 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
-###Class 18 - Networking with NSURL, NSURLRequest and NSURLSession
+####Class 18 - Networking with NSURL, NSURLRequest and NSURLSession
 * [Slides 1/22/15 - Networking with NSURL, NSURLRequest and NSURLSession](https://docs.google.com/presentation/d/1xZQq5UZ0b_Vtzr1Qu17iM0-pYC8oftpYnf9qeTY5Phk/edit?usp=sharing)
 
 ####Class 17 - Mapkit, CoreLocation and overview of CoreMotion
