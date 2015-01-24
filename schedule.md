@@ -281,10 +281,20 @@ tags: [schedule]
     * A look at other sharing API's (Twitter, etc)
   * Expectations
     * Do a simple share to Facebook
+ 
 
-
-## Class 20. UIDynamics and other fun stuff 
+## Class 20. UIActivity sharing 
 **29 Jan 2015**
+
+  * Plans
+    * Understanding UIActivity sharing
+    * Utilizing the Activity sharing options available
+  * Expectations
+    * Add functional Activity sharing 
+
+
+## Class 21. UIDynamics and other fun stuff 
+**2 Feb 2015**
 
   * Plan
     * What is UIDynamics
@@ -294,8 +304,8 @@ tags: [schedule]
     * Understand the various animation capabilites available
 
 
-## Class 21. MultiThreading (GCD, NSOperation Queues) 
-**2 Feb 2015**
+## Class 22. MultiThreading (GCD, NSOperation Queues) 
+**5 Feb 2015**
 
   * Plan
     * What is GCD
@@ -309,16 +319,6 @@ tags: [schedule]
     * Explain why Multithreading is useful
     * Explain most common memory issues
     * Explain issues/bugs that can happen from async code
-
-
-## Class 22. UIActivity sharing 
-**5 Feb 2015**
-
-  * Plans
-    * Understanding UIActivity sharing
-    * Utilizing the Activity sharing options available
-  * Expectations
-    * Add functional Activity sharing 
 
 
 ## Class 23. Local file system, saving/loading data 
