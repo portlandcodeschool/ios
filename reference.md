@@ -5,6 +5,10 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 19 - Sharing with the Facebook SDK
+* [Slides 1/26/15 - Sharing with Facebook](https://docs.google.com/presentation/d/1cYBWSU0YmSMzZnj2GKqctKa1_aXOloEmb8rnrBYI_v0/edit?usp=sharing)
+* [New MapExample screens layout](https://docs.google.com/presentation/d/19w_2_ptSX6QNCddSAnXQpU02miYfnv-8lMl4ksraj8M/edit?usp=sharing)
+
 ####Class 18 - Networking with NSURL, NSURLRequest and NSURLSession
 * [Slides 1/22/15 - Networking with NSURL, NSURLRequest and NSURLSession](https://docs.google.com/presentation/d/1xZQq5UZ0b_Vtzr1Qu17iM0-pYC8oftpYnf9qeTY5Phk/edit?usp=sharing)
 * [Renaming a project in XCode 6](https://docs.google.com/presentation/d/12ZwkR3INOMYVghHTPtboMwEYaYaYfOfq04s4jveiiXY/edit?usp=sharing)
