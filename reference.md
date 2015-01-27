@@ -9,6 +9,7 @@ tags: [reference]
 * [Slides 1/26/15 - Sharing with Facebook](https://docs.google.com/presentation/d/1cYBWSU0YmSMzZnj2GKqctKa1_aXOloEmb8rnrBYI_v0/edit?usp=sharing)
 * [New MapExample screens layout](https://docs.google.com/presentation/d/19w_2_ptSX6QNCddSAnXQpU02miYfnv-8lMl4ksraj8M/edit?usp=sharing)
 * [MapExample functional flow layout](https://drive.google.com/file/d/0B1jxDrjd4WIaaGdJS0gxc0ExVkk/view?usp=sharing)
+* [MapExample videos 7-12](https://drive.google.com/folderview?id=0B1jxDrjd4WIaMTFFeDFELWRJUms&usp=sharing)
 
 ####Class 18 - Networking with NSURL, NSURLRequest and NSURLSession
 * [Slides 1/22/15 - Networking with NSURL, NSURLRequest and NSURLSession](https://docs.google.com/presentation/d/1xZQq5UZ0b_Vtzr1Qu17iM0-pYC8oftpYnf9qeTY5Phk/edit?usp=sharing)
