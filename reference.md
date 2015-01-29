@@ -5,6 +5,10 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 20 - UIActivity sharing and UIActivityViewController
+* [Slides 1/29/15 - UIActivity sharing and UIActivityViewController](https://docs.google.com/presentation/d/1zKRI_CCkDWPSbXgtmBjJQLKyoKgvtBIyRQ16Lt-DjNA/edit?usp=sharing)
+
+
 ####Class 19 - Sharing with the Facebook SDK
 * [Slides 1/26/15 - Sharing with Facebook](https://docs.google.com/presentation/d/1cYBWSU0YmSMzZnj2GKqctKa1_aXOloEmb8rnrBYI_v0/edit?usp=sharing)
 * [New MapExample screens layout](https://docs.google.com/presentation/d/19w_2_ptSX6QNCddSAnXQpU02miYfnv-8lMl4ksraj8M/edit?usp=sharing)
