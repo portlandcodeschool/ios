@@ -5,6 +5,10 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 21 - UIKit Dynamics and Motion effects
+* [Slides 2/2/15 - UIKit Dynamics and Motion effects](https://docs.google.com/a/portlandcodeschool.com/presentation/d/14EZcZwFW_2e8p_xw11CmZzEiIwzcD4X_W0CxVASXm3M/edit?usp=sharing)
+
+
 ####Class 20 - UIActivity sharing and UIActivityViewController
 * [Slides 1/29/15 - UIActivity sharing and UIActivityViewController](https://docs.google.com/presentation/d/1zKRI_CCkDWPSbXgtmBjJQLKyoKgvtBIyRQ16Lt-DjNA/edit?usp=sharing)
 
