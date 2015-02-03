@@ -7,6 +7,7 @@ tags: [reference]
 ---
 ####Class 21 - UIKit Dynamics and Motion effects
 * [Slides 2/2/15 - UIKit Dynamics and Motion effects](https://docs.google.com/presentation/d/14EZcZwFW_2e8p_xw11CmZzEiIwzcD4X_W0CxVASXm3M/edit?usp=sharing)
+* [DynamicsAndMotion example on github](https://github.com/portlandcodeschool/DynamicsAndMotion_iOS)
 
 
 ####Class 20 - UIActivity sharing and UIActivityViewController
