@@ -11,6 +11,7 @@ tags: [reference]
 
 ####Class 20 - UIActivity sharing and UIActivityViewController
 * [Slides 1/29/15 - UIActivity sharing and UIActivityViewController](https://docs.google.com/presentation/d/1zKRI_CCkDWPSbXgtmBjJQLKyoKgvtBIyRQ16Lt-DjNA/edit?usp=sharing)
+* [Images+ github updated to use UIActivityViewController](https://github.com/portlandcodeschool/ImagePlus)
 
 
 ####Class 19 - Sharing with the Facebook SDK
