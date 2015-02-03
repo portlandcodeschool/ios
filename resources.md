@@ -50,6 +50,7 @@ tags: [curriculum]
 * [Tableview example in Storyboard](https://github.com/portlandcodeschool/TableViewExample-iOS)
 * [Scrollview and Alerts](https://github.com/portlandcodeschool/ScrollviewAndAlerts)
 * [DelegateExample](https://github.com/portlandcodeschool/MapExample_iOS)
+* [DynamicsAndMotion example](https://github.com/portlandcodeschool/DynamicsAndMotion_iOS)
 
 # Distribution
 * [iTunes connect](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa)
