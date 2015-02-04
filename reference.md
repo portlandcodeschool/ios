@@ -8,13 +8,14 @@ tags: [reference]
 ####Class 21 - UIKit Dynamics and Motion effects
 * [Slides 2/2/15 - UIKit Dynamics and Motion effects](https://docs.google.com/presentation/d/14EZcZwFW_2e8p_xw11CmZzEiIwzcD4X_W0CxVASXm3M/edit?usp=sharing)
 * [DynamicsAndMotion example on github](https://github.com/portlandcodeschool/DynamicsAndMotion_iOS)
-
+* [DynamicsAndMotion video part 1](https://drive.google.com/file/d/0B1jxDrjd4WIaZkZnTW9lNUNIYlE/view?usp=sharing)
+* [DynamicsAndMotion video part 2](https://drive.google.com/file/d/0B1jxDrjd4WIaREhONnpEX0Z4dkU/view?usp=sharing)
+* [DynamicsAndMotion video part 3](https://drive.google.com/file/d/0B1jxDrjd4WIacHlnYXpmRDBNRTg/view?usp=sharing)
 
 ####Class 20 - UIActivity sharing and UIActivityViewController
 * [Slides 1/29/15 - UIActivity sharing and UIActivityViewController](https://docs.google.com/presentation/d/1zKRI_CCkDWPSbXgtmBjJQLKyoKgvtBIyRQ16Lt-DjNA/edit?usp=sharing)
 * [Images+ github updated to use UIActivityViewController](https://github.com/portlandcodeschool/ImagePlus)
 * [Images+ video part 7 - Updating to UIActivityViewController](https://drive.google.com/folderview?id=0B1jxDrjd4WIaSUZTQm1mQ25tNVU&usp=sharing)
-
 
 ####Class 19 - Sharing with the Facebook SDK
 * [Slides 1/26/15 - Sharing with Facebook](https://docs.google.com/presentation/d/1cYBWSU0YmSMzZnj2GKqctKa1_aXOloEmb8rnrBYI_v0/edit?usp=sharing)
@@ -37,7 +38,7 @@ tags: [reference]
 * [DelegateExample github](https://github.com/portlandcodeschool/DelegateExample_iOS)
 * [Video DelegateExample part 1](https://drive.google.com/file/d/0B1jxDrjd4WIaM0twamtiR2RlMFU/view?usp=sharing)
 * [Video DelegateExample part 2](https://drive.google.com/file/d/0B1jxDrjd4WIaM01IMjNnTXZrVk0/view?usp=sharing)
-* [Video DelegateExample part 2](https://drive.google.com/file/d/0B1jxDrjd4WIaNFlTUU9Eakd1ckU/view?usp=sharing)
+* [Video DelegateExample part 3](https://drive.google.com/file/d/0B1jxDrjd4WIaNFlTUU9Eakd1ckU/view?usp=sharing)
 
 ####Class 15 - Message UI framework and MFMailComposer 
 * [Slides 1/13/15 - Message UI framework and MFMailComposer](https://docs.google.com/presentation/d/1bRwV-naiuhZM6ANbhIN-DfggI-g6SICEtTIBkzJ2ta4/edit?usp=sharing)
