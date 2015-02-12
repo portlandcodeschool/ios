@@ -5,6 +5,16 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 24 - Core Data - Intro and initial setup
+*[Slides 2/12/15 - Core Data](https://docs.google.com/presentation/d/1zHzYFhsSDKh-_hyp_ktLsqmqiyL-gDOuxOyaFdynOHs/edit?usp=sharing)
+
+####Class 23 - Local file system, saving/loading data
+* [Slides - Local file system](https://docs.google.com/presentation/d/1zHzYFhsSDKh-_hyp_ktLsqmqiyL-gDOuxOyaFdynOHs/edit?usp=sharing)
+* [File system basics](https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)
+
+####Class 22 - MultiThreading (GCD, NSOperation Queues)
+* Makeup class TBD
+
 ####Class 21 - UIKit Dynamics and Motion effects
 * [Slides 2/2/15 - UIKit Dynamics and Motion effects](https://docs.google.com/presentation/d/14EZcZwFW_2e8p_xw11CmZzEiIwzcD4X_W0CxVASXm3M/edit?usp=sharing)
 * [DynamicsAndMotion example on github](https://github.com/portlandcodeschool/DynamicsAndMotion_iOS)
