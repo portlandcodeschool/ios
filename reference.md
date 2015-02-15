@@ -14,7 +14,8 @@ tags: [reference]
 * [File system basics](https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)
 
 ####Class 22 - MultiThreading (GCD, NSOperation Queues)
-* Makeup class TBD
+* [Slides 2/15/25 - Multithreading options](https://docs.google.com/presentation/d/1eKxh3wPP8rmBUVvp2fJC4Uh6xHh99QuOHhqYI73zP7Q/edit?usp=sharing)
+* [MultithreadingOptionsExample on github](https://github.com/portlandcodeschool/MultiThreadingExamples)
 
 ####Class 21 - UIKit Dynamics and Motion effects
 * [Slides 2/2/15 - UIKit Dynamics and Motion effects](https://docs.google.com/presentation/d/14EZcZwFW_2e8p_xw11CmZzEiIwzcD4X_W0CxVASXm3M/edit?usp=sharing)
