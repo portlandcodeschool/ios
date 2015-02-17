@@ -7,6 +7,7 @@ tags: [reference]
 ---
 ####Class 25 - Core Data (cont.)
 * [Slides 2/16/15 - New projects/adding to existing project. Modifying/deleting objects and relationships](https://docs.google.com/presentation/d/1PZmDKmrpjLIAXs0ke9fSCVhnaWIsU-N26zTuHbhmMn0/edit?usp=sharing)
+* [Core Data example 2 on github](https://github.com/portlandcodeschool/CoreDataExample2_iOS)
 
 ####Class 24 - Core Data - Intro and initial setup
 * [Slides 2/12/15 - Core Data](https://docs.google.com/presentation/d/1zHzYFhsSDKh-_hyp_ktLsqmqiyL-gDOuxOyaFdynOHs/edit?usp=sharing)
