@@ -5,6 +5,9 @@ title: Class Reference
 tagline: Mobile Development with iOS
 tags: [reference]
 ---
+####Class 27 - In App purchasing 
+* [Slides 2/23/16 - In App purchasing](https://docs.google.com/presentation/d/17CFaPefrmjaiYPstAGsNzR3QlX-uIw8V_O1TGtd0_KM/edit?usp=sharing)
+
 ####Class 26 - Loose ends in CoreData, sort descriptors, Fethced Properties and more.
 * [Slides 2/19/15 - Loose ends in CoreData + misc.](https://docs.google.com/presentation/d/15ZuxCPsYQc-9QmNsin4ZN4WAxSGuey3FxyR32dXN71A/edit?usp=sharing)
 
